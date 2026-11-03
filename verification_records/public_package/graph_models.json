@@ -1,0 +1,613 @@
+{
+  "all_pass": true,
+  "degrees": 101,
+  "actual_generators": 676306,
+  "records": [
+    {
+      "degree": 27,
+      "graphs": 519,
+      "actual_generators": 8446,
+      "all_pass": true
+    },
+    {
+      "degree": 28,
+      "graphs": 624,
+      "actual_generators": 10481,
+      "all_pass": true
+    },
+    {
+      "degree": 29,
+      "graphs": 765,
+      "actual_generators": 13236,
+      "all_pass": true
+    },
+    {
+      "degree": 30,
+      "graphs": 927,
+      "actual_generators": 16462,
+      "all_pass": true
+    },
+    {
+      "degree": 31,
+      "graphs": 1123,
+      "actual_generators": 20573,
+      "all_pass": true
+    },
+    {
+      "degree": 32,
+      "graphs": 1347,
+      "actual_generators": 25233,
+      "all_pass": true
+    },
+    {
+      "degree": 33,
+      "graphs": 1632,
+      "actual_generators": 31423,
+      "all_pass": true
+    },
+    {
+      "degree": 34,
+      "graphs": 1950,
+      "actual_generators": 38373,
+      "all_pass": true
+    },
+    {
+      "degree": 35,
+      "graphs": 2349,
+      "actual_generators": 47513,
+      "all_pass": true
+    },
+    {
+      "degree": 36,
+      "graphs": 2800,
+      "actual_generators": 57854,
+      "all_pass": true
+    },
+    {
+      "degree": 37,
+      "graphs": 3362,
+      "actual_generators": 71026,
+      "all_pass": true
+    },
+    {
+      "degree": 38,
+      "graphs": 3996,
+      "actual_generators": 86185,
+      "all_pass": true
+    },
+    {
+      "degree": 39,
+      "graphs": 4775,
+      "actual_generators": 105378,
+      "all_pass": true
+    },
+    {
+      "degree": 40,
+      "graphs": 122,
+      "actual_generators": 2191,
+      "all_pass": true
+    },
+    {
+      "degree": 41,
+      "graphs": 81,
+      "actual_generators": 1453,
+      "all_pass": true
+    },
+    {
+      "degree": 42,
+      "graphs": 153,
+      "actual_generators": 3088,
+      "all_pass": true
+    },
+    {
+      "degree": 43,
+      "graphs": 132,
+      "actual_generators": 2659,
+      "all_pass": true
+    },
+    {
+      "degree": 44,
+      "graphs": 200,
+      "actual_generators": 4238,
+      "all_pass": true
+    },
+    {
+      "degree": 45,
+      "graphs": 123,
+      "actual_generators": 2250,
+      "all_pass": true
+    },
+    {
+      "degree": 46,
+      "graphs": 151,
+      "actual_generators": 2874,
+      "all_pass": true
+    },
+    {
+      "degree": 47,
+      "graphs": 157,
+      "actual_generators": 3211,
+      "all_pass": true
+    },
+    {
+      "degree": 48,
+      "graphs": 254,
+      "actual_generators": 4992,
+      "all_pass": true
+    },
+    {
+      "degree": 49,
+      "graphs": 170,
+      "actual_generators": 3583,
+      "all_pass": true
+    },
+    {
+      "degree": 50,
+      "graphs": 267,
+      "actual_generators": 5715,
+      "all_pass": true
+    },
+    {
+      "degree": 51,
+      "graphs": 242,
+      "actual_generators": 5112,
+      "all_pass": true
+    },
+    {
+      "degree": 52,
+      "graphs": 332,
+      "actual_generators": 7240,
+      "all_pass": true
+    },
+    {
+      "degree": 53,
+      "graphs": 210,
+      "actual_generators": 4324,
+      "all_pass": true
+    },
+    {
+      "degree": 54,
+      "graphs": 330,
+      "actual_generators": 6990,
+      "all_pass": true
+    },
+    {
+      "degree": 55,
+      "graphs": 325,
+      "actual_generators": 7275,
+      "all_pass": true
+    },
+    {
+      "degree": 56,
+      "graphs": 460,
+      "actual_generators": 9817,
+      "all_pass": true
+    },
+    {
+      "degree": 57,
+      "graphs": 291,
+      "actual_generators": 5614,
+      "all_pass": true
+    },
+    {
+      "degree": 58,
+      "graphs": 491,
+      "actual_generators": 10758,
+      "all_pass": true
+    },
+    {
+      "degree": 59,
+      "graphs": 391,
+      "actual_generators": 7678,
+      "all_pass": true
+    },
+    {
+      "degree": 60,
+      "graphs": 618,
+      "actual_generators": 13167,
+      "all_pass": true
+    },
+    {
+      "degree": 61,
+      "graphs": 246,
+      "actual_generators": 4340,
+      "all_pass": true
+    },
+    {
+      "degree": 62,
+      "graphs": 394,
+      "actual_generators": 7841,
+      "all_pass": true
+    },
+    {
+      "degree": 63,
+      "graphs": 402,
+      "actual_generators": 7869,
+      "all_pass": true
+    },
+    {
+      "degree": 64,
+      "graphs": 42,
+      "actual_generators": 518,
+      "all_pass": true
+    },
+    {
+      "degree": 65,
+      "graphs": 24,
+      "actual_generators": 383,
+      "all_pass": true
+    },
+    {
+      "degree": 66,
+      "graphs": 98,
+      "actual_generators": 1757,
+      "all_pass": true
+    },
+    {
+      "degree": 67,
+      "graphs": 31,
+      "actual_generators": 399,
+      "all_pass": true
+    },
+    {
+      "degree": 68,
+      "graphs": 81,
+      "actual_generators": 1436,
+      "all_pass": true
+    },
+    {
+      "degree": 69,
+      "graphs": 13,
+      "actual_generators": 157,
+      "all_pass": true
+    },
+    {
+      "degree": 70,
+      "graphs": 23,
+      "actual_generators": 341,
+      "all_pass": true
+    },
+    {
+      "degree": 71,
+      "graphs": 10,
+      "actual_generators": 133,
+      "all_pass": true
+    },
+    {
+      "degree": 72,
+      "graphs": 34,
+      "actual_generators": 391,
+      "all_pass": true
+    },
+    {
+      "degree": 73,
+      "graphs": 4,
+      "actual_generators": 39,
+      "all_pass": true
+    },
+    {
+      "degree": 74,
+      "graphs": 38,
+      "actual_generators": 680,
+      "all_pass": true
+    },
+    {
+      "degree": 75,
+      "graphs": 11,
+      "actual_generators": 140,
+      "all_pass": true
+    },
+    {
+      "degree": 76,
+      "graphs": 27,
+      "actual_generators": 463,
+      "all_pass": true
+    },
+    {
+      "degree": 77,
+      "graphs": 2,
+      "actual_generators": 12,
+      "all_pass": true
+    },
+    {
+      "degree": 78,
+      "graphs": 6,
+      "actual_generators": 54,
+      "all_pass": true
+    },
+    {
+      "degree": 79,
+      "graphs": 1,
+      "actual_generators": 3,
+      "all_pass": true
+    },
+    {
+      "degree": 80,
+      "graphs": 17,
+      "actual_generators": 187,
+      "all_pass": true
+    },
+    {
+      "degree": 81,
+      "graphs": 8,
+      "actual_generators": 68,
+      "all_pass": true
+    },
+    {
+      "degree": 82,
+      "graphs": 2,
+      "actual_generators": 11,
+      "all_pass": true
+    },
+    {
+      "degree": 83,
+      "graphs": 1,
+      "actual_generators": 3,
+      "all_pass": true
+    },
+    {
+      "degree": 84,
+      "graphs": 12,
+      "actual_generators": 126,
+      "all_pass": true
+    },
+    {
+      "degree": 85,
+      "graphs": 2,
+      "actual_generators": 12,
+      "all_pass": true
+    },
+    {
+      "degree": 86,
+      "graphs": 2,
+      "actual_generators": 11,
+      "all_pass": true
+    },
+    {
+      "degree": 87,
+      "graphs": 2,
+      "actual_generators": 16,
+      "all_pass": true
+    },
+    {
+      "degree": 88,
+      "graphs": 8,
+      "actual_generators": 70,
+      "all_pass": true
+    },
+    {
+      "degree": 89,
+      "graphs": 1,
+      "actual_generators": 3,
+      "all_pass": true
+    },
+    {
+      "degree": 90,
+      "graphs": 18,
+      "actual_generators": 214,
+      "all_pass": true
+    },
+    {
+      "degree": 91,
+      "graphs": 2,
+      "actual_generators": 12,
+      "all_pass": true
+    },
+    {
+      "degree": 92,
+      "graphs": 3,
+      "actual_generators": 19,
+      "all_pass": true
+    },
+    {
+      "degree": 93,
+      "graphs": 2,
+      "actual_generators": 16,
+      "all_pass": true
+    },
+    {
+      "degree": 94,
+      "graphs": 2,
+      "actual_generators": 11,
+      "all_pass": true
+    },
+    {
+      "degree": 95,
+      "graphs": 2,
+      "actual_generators": 12,
+      "all_pass": true
+    },
+    {
+      "degree": 96,
+      "graphs": 34,
+      "actual_generators": 378,
+      "all_pass": true
+    },
+    {
+      "degree": 97,
+      "graphs": 1,
+      "actual_generators": 3,
+      "all_pass": true
+    },
+    {
+      "degree": 98,
+      "graphs": 5,
+      "actual_generators": 44,
+      "all_pass": true
+    },
+    {
+      "degree": 99,
+      "graphs": 5,
+      "actual_generators": 45,
+      "all_pass": true
+    },
+    {
+      "degree": 100,
+      "graphs": 9,
+      "actual_generators": 90,
+      "all_pass": true
+    },
+    {
+      "degree": 101,
+      "graphs": 1,
+      "actual_generators": 3,
+      "all_pass": true
+    },
+    {
+      "degree": 102,
+      "graphs": 6,
+      "actual_generators": 54,
+      "all_pass": true
+    },
+    {
+      "degree": 103,
+      "graphs": 1,
+      "actual_generators": 3,
+      "all_pass": true
+    },
+    {
+      "degree": 104,
+      "graphs": 8,
+      "actual_generators": 70,
+      "all_pass": true
+    },
+    {
+      "degree": 105,
+      "graphs": 6,
+      "actual_generators": 68,
+      "all_pass": true
+    },
+    {
+      "degree": 106,
+      "graphs": 2,
+      "actual_generators": 11,
+      "all_pass": true
+    },
+    {
+      "degree": 107,
+      "graphs": 1,
+      "actual_generators": 3,
+      "all_pass": true
+    },
+    {
+      "degree": 108,
+      "graphs": 25,
+      "actual_generators": 275,
+      "all_pass": true
+    },
+    {
+      "degree": 109,
+      "graphs": 1,
+      "actual_generators": 3,
+      "all_pass": true
+    },
+    {
+      "degree": 110,
+      "graphs": 6,
+      "actual_generators": 52,
+      "all_pass": true
+    },
+    {
+      "degree": 111,
+      "graphs": 2,
+      "actual_generators": 16,
+      "all_pass": true
+    },
+    {
+      "degree": 112,
+      "graphs": 17,
+      "actual_generators": 185,
+      "all_pass": true
+    },
+    {
+      "degree": 113,
+      "graphs": 1,
+      "actual_generators": 3,
+      "all_pass": true
+    },
+    {
+      "degree": 114,
+      "graphs": 6,
+      "actual_generators": 54,
+      "all_pass": true
+    },
+    {
+      "degree": 115,
+      "graphs": 2,
+      "actual_generators": 12,
+      "all_pass": true
+    },
+    {
+      "degree": 116,
+      "graphs": 3,
+      "actual_generators": 19,
+      "all_pass": true
+    },
+    {
+      "degree": 117,
+      "graphs": 5,
+      "actual_generators": 45,
+      "all_pass": true
+    },
+    {
+      "degree": 118,
+      "graphs": 2,
+      "actual_generators": 11,
+      "all_pass": true
+    },
+    {
+      "degree": 119,
+      "graphs": 2,
+      "actual_generators": 12,
+      "all_pass": true
+    },
+    {
+      "degree": 120,
+      "graphs": 32,
+      "actual_generators": 394,
+      "all_pass": true
+    },
+    {
+      "degree": 121,
+      "graphs": 2,
+      "actual_generators": 10,
+      "all_pass": true
+    },
+    {
+      "degree": 122,
+      "graphs": 2,
+      "actual_generators": 11,
+      "all_pass": true
+    },
+    {
+      "degree": 123,
+      "graphs": 2,
+      "actual_generators": 16,
+      "all_pass": true
+    },
+    {
+      "degree": 124,
+      "graphs": 3,
+      "actual_generators": 19,
+      "all_pass": true
+    },
+    {
+      "degree": 125,
+      "graphs": 4,
+      "actual_generators": 28,
+      "all_pass": true
+    },
+    {
+      "degree": 126,
+      "graphs": 18,
+      "actual_generators": 207,
+      "all_pass": true
+    },
+    {
+      "degree": 127,
+      "graphs": 1,
+      "actual_generators": 3,
+      "all_pass": true
+    }
+  ]
+}

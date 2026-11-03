@@ -1,0 +1,21 @@
+{
+  "degree": 24,
+  "cover_count": 281,
+  "unordered_pair_count": 39621,
+  "all_even_cover_count": 2,
+  "expected_witness_count": 39624,
+  "recorded_witness_count": 39624,
+  "coverage_exact": true,
+  "permutations_and_parities_checked": true,
+  "deterministic_gap_replay_pass": true,
+  "wall_seconds_gap": 126.758,
+  "wall_seconds_total": 127.241,
+  "certificate_sha256": "751e4d9620fc4d25562c01c4a729ea836d79860b3417d737c7b9d0222b0062d4",
+  "explicit_groups_sha256": "8db473bd1827e0a6f387da99e3fd3315c0ef93707b97cf80affccf194e1624a4",
+  "replay_log_sha256": "a9646ad096d9d07d0cb2825dcf09f64936489d5ebc600ecccebb99f876f5595d",
+  "replay_program_sha256": "2cca5428160d636d9d0d296a468f6f30e338cdd4a7e3c05a4185756d8e235fe8",
+  "randomness_used_in_replay": false,
+  "core_sieve_used_in_replay": false,
+  "shared_permutation_pool_size": 0,
+  "gap_returncode": 0
+}

@@ -1,0 +1,51 @@
+{
+  "manuscript_title": "Soluble subgroup pairs in symmetric and alternating groups",
+  "revision_date": "2026-11-03",
+  "manuscript_files_in_this_repository": false,
+  "source": {
+    "filename": "soluble_pairs.tex",
+    "bytes": 64147,
+    "sha256": "a509cecb99de1ccdf148e0eeada2a1f857254df177820a35514876f135bc11b4"
+  },
+  "pdf": {
+    "filename": "soluble_pairs.pdf",
+    "bytes": 452335,
+    "sha256": "d1bde55e2df64bcf9d985cbf038581a7b60687dac18d4ef863ff1dd7e1868947",
+    "pages": 18
+  },
+  "labels": {
+    "main": "1.1",
+    "cover": "2.1",
+    "base": "2.2",
+    "lift": "2.3",
+    "atoms": "3",
+    "affbounds": "3.1",
+    "density": "1",
+    "densbound": "3.2",
+    "core": "4",
+    "conditional": "4.1",
+    "cond": "2",
+    "connected": "5",
+    "Z": "3",
+    "C": "4",
+    "connectedbound": "5.1",
+    "U": "5",
+    "tails": "6",
+    "polynomial": "6.1",
+    "inv2": "6",
+    "invp": "7",
+    "tailsbound": "6.2",
+    "128": "7",
+    "V": "8",
+    "numerical": "7.1",
+    "large": "7.2",
+    "finite": "8",
+    "slots": "9",
+    "finiteprop": "8.1",
+    "counts": "A",
+    "arithmetic": "B",
+    "files": "C"
+  },
+  "theorem": "For every n>=21 and soluble H,K<=S_n, each sign class contains x with H intersect K^x=1.",
+  "revision": "3"
+}

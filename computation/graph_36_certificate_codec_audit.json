@@ -1,0 +1,22 @@
+{
+  "degree": 36,
+  "original_file": "graph_36_certificates.jsonl",
+  "encoded_file": "graph_36_certificates.kc4",
+  "original_bytes": 345961426,
+  "encoded_bytes": 15700186,
+  "original_sha256": "7743bee38b67320adb6438a80b6d7bfdbcf1f83d2d6ddb7d7e81247b839ae4c5",
+  "encoded_sha256": "ef39dfb7bba7dfd6f32728e90f2d6945169456cbe1f8d78a8e3f6932932dbf61",
+  "codec_source_sha256": "6c24e964f77540262c15470da91d48205e99e37471645e456fb80a862ac3f0a3",
+  "lossless_roundtrip": {
+    "degree": 36,
+    "records": 3921400,
+    "reconstructed_jsonl_bytes": 345961426,
+    "reconstructed_jsonl_sha256": "7743bee38b67320adb6438a80b6d7bfdbcf1f83d2d6ddb7d7e81247b839ae4c5",
+    "matches_original_sha256": true,
+    "seconds": 5.444
+  },
+  "all_original_fields_preserved": true,
+  "original_file_retained": true,
+  "total_seconds": 20.326,
+  "scope": "Storage encoding only; the mathematical certificate is unchanged. A decoder reconstructs the exact original JSONL byte stream or the replay queries."
+}

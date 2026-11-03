@@ -1,0 +1,1 @@
+GRAPH_REPLAY_DONE engine=traces degree=31 queries=631126 pass=631126 fail=0 max_vertices=1893 seconds=32.5803 nauty_version=29300

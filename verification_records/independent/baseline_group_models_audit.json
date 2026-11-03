@@ -1,0 +1,222 @@
+{
+  "all_pass": true,
+  "rows": [
+    {
+      "n": 21,
+      "complete_family_cover_count": 255,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 3424,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "0f91b5668f085d4a9f2af8281445eac4d4b107900f18e41af22749ba8645a8d9"
+    },
+    {
+      "n": 22,
+      "complete_family_cover_count": 315,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 4402,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "a0328fba807c89bcdaaf7bfa05e62cc05f2c0d98d869f1948142a07cfffa3eea"
+    },
+    {
+      "n": 23,
+      "complete_family_cover_count": 231,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 3291,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "df0b3d04e1eb3050db846022ace5303f7f075a5ab07514c093c2398f3a0f70f6"
+    },
+    {
+      "n": 24,
+      "complete_family_cover_count": 281,
+      "all_even_covers": 2,
+      "actual_generators_directly_recognized": 4114,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "8db473bd1827e0a6f387da99e3fd3315c0ef93707b97cf80affccf194e1624a4"
+    },
+    {
+      "n": 25,
+      "complete_family_cover_count": 352,
+      "all_even_covers": 2,
+      "actual_generators_directly_recognized": 5371,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "9ddfa681c1b2499d9cd3bb52a252a6bf87882cc95ad0f3b18b3dc51f3d00f9bf"
+    },
+    {
+      "n": 26,
+      "complete_family_cover_count": 424,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 6661,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "39731fb25fb12f4a7e9d82f8e9fdd922b76982f9c9e3e094d4ede3e01c4684fc"
+    },
+    {
+      "n": 27,
+      "complete_family_cover_count": 519,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 8446,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "2e94dea5b0d0619f1b3183c602458e6e4dbf498ae64815c41dba771cd8ac4355"
+    },
+    {
+      "n": 28,
+      "complete_family_cover_count": 624,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 10481,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "d90bfd02fce9d71361ae478c6758ab71c0b5514a3ad1d6179fdb7881438a4887"
+    },
+    {
+      "n": 29,
+      "complete_family_cover_count": 765,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 13236,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "b24039fce3cea09e453b0bcbf1ba28a0e0b684582760b96f081b744abb37168f"
+    },
+    {
+      "n": 30,
+      "complete_family_cover_count": 927,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 16462,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "6c85f87e1536eefbe06214cbedb492717a3cc32c1224c83c8e654b464f242798"
+    },
+    {
+      "n": 31,
+      "complete_family_cover_count": 1123,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 20573,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "e32811da21502702cc27583c70a2a51e8f8db2e233af96bd66e40af7f0f47ee9"
+    },
+    {
+      "n": 32,
+      "complete_family_cover_count": 1347,
+      "all_even_covers": 4,
+      "actual_generators_directly_recognized": 25233,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "1f89f18d741caa4406ab1b99d22d6b09dde5050b098e0bce42d531250ce05eee"
+    },
+    {
+      "n": 33,
+      "complete_family_cover_count": 1632,
+      "all_even_covers": 4,
+      "actual_generators_directly_recognized": 31423,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "06dfd9aa903f868f1a52fb38acf2a1ec3b87d4a3f963b565d3a003356233c740"
+    },
+    {
+      "n": 34,
+      "complete_family_cover_count": 1950,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 38373,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "69b33354878884591ee893a1a5fa7b2310c5c2203aef32c458f1cfffd4d0698a"
+    },
+    {
+      "n": 35,
+      "complete_family_cover_count": 2349,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 47513,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "c764f0b00c87d671da5b502cd8cf4b5a2360cf5ba017f87424a52994d49ebce8"
+    },
+    {
+      "n": 36,
+      "complete_family_cover_count": 2800,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 57854,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "2ff4ff150cc2fb6a1172824b6506062833810523219d4dd3facca30849f1e948"
+    },
+    {
+      "n": 37,
+      "complete_family_cover_count": 3362,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 71026,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "f0ca57a1250ca4d8b2756a8c9cdadfd149a67381449546f75db2c7395118ead7"
+    },
+    {
+      "n": 38,
+      "complete_family_cover_count": 3996,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 86185,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "57857ea78da10969d9906bc3308c0cc123faec0d919d6d279a272c56c1b11243"
+    },
+    {
+      "n": 39,
+      "complete_family_cover_count": 4775,
+      "all_even_covers": 0,
+      "actual_generators_directly_recognized": 105378,
+      "every_order_formula_matches": true,
+      "every_cover_unique_and_admissible": true,
+      "cardinality_matches_independent_polynomial": true,
+      "current_completed_replay_audit_hash_bound": true,
+      "group_file_sha256": "faef7999352cf0c8bf68291adb5d0f8e710d6b32e42017c2192662ae5d3fdfd3"
+    }
+  ],
+  "actual_generators_recognized": 559446,
+  "method": "Direct affine equations and wreath block recursion; family cardinalities by independent-set polynomials",
+  "no_group_intersections_rerun": true,
+  "group_order_limit": "Actual group-order computations are the retained GAP construction/replay; this file checks generator membership and independently computes the expected orders.",
+  "coordinates_sha256": "6a2762592f488886584ff2b3dd4a611f5b7aa5ca6b2b8a3d5643e79167433bf8",
+  "source_sha256": "fb0fde81334841364a2524bb41f47468c6cd3716a4854aa6fe7082a73f8d69b6",
+  "independent_word_module_sha256": "ddcebbea768c39a65fe528d3091b772a1c9c33e03afcf6508493233984b976c3",
+  "seconds": 27.862486800000624
+}

@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "maximum_edges": 5,
+  "port_matchings_examined": 3447,
+  "method": "Direct enumeration of port bijections; BFS tests connectedness; no formal log used in the direct count.",
+  "all_coefficients": [
+    "1",
+    "0",
+    "1339/120",
+    "81317/2000",
+    "777481/3200",
+    "968070289/720000"
+  ],
+  "connected_coefficients": [
+    "0",
+    "0",
+    "1339/120",
+    "81317/2000",
+    "650551/3600",
+    "6414199/7200"
+  ],
+  "formal_log_agrees_exactly": true
+}

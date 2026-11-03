@@ -1,0 +1,756 @@
+{
+  "all_pass": true,
+  "witnesses": 38972586,
+  "degrees": 107,
+  "records": [
+    {
+      "degree": 21,
+      "covers": 255,
+      "even_covers": 0,
+      "witnesses": 32640,
+      "all_slots_present": true
+    },
+    {
+      "degree": 22,
+      "covers": 315,
+      "even_covers": 0,
+      "witnesses": 49770,
+      "all_slots_present": true
+    },
+    {
+      "degree": 23,
+      "covers": 231,
+      "even_covers": 0,
+      "witnesses": 26796,
+      "all_slots_present": true
+    },
+    {
+      "degree": 24,
+      "covers": 281,
+      "even_covers": 2,
+      "witnesses": 39624,
+      "all_slots_present": true
+    },
+    {
+      "degree": 25,
+      "covers": 352,
+      "even_covers": 2,
+      "witnesses": 62131,
+      "all_slots_present": true
+    },
+    {
+      "degree": 26,
+      "covers": 424,
+      "even_covers": 0,
+      "witnesses": 90100,
+      "all_slots_present": true
+    },
+    {
+      "degree": 27,
+      "covers": 519,
+      "even_covers": 0,
+      "witnesses": 134940,
+      "all_slots_present": true
+    },
+    {
+      "degree": 28,
+      "covers": 624,
+      "even_covers": 0,
+      "witnesses": 195000,
+      "all_slots_present": true
+    },
+    {
+      "degree": 29,
+      "covers": 765,
+      "even_covers": 0,
+      "witnesses": 292995,
+      "all_slots_present": true
+    },
+    {
+      "degree": 30,
+      "covers": 927,
+      "even_covers": 0,
+      "witnesses": 430128,
+      "all_slots_present": true
+    },
+    {
+      "degree": 31,
+      "covers": 1123,
+      "even_covers": 0,
+      "witnesses": 631126,
+      "all_slots_present": true
+    },
+    {
+      "degree": 32,
+      "covers": 1347,
+      "even_covers": 4,
+      "witnesses": 907888,
+      "all_slots_present": true
+    },
+    {
+      "degree": 33,
+      "covers": 1632,
+      "even_covers": 4,
+      "witnesses": 1332538,
+      "all_slots_present": true
+    },
+    {
+      "degree": 34,
+      "covers": 1950,
+      "even_covers": 0,
+      "witnesses": 1902225,
+      "all_slots_present": true
+    },
+    {
+      "degree": 35,
+      "covers": 2349,
+      "even_covers": 0,
+      "witnesses": 2760075,
+      "all_slots_present": true
+    },
+    {
+      "degree": 36,
+      "covers": 2800,
+      "even_covers": 0,
+      "witnesses": 3921400,
+      "all_slots_present": true
+    },
+    {
+      "degree": 37,
+      "covers": 3362,
+      "even_covers": 0,
+      "witnesses": 5653203,
+      "all_slots_present": true
+    },
+    {
+      "degree": 38,
+      "covers": 3996,
+      "even_covers": 0,
+      "witnesses": 7986006,
+      "all_slots_present": true
+    },
+    {
+      "degree": 39,
+      "covers": 4775,
+      "even_covers": 0,
+      "witnesses": 11402700,
+      "all_slots_present": true
+    },
+    {
+      "degree": 40,
+      "covers": 122,
+      "even_covers": 3,
+      "witnesses": 7509,
+      "all_slots_present": true
+    },
+    {
+      "degree": 41,
+      "covers": 81,
+      "even_covers": 0,
+      "witnesses": 3321,
+      "all_slots_present": true
+    },
+    {
+      "degree": 42,
+      "covers": 153,
+      "even_covers": 0,
+      "witnesses": 11781,
+      "all_slots_present": true
+    },
+    {
+      "degree": 43,
+      "covers": 132,
+      "even_covers": 0,
+      "witnesses": 8778,
+      "all_slots_present": true
+    },
+    {
+      "degree": 44,
+      "covers": 200,
+      "even_covers": 0,
+      "witnesses": 20100,
+      "all_slots_present": true
+    },
+    {
+      "degree": 45,
+      "covers": 123,
+      "even_covers": 0,
+      "witnesses": 7626,
+      "all_slots_present": true
+    },
+    {
+      "degree": 46,
+      "covers": 151,
+      "even_covers": 0,
+      "witnesses": 11476,
+      "all_slots_present": true
+    },
+    {
+      "degree": 47,
+      "covers": 157,
+      "even_covers": 0,
+      "witnesses": 12403,
+      "all_slots_present": true
+    },
+    {
+      "degree": 48,
+      "covers": 254,
+      "even_covers": 8,
+      "witnesses": 32421,
+      "all_slots_present": true
+    },
+    {
+      "degree": 49,
+      "covers": 170,
+      "even_covers": 0,
+      "witnesses": 14535,
+      "all_slots_present": true
+    },
+    {
+      "degree": 50,
+      "covers": 267,
+      "even_covers": 0,
+      "witnesses": 35778,
+      "all_slots_present": true
+    },
+    {
+      "degree": 51,
+      "covers": 242,
+      "even_covers": 0,
+      "witnesses": 29403,
+      "all_slots_present": true
+    },
+    {
+      "degree": 52,
+      "covers": 332,
+      "even_covers": 0,
+      "witnesses": 55278,
+      "all_slots_present": true
+    },
+    {
+      "degree": 53,
+      "covers": 210,
+      "even_covers": 0,
+      "witnesses": 22155,
+      "all_slots_present": true
+    },
+    {
+      "degree": 54,
+      "covers": 330,
+      "even_covers": 0,
+      "witnesses": 54615,
+      "all_slots_present": true
+    },
+    {
+      "degree": 55,
+      "covers": 325,
+      "even_covers": 0,
+      "witnesses": 52975,
+      "all_slots_present": true
+    },
+    {
+      "degree": 56,
+      "covers": 460,
+      "even_covers": 7,
+      "witnesses": 106058,
+      "all_slots_present": true
+    },
+    {
+      "degree": 57,
+      "covers": 291,
+      "even_covers": 0,
+      "witnesses": 42486,
+      "all_slots_present": true
+    },
+    {
+      "degree": 58,
+      "covers": 491,
+      "even_covers": 0,
+      "witnesses": 120786,
+      "all_slots_present": true
+    },
+    {
+      "degree": 59,
+      "covers": 391,
+      "even_covers": 0,
+      "witnesses": 76636,
+      "all_slots_present": true
+    },
+    {
+      "degree": 60,
+      "covers": 618,
+      "even_covers": 0,
+      "witnesses": 191271,
+      "all_slots_present": true
+    },
+    {
+      "degree": 61,
+      "covers": 246,
+      "even_covers": 0,
+      "witnesses": 30381,
+      "all_slots_present": true
+    },
+    {
+      "degree": 62,
+      "covers": 394,
+      "even_covers": 0,
+      "witnesses": 77815,
+      "all_slots_present": true
+    },
+    {
+      "degree": 63,
+      "covers": 402,
+      "even_covers": 0,
+      "witnesses": 81003,
+      "all_slots_present": true
+    },
+    {
+      "degree": 64,
+      "covers": 42,
+      "even_covers": 6,
+      "witnesses": 924,
+      "all_slots_present": true
+    },
+    {
+      "degree": 65,
+      "covers": 24,
+      "even_covers": 0,
+      "witnesses": 300,
+      "all_slots_present": true
+    },
+    {
+      "degree": 66,
+      "covers": 98,
+      "even_covers": 0,
+      "witnesses": 4851,
+      "all_slots_present": true
+    },
+    {
+      "degree": 67,
+      "covers": 31,
+      "even_covers": 0,
+      "witnesses": 496,
+      "all_slots_present": true
+    },
+    {
+      "degree": 68,
+      "covers": 81,
+      "even_covers": 0,
+      "witnesses": 3321,
+      "all_slots_present": true
+    },
+    {
+      "degree": 69,
+      "covers": 13,
+      "even_covers": 0,
+      "witnesses": 91,
+      "all_slots_present": true
+    },
+    {
+      "degree": 70,
+      "covers": 23,
+      "even_covers": 0,
+      "witnesses": 276,
+      "all_slots_present": true
+    },
+    {
+      "degree": 71,
+      "covers": 10,
+      "even_covers": 0,
+      "witnesses": 55,
+      "all_slots_present": true
+    },
+    {
+      "degree": 72,
+      "covers": 34,
+      "even_covers": 2,
+      "witnesses": 598,
+      "all_slots_present": true
+    },
+    {
+      "degree": 73,
+      "covers": 4,
+      "even_covers": 0,
+      "witnesses": 10,
+      "all_slots_present": true
+    },
+    {
+      "degree": 74,
+      "covers": 38,
+      "even_covers": 0,
+      "witnesses": 741,
+      "all_slots_present": true
+    },
+    {
+      "degree": 75,
+      "covers": 11,
+      "even_covers": 0,
+      "witnesses": 66,
+      "all_slots_present": true
+    },
+    {
+      "degree": 76,
+      "covers": 27,
+      "even_covers": 0,
+      "witnesses": 378,
+      "all_slots_present": true
+    },
+    {
+      "degree": 77,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 78,
+      "covers": 6,
+      "even_covers": 0,
+      "witnesses": 21,
+      "all_slots_present": true
+    },
+    {
+      "degree": 79,
+      "covers": 1,
+      "even_covers": 0,
+      "witnesses": 1,
+      "all_slots_present": true
+    },
+    {
+      "degree": 80,
+      "covers": 17,
+      "even_covers": 3,
+      "witnesses": 159,
+      "all_slots_present": true
+    },
+    {
+      "degree": 81,
+      "covers": 8,
+      "even_covers": 0,
+      "witnesses": 36,
+      "all_slots_present": true
+    },
+    {
+      "degree": 82,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 83,
+      "covers": 1,
+      "even_covers": 0,
+      "witnesses": 1,
+      "all_slots_present": true
+    },
+    {
+      "degree": 84,
+      "covers": 12,
+      "even_covers": 0,
+      "witnesses": 78,
+      "all_slots_present": true
+    },
+    {
+      "degree": 85,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 86,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 87,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 88,
+      "covers": 8,
+      "even_covers": 1,
+      "witnesses": 37,
+      "all_slots_present": true
+    },
+    {
+      "degree": 89,
+      "covers": 1,
+      "even_covers": 0,
+      "witnesses": 1,
+      "all_slots_present": true
+    },
+    {
+      "degree": 90,
+      "covers": 18,
+      "even_covers": 0,
+      "witnesses": 171,
+      "all_slots_present": true
+    },
+    {
+      "degree": 91,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 92,
+      "covers": 3,
+      "even_covers": 0,
+      "witnesses": 6,
+      "all_slots_present": true
+    },
+    {
+      "degree": 93,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 94,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 95,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 96,
+      "covers": 34,
+      "even_covers": 6,
+      "witnesses": 616,
+      "all_slots_present": true
+    },
+    {
+      "degree": 97,
+      "covers": 1,
+      "even_covers": 0,
+      "witnesses": 1,
+      "all_slots_present": true
+    },
+    {
+      "degree": 98,
+      "covers": 5,
+      "even_covers": 0,
+      "witnesses": 15,
+      "all_slots_present": true
+    },
+    {
+      "degree": 99,
+      "covers": 5,
+      "even_covers": 0,
+      "witnesses": 15,
+      "all_slots_present": true
+    },
+    {
+      "degree": 100,
+      "covers": 9,
+      "even_covers": 0,
+      "witnesses": 45,
+      "all_slots_present": true
+    },
+    {
+      "degree": 101,
+      "covers": 1,
+      "even_covers": 0,
+      "witnesses": 1,
+      "all_slots_present": true
+    },
+    {
+      "degree": 102,
+      "covers": 6,
+      "even_covers": 0,
+      "witnesses": 21,
+      "all_slots_present": true
+    },
+    {
+      "degree": 103,
+      "covers": 1,
+      "even_covers": 0,
+      "witnesses": 1,
+      "all_slots_present": true
+    },
+    {
+      "degree": 104,
+      "covers": 8,
+      "even_covers": 1,
+      "witnesses": 37,
+      "all_slots_present": true
+    },
+    {
+      "degree": 105,
+      "covers": 6,
+      "even_covers": 0,
+      "witnesses": 21,
+      "all_slots_present": true
+    },
+    {
+      "degree": 106,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 107,
+      "covers": 1,
+      "even_covers": 0,
+      "witnesses": 1,
+      "all_slots_present": true
+    },
+    {
+      "degree": 108,
+      "covers": 25,
+      "even_covers": 0,
+      "witnesses": 325,
+      "all_slots_present": true
+    },
+    {
+      "degree": 109,
+      "covers": 1,
+      "even_covers": 0,
+      "witnesses": 1,
+      "all_slots_present": true
+    },
+    {
+      "degree": 110,
+      "covers": 6,
+      "even_covers": 0,
+      "witnesses": 21,
+      "all_slots_present": true
+    },
+    {
+      "degree": 111,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 112,
+      "covers": 17,
+      "even_covers": 3,
+      "witnesses": 159,
+      "all_slots_present": true
+    },
+    {
+      "degree": 113,
+      "covers": 1,
+      "even_covers": 0,
+      "witnesses": 1,
+      "all_slots_present": true
+    },
+    {
+      "degree": 114,
+      "covers": 6,
+      "even_covers": 0,
+      "witnesses": 21,
+      "all_slots_present": true
+    },
+    {
+      "degree": 115,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 116,
+      "covers": 3,
+      "even_covers": 0,
+      "witnesses": 6,
+      "all_slots_present": true
+    },
+    {
+      "degree": 117,
+      "covers": 5,
+      "even_covers": 0,
+      "witnesses": 15,
+      "all_slots_present": true
+    },
+    {
+      "degree": 118,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 119,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 120,
+      "covers": 32,
+      "even_covers": 2,
+      "witnesses": 531,
+      "all_slots_present": true
+    },
+    {
+      "degree": 121,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 122,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 123,
+      "covers": 2,
+      "even_covers": 0,
+      "witnesses": 3,
+      "all_slots_present": true
+    },
+    {
+      "degree": 124,
+      "covers": 3,
+      "even_covers": 0,
+      "witnesses": 6,
+      "all_slots_present": true
+    },
+    {
+      "degree": 125,
+      "covers": 4,
+      "even_covers": 0,
+      "witnesses": 10,
+      "all_slots_present": true
+    },
+    {
+      "degree": 126,
+      "covers": 18,
+      "even_covers": 0,
+      "witnesses": 171,
+      "all_slots_present": true
+    },
+    {
+      "degree": 127,
+      "covers": 1,
+      "even_covers": 0,
+      "witnesses": 1,
+      "all_slots_present": true
+    }
+  ]
+}

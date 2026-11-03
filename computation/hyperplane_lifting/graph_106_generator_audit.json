@@ -1,0 +1,23 @@
+{
+  "degree": 106,
+  "groups_checked": 2,
+  "generators_checked": 11,
+  "every_generator_extends_to_graph_automorphism": true,
+  "has_odd_generator": [
+    true,
+    true
+  ],
+  "max_graph_vertices": 5621,
+  "max_graph_edges": 13888,
+  "seconds": 0.745,
+  "template_sha256": "71cf27c0a2f0868f8a23bb17a1632d3475583e723cbc4b9a397b884fcceb4d0e",
+  "coordinates_sha256": "baee9cebf2a1ec8b1ee692bbd33d5a4050c9aa2e937cdc46fcd31fd96379fb12",
+  "explicit_groups_sha256": "cb12894d26d6a160969aa607a06c6d84690e238757284857862abd9f00e2c909",
+  "graph_file_sha256": "239532b7799f27e1cc42f0f005f8e2ba0d002079df1b74fe46db53fd04fd3127",
+  "encoder_sha256": "8fc5d1296415d3b353982225cee86d1000ab6728466faa1c36eaeb6faf2f3307",
+  "original_encoder_source_sha256": "4315584ce15301280f745c61e7711c0042c0c7f64a468b10983b9ba0e1dfa93b",
+  "generator_extension_verifier_sha256": "4315584ce15301280f745c61e7711c0042c0c7f64a468b10983b9ba0e1dfa93b",
+  "prepare_wrapper_source_sha256": "94e049f2c7d54925e535d2bf087353235db33359248d3f2acecf9cc78f9d7678",
+  "new_encoding": "all affine hyperplanes for dimension>=2; original midpoint gadgets in dimension1",
+  "soundness_requirement": "Each full envelope embeds into graph automorphisms on leaves; every generator extension checked exactly."
+}

@@ -1,0 +1,28 @@
+{
+  "all_pass": true,
+  "pool_decodings_checked_for_both_requested_signs": 19898,
+  "graph_degrees": 101,
+  "degree40_target_record": [
+    90,
+    90,
+    -1,
+    1
+  ],
+  "pool_entry_1_sign": 1,
+  "decoded_target_sign": -1,
+  "negative_query_replays": [
+    {
+      "engine": "nauty",
+      "queries": 6,
+      "all_pass": true,
+      "log": "degree40_negative_nauty.log"
+    },
+    {
+      "engine": "traces",
+      "queries": 6,
+      "all_pass": true,
+      "log": "degree40_negative_traces.log"
+    }
+  ],
+  "engine_source_sha256": "d2e6832d87685555cdb0becba6a583e082c7e4cceaf03dbd6e7dda48bc1f74ed"
+}

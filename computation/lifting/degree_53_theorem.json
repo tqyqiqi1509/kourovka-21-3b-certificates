@@ -1,0 +1,125 @@
+{
+  "degree": 53,
+  "q_both_parities_proved": true,
+  "symmetric_and_alternating_statements_proved": true,
+  "method": "faithful-complement lifting for removed covers; entire residual envelope triangle checked by nauty and replayed by Traces",
+  "full_cover_count": 48073,
+  "inherited_cover_count": 47863,
+  "residual_cover_count": 210,
+  "full_unordered_pair_count": 1155530701,
+  "inherited_unordered_pair_count": 1155508546,
+  "exact_residual_unordered_pair_count": 22155,
+  "exact_residual_parity_witness_count": 22155,
+  "dependencies": [
+    {
+      "degree": 39,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_39_replay_audit.json",
+      "sha256": "a7e1fc5b353e0b12e3fed672f56d85a1f8a7f94f457325b5e03b22adef00b397",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 40,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_40_theorem.json",
+      "sha256": "1f246f49b44e6b5a2c1c56a663e5b479f907ed45ddbe995d996e32b99c18f65e",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 41,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_41_theorem.json",
+      "sha256": "f5e660c53957216713c3d5a29b1a0ed74f862ee17314ea354b8837b2304002f6",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 42,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_42_theorem.json",
+      "sha256": "d2af0bd6f903da430c0db0068d2de2409ca507d5839b340ebe04b66e7d94920b",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 43,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_43_theorem.json",
+      "sha256": "6849c9dac4d81bfa5135c31cc969417cbad6839e9674b19c7cd6db36b27ab4c6",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 44,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_44_theorem.json",
+      "sha256": "97b2f2f0b8eba19356b9888d8adc8d8021c9434b0b1c289b8b0a06c800d3a261",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 45,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_45_theorem.json",
+      "sha256": "4aaca045b8bb9310909c203a86e103f84ec20106e0baacafa8426d8b3522d9fb",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 46,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_46_theorem.json",
+      "sha256": "a929c177c19d5e036b4e9b1c7f23defa52f38676407d279b4cc55dc2e9d085e3",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 47,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_47_theorem.json",
+      "sha256": "df5a53fa5f77d14c9214a4059772a873bcbab5b9594bb4d29122180f5a268e21",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 48,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_48_theorem.json",
+      "sha256": "403f157924e77ddb9d3fd74c18c0c1aa6fc59aa3f67be8471bce464912e8c56f",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 49,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_49_theorem.json",
+      "sha256": "20ad4a28dbf1daae149310eac61a141f3eff2b8faa1f0971ab1dcf89f2a87933",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 50,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_50_theorem.json",
+      "sha256": "ce3dccc0c9c6de52e525335d1ae792055fc2098428c122a66404ec183bc1f1ce",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 51,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_51_theorem.json",
+      "sha256": "992a6b68e09101106d1531d8137d8e66178df0c66c1ae5a7d80efe9ff10de770",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 52,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_52_theorem.json",
+      "sha256": "4ce4bb5d60172536849732a2d68ca94ff06bc6119cff23a18547bcd94b343a15",
+      "method": "verified faithful-complement induction"
+    }
+  ],
+  "inheritance_partition_file": "lifting/inheritance_partition_53.json",
+  "inheritance_partition_sha256": "a074d0dd1b10b55d1ad8cc8623634d6f1b2cf9ed06c0df8a4cb466607e224d52",
+  "residual_replay_audit_file": "lifting/graph_53_replay_audit.json",
+  "residual_replay_audit_sha256": "948e93c927a99c36638f2831c437ed88f1f8d3da52db2c3e735c7894ddac9de8",
+  "generator_audit_sha256": "c0165f1e36a585775aa2132cb012fe1154a449876b8e82c527ee2ac95c670d53",
+  "template_sha256": "61f7cea38d957b6f4e1233b1d2616963f4808691a67f8af20790fd96362e4158",
+  "lifting_proof_sha256": "433bee9dcfd580bd09a23412683c1f2c501e3f0b2fca677bfec930703d995b2f",
+  "group_model_source_sha256": "bb33aa821b1c5e1932c19c319bf88b3ed91e322bb1415623b8c19c4935028d84",
+  "group_exporter_source_sha256": "4868790d59a8569b1264f5f5c7e89a18a982a568797e940853a03f19ff8f399f",
+  "induction_verifier_source_sha256": "b7bcbcfaa3413412a69ba14145d9b68287f38d1fdd920b29b7e544ccc9deab11",
+  "all_dependencies_strictly_smaller_and_closed": true
+}

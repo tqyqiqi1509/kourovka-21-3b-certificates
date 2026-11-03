@@ -1,0 +1,627 @@
+{
+  "degree": 104,
+  "q_both_parities_proved": true,
+  "symmetric_and_alternating_statements_proved": true,
+  "method": "faithful-complement small-orbit lifting plus one-sided invariant-large-split lifting; entire residual unpruned affine-envelope triangle uses generator-audited hyperplane graphs, Traces search and nauty full replay",
+  "full_unpruned_family_covered_by_structural_lemma": true,
+  "residual_cover_count": 8,
+  "exact_residual_unordered_pair_count": 36,
+  "exact_residual_parity_witness_count": 37,
+  "dependencies": [
+    {
+      "degree": 21,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "affine_21_replay_audit.json",
+      "sha256": "8853179030be8988f9cce2c465902888749dafb62ab5914165d818a5a0a3afdf",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 22,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "affine_22_replay_audit.json",
+      "sha256": "4ad935e795cfb637350c62b18ef6fb53f8873edecc5613ee3012fcf60bfd4bc4",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 23,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "affine_pruned_23_replay_audit.json",
+      "sha256": "d68c3e3fa6a3472d6039afad9ed0ce14ce0b12168899791d17b9264e89ce6318",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 24,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "affine_pruned_24_replay_audit.json",
+      "sha256": "70bde0e1880d15648d217226d33fe21042722c05699390580116a5a4d04b8e3d",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 25,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "affine_pruned_25_replay_audit.json",
+      "sha256": "3180d4cca457c1b23f24520e2c82b68d72036bf7194cd25850ed90af2e590349",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 26,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "affine_pruned_26_replay_audit.json",
+      "sha256": "d4d6eb1f316f728873a0754faa64ab49d4b8e09a37fcf67d1213668a3040ae21",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 27,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_27_replay_audit.json",
+      "sha256": "1109ccd09d48e3ba72a51ce9799834b0a85bfec8f909bada10cd84ececce8f28",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 28,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_28_replay_audit.json",
+      "sha256": "1254ef319cfde9282bdb5516cad3d40b157d5c23f1a9d78fdf65c6366a149150",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 29,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_29_replay_audit.json",
+      "sha256": "4b153bb8bc8a4d33fb8aa972d783e7b11b1b901a485829b3b82f45b4cef4ff46",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 30,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_30_replay_audit.json",
+      "sha256": "9477754595233d9b9b141f916f709cbceacdae66041eee6bd2e0758c6eb1a41c",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 31,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_31_replay_audit.json",
+      "sha256": "112ad34e952cc8625163b8cd0d0cb79f753495532252c0729b43ca6654d609a2",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 32,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_32_replay_audit.json",
+      "sha256": "511b56faedf84553a135f80a564728d6a717c0068d2946a4aef4c5aded189aa7",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 33,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_33_replay_audit.json",
+      "sha256": "cf7aa6bfc397b19ceb6582c7ccf4aceb6c6c3a3a3edb414140aa254f6ef40cd8",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 34,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_34_replay_audit.json",
+      "sha256": "0dbd497dfc928c8d2c3453b08e802c5ce2a9354d13a6120336d275afd4477da7",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 35,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_35_replay_audit.json",
+      "sha256": "e962be6cd29a0090c2df00be43f893b343a082ae71eb82295b059af427577b44",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 36,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_36_replay_audit.json",
+      "sha256": "ca8a8210963bc67015c20db5f0c1a46b561b9e3eee1d2d85947b084fdccb0cc4",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 37,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_37_replay_audit.json",
+      "sha256": "5964dde5181dcda1327203fc4e72ca4167a4cc71282669fe1ef2e56b4aeacdd2",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 38,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_38_replay_audit.json",
+      "sha256": "6a75d1970879b490de9d51e92f4cfec7eb932c35f4895877da569d8e24459c57",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 39,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_39_replay_audit.json",
+      "sha256": "a7e1fc5b353e0b12e3fed672f56d85a1f8a7f94f457325b5e03b22adef00b397",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 40,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_40_theorem.json",
+      "sha256": "1f246f49b44e6b5a2c1c56a663e5b479f907ed45ddbe995d996e32b99c18f65e",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 41,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_41_theorem.json",
+      "sha256": "f5e660c53957216713c3d5a29b1a0ed74f862ee17314ea354b8837b2304002f6",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 42,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_42_theorem.json",
+      "sha256": "d2af0bd6f903da430c0db0068d2de2409ca507d5839b340ebe04b66e7d94920b",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 43,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_43_theorem.json",
+      "sha256": "6849c9dac4d81bfa5135c31cc969417cbad6839e9674b19c7cd6db36b27ab4c6",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 44,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_44_theorem.json",
+      "sha256": "97b2f2f0b8eba19356b9888d8adc8d8021c9434b0b1c289b8b0a06c800d3a261",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 45,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_45_theorem.json",
+      "sha256": "4aaca045b8bb9310909c203a86e103f84ec20106e0baacafa8426d8b3522d9fb",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 46,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_46_theorem.json",
+      "sha256": "a929c177c19d5e036b4e9b1c7f23defa52f38676407d279b4cc55dc2e9d085e3",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 47,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_47_theorem.json",
+      "sha256": "df5a53fa5f77d14c9214a4059772a873bcbab5b9594bb4d29122180f5a268e21",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 48,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_48_theorem.json",
+      "sha256": "403f157924e77ddb9d3fd74c18c0c1aa6fc59aa3f67be8471bce464912e8c56f",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 49,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_49_theorem.json",
+      "sha256": "20ad4a28dbf1daae149310eac61a141f3eff2b8faa1f0971ab1dcf89f2a87933",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 50,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_50_theorem.json",
+      "sha256": "ce3dccc0c9c6de52e525335d1ae792055fc2098428c122a66404ec183bc1f1ce",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 51,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_51_theorem.json",
+      "sha256": "992a6b68e09101106d1531d8137d8e66178df0c66c1ae5a7d80efe9ff10de770",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 52,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_52_theorem.json",
+      "sha256": "4ce4bb5d60172536849732a2d68ca94ff06bc6119cff23a18547bcd94b343a15",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 53,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_53_theorem.json",
+      "sha256": "53f8a86d2eb87f31a36099e9faae7ff52ef5645840538e4b1ba8104c8708905e",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 54,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_54_theorem.json",
+      "sha256": "100e8eb41875566bb46634ca4a7938278fb739eec4db485acde5451f02a387ad",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 55,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_55_theorem.json",
+      "sha256": "09274faa8aa1f1bfe75ae2de9d1d0320ee9d4d3e0e9c231ea034216246c8e116",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 56,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_56_theorem.json",
+      "sha256": "20bd0144bc7d650f1f889c02ae7eb6d5f31677c7cdfda570642929eb6128721d",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 57,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_57_theorem.json",
+      "sha256": "57b618cab8634450ebc0a92d371f49a7299582d4aa073027e5f4ad314d369691",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 58,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_58_theorem.json",
+      "sha256": "7b604721c8a3dac96110d0bb21266631c6a5092068b61116f3a1654bf302f8e5",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 59,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_59_theorem.json",
+      "sha256": "0c4d2feb3b3e1b8a5b33ddab55a40fc8f97fc0c893fe96885c10ea9c64d8ebb3",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 60,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_60_theorem.json",
+      "sha256": "ea86dc52b9e98a10833b9f7b6e2da8b113eb57449cf979e1d0fc7413ff375991",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 61,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_61_theorem.json",
+      "sha256": "e6e5a70941efe0244f2ce745e82c2da0d360ea7525eca653307e06863e54e1f7",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 62,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_62_theorem.json",
+      "sha256": "1ac6371a7bc3242d28c9fa695908deeb713ce5190b79429b1e0d08133f7e88d4",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 63,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_63_theorem.json",
+      "sha256": "564c8ca07e9d9e7c7d06af5fa370c2f24316ebd320321041bb8c362b7829bb36",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 64,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_64_theorem.json",
+      "sha256": "e5498f17b6f64fea89227a8a261e35bbd6cdcc783b5078dba020a6cba205378b",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 65,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_65_theorem.json",
+      "sha256": "5ca4513c5c55b8238d18895f52637889934d020f8c7699607972b5958f223958",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 66,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_66_theorem.json",
+      "sha256": "dcf1cb53c10ec4577621ed3b0250e47c2e084eb5b2e1a1c775f46a8284fd05c3",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 67,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_67_theorem.json",
+      "sha256": "7a84fef2b199456b0cbd2aada43f7ae800eaaa92fee2bd00d1bdf86e542a1bad",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 68,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_68_theorem.json",
+      "sha256": "25b78d9dddaf3a9dd53083d1517043a77dfb11ee9b359d2cae17de4330ddf354",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 69,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_69_theorem.json",
+      "sha256": "f185d292e26b4112e63561a2d2f2e747dee1e85f7fba427c151d4729c9cbf3af",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 70,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_70_theorem.json",
+      "sha256": "851e8e0beb7ce9ffbd41dcc9e98b2258538fd7ef26bee06aaf57136a3f412cfd",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 71,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_71_theorem.json",
+      "sha256": "dde7ce5a47da0895168d149ae3c3f7b746733b7ad8aba56187e2eca22d15dc03",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 72,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_72_theorem.json",
+      "sha256": "9013e5eeaa6bcdf20446a677df1a6cd847ed4fb34d9324b006815adfcf76ab41",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 73,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_73_theorem.json",
+      "sha256": "58a9861b9c1ceb03e87f5a0a2d456c4c431bf5bc9ecc77b1a42142223db766c3",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 74,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_74_theorem.json",
+      "sha256": "e1ab6573ae71b2e8e99f9ade847bee4665ba80bb755be084fd455dbb778c9842",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 75,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_75_theorem.json",
+      "sha256": "4861b74a9f2e9da1085b5c3bc70f31966351b06e9e9abba6fdd0095183a4a2ef",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 76,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_76_theorem.json",
+      "sha256": "80018b0fac8fd399d40ea3fbca712a6a313b7a54093ece18393cf323992be7f8",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 77,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_77_theorem.json",
+      "sha256": "35132c52b01950d69ca6db75f2f7e6ad17b1e5d68d343af4655f1608cdf4261d",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 78,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_78_theorem.json",
+      "sha256": "62b2db4553e0db24592feed693eeff05c396af8e59bde5959282b31020b69136",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 79,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_79_theorem.json",
+      "sha256": "be44876f745344e29b448b82c08f7e8d69214fe05bc04ed02235b2b582779338",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 80,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_80_theorem.json",
+      "sha256": "8eab3638c9059f6f4ed8450c042ed0256dfddaf281395fa244bceb3bc4109bb1",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 81,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_81_theorem.json",
+      "sha256": "70a06bbf4e791aad2e838f28d53ec0fae9e30cebd11d9cefe4fcc3d1e6d6b040",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 82,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_82_theorem.json",
+      "sha256": "8d9311b6896625e646c97b72e2921dfe16669698ceaf834a87f54e638d27dc04",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 83,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_83_theorem.json",
+      "sha256": "55faf0946652c5630698489cd698c4bf4ca2ba0f233db938934af9fca9e2f38e",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 84,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_84_theorem.json",
+      "sha256": "fce29bb28f61cb05ffca3bdad61a56ab1c166265f058ce8aaae9663634dd3852",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 85,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_85_theorem.json",
+      "sha256": "c2c8a90f69de10a5d8647c5ae4c41d7114f7e071760160bf0f76f76647be89c6",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 86,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_86_theorem.json",
+      "sha256": "13e6ac9b82908bee6ee7b8e611e74cc890f3805104fdb9a5ccf083a5fe3b06bb",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 87,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_87_theorem.json",
+      "sha256": "f23117be353d6f7ef9927b85ba23d6e839d4bd95693d107bc123eb248ec61e12",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 88,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_88_theorem.json",
+      "sha256": "00f0964c9bd651845247fde11670dc26c2e1ae1059b498ba290b27344474d456",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 89,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_89_theorem.json",
+      "sha256": "36435fd835c09f2b78c3fcbf73cca8a5d5f73b9ea9efcd6cc69fb4d6d8665fea",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 90,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_90_theorem.json",
+      "sha256": "e7436fec0353c7b784bfbbceea25fdc965e997735f1a84279fd3a4bc430eb5e0",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 91,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_91_theorem.json",
+      "sha256": "3be95293717f70acc5462f80261d40d19ef66b92cd8efd59facacdf6df6bc6ab",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 92,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_92_theorem.json",
+      "sha256": "23c36cbb6cad724bd3a7af19ffcd7b7ed4e6b8b99b91663377b9eb17d08ab25d",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 93,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_93_theorem.json",
+      "sha256": "bc45e1f0c700ad941dce68efc467359d5b792255bb2bfd41b5da9c363aa45d05",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 94,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_94_theorem.json",
+      "sha256": "6297375707c7a30238effeb9560d57021744621cca1b387ae2725d9f74a1b8ec",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 95,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_95_theorem.json",
+      "sha256": "2abde324c989f54684b815d85ac75a6e4556604e9ba7ef1fa91efce454509e6b",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 96,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_96_theorem.json",
+      "sha256": "62c386314c03eec15f88b4b4fd2184fe6ac861c86dde38aae239020aea95b6de",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 97,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_97_theorem.json",
+      "sha256": "810960c417b559e14b3ab3b791208551d26db5489d9eb984acfcce1728982187",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 98,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_98_theorem.json",
+      "sha256": "4d37b1a6366ebbd3588c0970d2efbc0d38844189c84d6e55b79bef6f1225896a",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 99,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_99_theorem.json",
+      "sha256": "8e358257e44a0beafb0fbd0ace90d5ff973335dff36dded2056e5961db22d772",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 100,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_100_theorem.json",
+      "sha256": "b0d02331b591a5f2b48f6e546452d3b5c8f826a6b90dfccce9102cf38c8905ed",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 101,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_101_theorem.json",
+      "sha256": "a875363815d688064aa343561cdc8012704f5b8201115b891a6a9ece7fde786d",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 102,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_102_theorem.json",
+      "sha256": "cca5f7aa16def8a28cba47f0cadea835b6d885fd6f0320ad1bd804ec24efec2d",
+      "method": "verified two-rule finite induction"
+    },
+    {
+      "degree": 103,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "hyperplane_lifting/degree_103_theorem.json",
+      "sha256": "eb5953daadea48663de73d0c175cd63dc1db19d08f55ac4e7bbaac39eae53481",
+      "method": "verified two-rule finite induction"
+    }
+  ],
+  "inheritance_partition_file": "hyperplane_lifting/inheritance_partition_104.json",
+  "inheritance_partition_sha256": "e35a853e2fe51478af1fe18b700f51ca5059dabfc0a71aa2617c8d098bb6cb4c",
+  "residual_replay_audit_file": "hyperplane_lifting/graph_104_replay_audit.json",
+  "residual_replay_audit_sha256": "122a9a9aba4e8b050df8d38d193610b18418227ac19d61813f8efcea79e74ca7",
+  "generator_audit_sha256": "a63cc385ff90abf3a309b7af9c4328b437717f011d23d7e0098af3878dffc749",
+  "template_sha256": "71cf27c0a2f0868f8a23bb17a1632d3475583e723cbc4b9a397b884fcceb4d0e",
+  "structural_proof_sha256": "f969acbd6087825f7aff972ccc11db2018d089d1f85c1bf81fe8a709ef585e89",
+  "capacity_lifting_proof_sha256": "433bee9dcfd580bd09a23412683c1f2c501e3f0b2fca677bfec930703d995b2f",
+  "hyperplane_encoding_proof_sha256": "eec270f117f33b9abb45dbda5d2a0838b890fa3544495d001f88cd4731e895f6",
+  "exact_search_engine": "traces",
+  "independent_replay_engine": "nauty",
+  "group_model_source_sha256": "bb33aa821b1c5e1932c19c319bf88b3ed91e322bb1415623b8c19c4935028d84",
+  "group_exporter_source_sha256": "ce7e44d748c8abaf2945854d828091d177029bd4707c464bfdae0337c3bdca3a",
+  "induction_verifier_source_sha256": "4d50a49593e444c2b5ace446c642274dcbffdeb115850127537ec487476bbe83",
+  "all_dependencies_strictly_smaller_and_closed": true
+}

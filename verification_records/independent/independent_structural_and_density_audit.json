@@ -1,0 +1,979 @@
+{
+  "auditor": "global_referee fresh independent implementation",
+  "started_unix": 1793640433.9988441,
+  "finite_40_63_partition": {
+    "method": "Conflict-forest independence polynomials, plus at-most-three-factor residual enumeration",
+    "all_pass": true,
+    "rows": [
+      {
+        "n": 40,
+        "full_covers": 5666,
+        "residual_covers": 122,
+        "residual_pairs": 7503,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "c1d122d4c7e09877b9defb9164384507d5618ba49b6c7047f20b5d8f22652293"
+      },
+      {
+        "n": 41,
+        "full_covers": 6760,
+        "residual_covers": 81,
+        "residual_pairs": 3321,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "2a1d30cee01d68800476352dbbc3f6e05bc44e02ee19e43a786d9a320b56939b"
+      },
+      {
+        "n": 42,
+        "full_covers": 7989,
+        "residual_covers": 153,
+        "residual_pairs": 11781,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "ad0c0794bbd4dd1430446a773f7f06e8dc5872e4b9a073b45d2400cbd03ae173"
+      },
+      {
+        "n": 43,
+        "full_covers": 9479,
+        "residual_covers": 132,
+        "residual_pairs": 8778,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "fb66ee88cae87e99b265011a41f07c3d3411923ea124a498e56bad55ade956fe"
+      },
+      {
+        "n": 44,
+        "full_covers": 11174,
+        "residual_covers": 200,
+        "residual_pairs": 20100,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "e3d939b0bfccc9068e788f2912803942cf514666a38d35d762f4dba570d9fad7"
+      },
+      {
+        "n": 45,
+        "full_covers": 13263,
+        "residual_covers": 123,
+        "residual_pairs": 7626,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "1ea031a8d4d8b655edd1d1be0fac215ec47b6641fc90bbc72d397f6c28a0f4da"
+      },
+      {
+        "n": 46,
+        "full_covers": 15600,
+        "residual_covers": 151,
+        "residual_pairs": 11476,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "082e260ffcc4a6fec91a7fe8ce94284e4eb5fdeb2ad6d999315fc0dcf350a982"
+      },
+      {
+        "n": 47,
+        "full_covers": 18407,
+        "residual_covers": 157,
+        "residual_pairs": 12403,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "07def364383782021e01d1f72cb89087a7049762babad3b2ea2cb8c67ed434e4"
+      },
+      {
+        "n": 48,
+        "full_covers": 21623,
+        "residual_covers": 254,
+        "residual_pairs": 32385,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "05431a41062180b0d9d10c5ddd9abb3a343a0132ee77da138628000028c1596b"
+      },
+      {
+        "n": 49,
+        "full_covers": 25475,
+        "residual_covers": 170,
+        "residual_pairs": 14535,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "85d94e9af0a599d93249fdb65e03ceef83835bba4b8cfac3db36b5fea2f236ba"
+      },
+      {
+        "n": 50,
+        "full_covers": 29870,
+        "residual_covers": 267,
+        "residual_pairs": 35778,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "e8185448cd5a3095f099cb21792cb39b83254dae9f580d7212eb14b4eada6308"
+      },
+      {
+        "n": 51,
+        "full_covers": 35068,
+        "residual_covers": 242,
+        "residual_pairs": 29403,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "152a0d72f6b0a8ece77e6f8cf7e47fcb7dbfcd530d8c5b3c927eec2e294a9da5"
+      },
+      {
+        "n": 52,
+        "full_covers": 41002,
+        "residual_covers": 332,
+        "residual_pairs": 55278,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "d8b4c23596bb4f4afc72c0708b16e5f0d5b8c044b39c6301c3cccb1b2455c1bc"
+      },
+      {
+        "n": 53,
+        "full_covers": 48073,
+        "residual_covers": 210,
+        "residual_pairs": 22155,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "a074d0dd1b10b55d1ad8cc8623634d6f1b2cf9ed06c0df8a4cb466607e224d52"
+      },
+      {
+        "n": 54,
+        "full_covers": 56122,
+        "residual_covers": 330,
+        "residual_pairs": 54615,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "98fb3fbb72e7a06b62f2b43a5d137925c660f462446edadb6c9bb9f50e422de7"
+      },
+      {
+        "n": 55,
+        "full_covers": 65634,
+        "residual_covers": 325,
+        "residual_pairs": 52975,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "387498987ca4f71f01bda85ea7a96c3361b13e14c140f975125412542eef93db"
+      },
+      {
+        "n": 56,
+        "full_covers": 76451,
+        "residual_covers": 460,
+        "residual_pairs": 106030,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "d7d3791328b05c5a1b321277e3e03e6523a107776646cc10d973504442205473"
+      },
+      {
+        "n": 57,
+        "full_covers": 89240,
+        "residual_covers": 291,
+        "residual_pairs": 42486,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "893892c7b9734e5f12a30bcf1528fded37b1db9e7d49683c537122e5b9688821"
+      },
+      {
+        "n": 58,
+        "full_covers": 103766,
+        "residual_covers": 491,
+        "residual_pairs": 120786,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "10cc1f452685d0f51820dca949b643047dfc37e8a110f2b53d03c4f638cf5a2a"
+      },
+      {
+        "n": 59,
+        "full_covers": 120836,
+        "residual_covers": 391,
+        "residual_pairs": 76636,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "00010080ffbe6ad559286d4081b058c2a863191a8326a97a07f2cff923459acf"
+      },
+      {
+        "n": 60,
+        "full_covers": 140312,
+        "residual_covers": 618,
+        "residual_pairs": 191271,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "d5fde0b755c3676831657839f1d122fcc4c83694cc46654e2540b84fa6398f49"
+      },
+      {
+        "n": 61,
+        "full_covers": 163115,
+        "residual_covers": 246,
+        "residual_pairs": 30381,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "672cc1dd3131b51a34efa0d2b6349f995d4581a44e36e25dedb51f6f5df80baa"
+      },
+      {
+        "n": 62,
+        "full_covers": 189036,
+        "residual_covers": 394,
+        "residual_pairs": 77815,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "a89c95d8011164173f09cfdf7de0e3218058da50cbf5b06b9a0d1c73f4946f77"
+      },
+      {
+        "n": 63,
+        "full_covers": 219331,
+        "residual_covers": 402,
+        "residual_pairs": 81003,
+        "every_dependency_count_matched": true,
+        "partition_record_sha256": "7954bab428c160d01dd3bc725540ac5dc6405ce6450f202ce9282fe6cf1706ce"
+      }
+    ],
+    "total_residual_pairs": 1106520,
+    "template_sha256": "61f7cea38d957b6f4e1233b1d2616963f4808691a67f8af20790fd96362e4158"
+  },
+  "finite_64_127_structure": {
+    "all_pass": true,
+    "scope": "Structural inputs only, not intersection replay or induction closure",
+    "rows": [
+      {
+        "n": 64,
+        "degree_patterns": [
+          [
+            64
+          ],
+          [
+            17,
+            47
+          ],
+          [
+            18,
+            46
+          ],
+          [
+            19,
+            45
+          ],
+          [
+            20,
+            44
+          ]
+        ],
+        "residual_covers": 42,
+        "pairs": 903
+      },
+      {
+        "n": 65,
+        "degree_patterns": [
+          [
+            65
+          ],
+          [
+            18,
+            47
+          ],
+          [
+            19,
+            46
+          ],
+          [
+            20,
+            45
+          ]
+        ],
+        "residual_covers": 24,
+        "pairs": 300
+      },
+      {
+        "n": 66,
+        "degree_patterns": [
+          [
+            66
+          ],
+          [
+            18,
+            48
+          ],
+          [
+            19,
+            47
+          ],
+          [
+            20,
+            46
+          ]
+        ],
+        "residual_covers": 98,
+        "pairs": 4851
+      },
+      {
+        "n": 67,
+        "degree_patterns": [
+          [
+            67
+          ],
+          [
+            18,
+            49
+          ],
+          [
+            19,
+            48
+          ],
+          [
+            20,
+            47
+          ]
+        ],
+        "residual_covers": 31,
+        "pairs": 496
+      },
+      {
+        "n": 68,
+        "degree_patterns": [
+          [
+            68
+          ],
+          [
+            18,
+            50
+          ],
+          [
+            19,
+            49
+          ],
+          [
+            20,
+            48
+          ]
+        ],
+        "residual_covers": 81,
+        "pairs": 3321
+      },
+      {
+        "n": 69,
+        "degree_patterns": [
+          [
+            69
+          ],
+          [
+            19,
+            50
+          ],
+          [
+            20,
+            49
+          ]
+        ],
+        "residual_covers": 13,
+        "pairs": 91
+      },
+      {
+        "n": 70,
+        "degree_patterns": [
+          [
+            70
+          ],
+          [
+            19,
+            51
+          ],
+          [
+            20,
+            50
+          ]
+        ],
+        "residual_covers": 23,
+        "pairs": 276
+      },
+      {
+        "n": 71,
+        "degree_patterns": [
+          [
+            71
+          ],
+          [
+            19,
+            52
+          ],
+          [
+            20,
+            51
+          ]
+        ],
+        "residual_covers": 10,
+        "pairs": 55
+      },
+      {
+        "n": 72,
+        "degree_patterns": [
+          [
+            72
+          ],
+          [
+            19,
+            53
+          ],
+          [
+            20,
+            52
+          ]
+        ],
+        "residual_covers": 34,
+        "pairs": 595
+      },
+      {
+        "n": 73,
+        "degree_patterns": [
+          [
+            73
+          ],
+          [
+            20,
+            53
+          ]
+        ],
+        "residual_covers": 4,
+        "pairs": 10
+      },
+      {
+        "n": 74,
+        "degree_patterns": [
+          [
+            74
+          ],
+          [
+            20,
+            54
+          ]
+        ],
+        "residual_covers": 38,
+        "pairs": 741
+      },
+      {
+        "n": 75,
+        "degree_patterns": [
+          [
+            75
+          ],
+          [
+            20,
+            55
+          ]
+        ],
+        "residual_covers": 11,
+        "pairs": 66
+      },
+      {
+        "n": 76,
+        "degree_patterns": [
+          [
+            76
+          ],
+          [
+            20,
+            56
+          ]
+        ],
+        "residual_covers": 27,
+        "pairs": 378
+      },
+      {
+        "n": 77,
+        "degree_patterns": [
+          [
+            77
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 78,
+        "degree_patterns": [
+          [
+            78
+          ]
+        ],
+        "residual_covers": 6,
+        "pairs": 21
+      },
+      {
+        "n": 79,
+        "degree_patterns": [
+          [
+            79
+          ]
+        ],
+        "residual_covers": 1,
+        "pairs": 1
+      },
+      {
+        "n": 80,
+        "degree_patterns": [
+          [
+            80
+          ]
+        ],
+        "residual_covers": 17,
+        "pairs": 153
+      },
+      {
+        "n": 81,
+        "degree_patterns": [
+          [
+            81
+          ]
+        ],
+        "residual_covers": 8,
+        "pairs": 36
+      },
+      {
+        "n": 82,
+        "degree_patterns": [
+          [
+            82
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 83,
+        "degree_patterns": [
+          [
+            83
+          ]
+        ],
+        "residual_covers": 1,
+        "pairs": 1
+      },
+      {
+        "n": 84,
+        "degree_patterns": [
+          [
+            84
+          ]
+        ],
+        "residual_covers": 12,
+        "pairs": 78
+      },
+      {
+        "n": 85,
+        "degree_patterns": [
+          [
+            85
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 86,
+        "degree_patterns": [
+          [
+            86
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 87,
+        "degree_patterns": [
+          [
+            87
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 88,
+        "degree_patterns": [
+          [
+            88
+          ]
+        ],
+        "residual_covers": 8,
+        "pairs": 36
+      },
+      {
+        "n": 89,
+        "degree_patterns": [
+          [
+            89
+          ]
+        ],
+        "residual_covers": 1,
+        "pairs": 1
+      },
+      {
+        "n": 90,
+        "degree_patterns": [
+          [
+            90
+          ]
+        ],
+        "residual_covers": 18,
+        "pairs": 171
+      },
+      {
+        "n": 91,
+        "degree_patterns": [
+          [
+            91
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 92,
+        "degree_patterns": [
+          [
+            92
+          ]
+        ],
+        "residual_covers": 3,
+        "pairs": 6
+      },
+      {
+        "n": 93,
+        "degree_patterns": [
+          [
+            93
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 94,
+        "degree_patterns": [
+          [
+            94
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 95,
+        "degree_patterns": [
+          [
+            95
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 96,
+        "degree_patterns": [
+          [
+            96
+          ]
+        ],
+        "residual_covers": 34,
+        "pairs": 595
+      },
+      {
+        "n": 97,
+        "degree_patterns": [
+          [
+            97
+          ]
+        ],
+        "residual_covers": 1,
+        "pairs": 1
+      },
+      {
+        "n": 98,
+        "degree_patterns": [
+          [
+            98
+          ]
+        ],
+        "residual_covers": 5,
+        "pairs": 15
+      },
+      {
+        "n": 99,
+        "degree_patterns": [
+          [
+            99
+          ]
+        ],
+        "residual_covers": 5,
+        "pairs": 15
+      },
+      {
+        "n": 100,
+        "degree_patterns": [
+          [
+            100
+          ]
+        ],
+        "residual_covers": 9,
+        "pairs": 45
+      },
+      {
+        "n": 101,
+        "degree_patterns": [
+          [
+            101
+          ]
+        ],
+        "residual_covers": 1,
+        "pairs": 1
+      },
+      {
+        "n": 102,
+        "degree_patterns": [
+          [
+            102
+          ]
+        ],
+        "residual_covers": 6,
+        "pairs": 21
+      },
+      {
+        "n": 103,
+        "degree_patterns": [
+          [
+            103
+          ]
+        ],
+        "residual_covers": 1,
+        "pairs": 1
+      },
+      {
+        "n": 104,
+        "degree_patterns": [
+          [
+            104
+          ]
+        ],
+        "residual_covers": 8,
+        "pairs": 36
+      },
+      {
+        "n": 105,
+        "degree_patterns": [
+          [
+            105
+          ]
+        ],
+        "residual_covers": 6,
+        "pairs": 21
+      },
+      {
+        "n": 106,
+        "degree_patterns": [
+          [
+            106
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 107,
+        "degree_patterns": [
+          [
+            107
+          ]
+        ],
+        "residual_covers": 1,
+        "pairs": 1
+      },
+      {
+        "n": 108,
+        "degree_patterns": [
+          [
+            108
+          ]
+        ],
+        "residual_covers": 25,
+        "pairs": 325
+      },
+      {
+        "n": 109,
+        "degree_patterns": [
+          [
+            109
+          ]
+        ],
+        "residual_covers": 1,
+        "pairs": 1
+      },
+      {
+        "n": 110,
+        "degree_patterns": [
+          [
+            110
+          ]
+        ],
+        "residual_covers": 6,
+        "pairs": 21
+      },
+      {
+        "n": 111,
+        "degree_patterns": [
+          [
+            111
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 112,
+        "degree_patterns": [
+          [
+            112
+          ]
+        ],
+        "residual_covers": 17,
+        "pairs": 153
+      },
+      {
+        "n": 113,
+        "degree_patterns": [
+          [
+            113
+          ]
+        ],
+        "residual_covers": 1,
+        "pairs": 1
+      },
+      {
+        "n": 114,
+        "degree_patterns": [
+          [
+            114
+          ]
+        ],
+        "residual_covers": 6,
+        "pairs": 21
+      },
+      {
+        "n": 115,
+        "degree_patterns": [
+          [
+            115
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 116,
+        "degree_patterns": [
+          [
+            116
+          ]
+        ],
+        "residual_covers": 3,
+        "pairs": 6
+      },
+      {
+        "n": 117,
+        "degree_patterns": [
+          [
+            117
+          ]
+        ],
+        "residual_covers": 5,
+        "pairs": 15
+      },
+      {
+        "n": 118,
+        "degree_patterns": [
+          [
+            118
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 119,
+        "degree_patterns": [
+          [
+            119
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 120,
+        "degree_patterns": [
+          [
+            120
+          ]
+        ],
+        "residual_covers": 32,
+        "pairs": 528
+      },
+      {
+        "n": 121,
+        "degree_patterns": [
+          [
+            121
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 122,
+        "degree_patterns": [
+          [
+            122
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 123,
+        "degree_patterns": [
+          [
+            123
+          ]
+        ],
+        "residual_covers": 2,
+        "pairs": 3
+      },
+      {
+        "n": 124,
+        "degree_patterns": [
+          [
+            124
+          ]
+        ],
+        "residual_covers": 3,
+        "pairs": 6
+      },
+      {
+        "n": 125,
+        "degree_patterns": [
+          [
+            125
+          ]
+        ],
+        "residual_covers": 4,
+        "pairs": 10
+      },
+      {
+        "n": 126,
+        "degree_patterns": [
+          [
+            126
+          ]
+        ],
+        "residual_covers": 18,
+        "pairs": 171
+      },
+      {
+        "n": 127,
+        "degree_patterns": [
+          [
+            127
+          ]
+        ],
+        "residual_covers": 1,
+        "pairs": 1
+      }
+    ],
+    "residual_covers": 744,
+    "residual_pairs": 14649,
+    "template_sha256": "b6c1ed3d6183f37998a14f9deae2445d9bf63771035782c0d428fbd21d8ce7c4"
+  },
+  "N128_density_and_invariant": {
+    "all_pass": true,
+    "affine_prime_support_rows": 380,
+    "all_atom_density_rows": 367,
+    "child_maximum_orders_compared": 100,
+    "involution_primitive_coefficient_checks": 7251,
+    "semisimple_method": "integer partitions of multiplicity multisets, times falling factorial assignment counts",
+    "unipotent_method": "centralizer dimension times product (1-p^-k)",
+    "child_order_method": "direct maximum over all normalized ordered factorization words",
+    "density_file_sha256": "452c710ef17a7c0012d24571dd0c88cbeed829aa0b09401d04f45edf28a93fef"
+  },
+  "seconds": 0.7303527000003669,
+  "source_sha256": "ddcebbea768c39a65fe528d3091b772a1c9c33e03afcf6508493233984b976c3",
+  "all_checks_passed": true
+}

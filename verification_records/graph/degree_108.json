@@ -1,0 +1,11 @@
+{
+  "degree": 108,
+  "queries": 325,
+  "passed": true,
+  "engine_sha256": "65dda3cf61b9aee3c4432a9e287bb22217c9df7b4790c2cf91d2aeca716fe417",
+  "graph_sha256": "ae42b2dade68640906d3abe95890f7a6dbdf524e8f659fc68f3b33e673fc500d",
+  "pool_sha256": "a9a3e30f89ed8cf817a8870a4f24c9cb43d3d2b8ec819cc98f090562f7e13321",
+  "query_sha256": "8c5214656193c663ea7a21cb34944dda5b427a2c9bfb31468bdf3c9c3f980898",
+  "log_sha256": "0671217ec3d74a643856eecbb8b0c9e948d6b5b23f3db98276be20dcfd9459b1",
+  "seconds": 0.3349735999981931
+}

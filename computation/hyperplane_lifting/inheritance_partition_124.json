@@ -1,0 +1,1518 @@
+{
+  "degree": 124,
+  "partition_pass": true,
+  "not_a_completed_degree_theorem": true,
+  "residual_cover_count": 3,
+  "uniform_capacity_bound": 31,
+  "maximum_surviving_orbit_count": 3,
+  "integer_patterns_after_small_orbit_removal": [
+    [
+      32,
+      32,
+      60
+    ],
+    [
+      32,
+      33,
+      59
+    ],
+    [
+      32,
+      34,
+      58
+    ],
+    [
+      32,
+      35,
+      57
+    ],
+    [
+      32,
+      36,
+      56
+    ],
+    [
+      32,
+      37,
+      55
+    ],
+    [
+      32,
+      38,
+      54
+    ],
+    [
+      32,
+      39,
+      53
+    ],
+    [
+      32,
+      40,
+      52
+    ],
+    [
+      32,
+      41,
+      51
+    ],
+    [
+      32,
+      42,
+      50
+    ],
+    [
+      32,
+      43,
+      49
+    ],
+    [
+      32,
+      44,
+      48
+    ],
+    [
+      32,
+      45,
+      47
+    ],
+    [
+      32,
+      46,
+      46
+    ],
+    [
+      32,
+      92
+    ],
+    [
+      33,
+      33,
+      58
+    ],
+    [
+      33,
+      34,
+      57
+    ],
+    [
+      33,
+      35,
+      56
+    ],
+    [
+      33,
+      36,
+      55
+    ],
+    [
+      33,
+      37,
+      54
+    ],
+    [
+      33,
+      38,
+      53
+    ],
+    [
+      33,
+      39,
+      52
+    ],
+    [
+      33,
+      40,
+      51
+    ],
+    [
+      33,
+      41,
+      50
+    ],
+    [
+      33,
+      42,
+      49
+    ],
+    [
+      33,
+      43,
+      48
+    ],
+    [
+      33,
+      44,
+      47
+    ],
+    [
+      33,
+      45,
+      46
+    ],
+    [
+      33,
+      91
+    ],
+    [
+      34,
+      34,
+      56
+    ],
+    [
+      34,
+      35,
+      55
+    ],
+    [
+      34,
+      36,
+      54
+    ],
+    [
+      34,
+      37,
+      53
+    ],
+    [
+      34,
+      38,
+      52
+    ],
+    [
+      34,
+      39,
+      51
+    ],
+    [
+      34,
+      40,
+      50
+    ],
+    [
+      34,
+      41,
+      49
+    ],
+    [
+      34,
+      42,
+      48
+    ],
+    [
+      34,
+      43,
+      47
+    ],
+    [
+      34,
+      44,
+      46
+    ],
+    [
+      34,
+      45,
+      45
+    ],
+    [
+      34,
+      90
+    ],
+    [
+      35,
+      35,
+      54
+    ],
+    [
+      35,
+      36,
+      53
+    ],
+    [
+      35,
+      37,
+      52
+    ],
+    [
+      35,
+      38,
+      51
+    ],
+    [
+      35,
+      39,
+      50
+    ],
+    [
+      35,
+      40,
+      49
+    ],
+    [
+      35,
+      41,
+      48
+    ],
+    [
+      35,
+      42,
+      47
+    ],
+    [
+      35,
+      43,
+      46
+    ],
+    [
+      35,
+      44,
+      45
+    ],
+    [
+      35,
+      89
+    ],
+    [
+      36,
+      36,
+      52
+    ],
+    [
+      36,
+      37,
+      51
+    ],
+    [
+      36,
+      38,
+      50
+    ],
+    [
+      36,
+      39,
+      49
+    ],
+    [
+      36,
+      40,
+      48
+    ],
+    [
+      36,
+      41,
+      47
+    ],
+    [
+      36,
+      42,
+      46
+    ],
+    [
+      36,
+      43,
+      45
+    ],
+    [
+      36,
+      44,
+      44
+    ],
+    [
+      36,
+      88
+    ],
+    [
+      37,
+      37,
+      50
+    ],
+    [
+      37,
+      38,
+      49
+    ],
+    [
+      37,
+      39,
+      48
+    ],
+    [
+      37,
+      40,
+      47
+    ],
+    [
+      37,
+      41,
+      46
+    ],
+    [
+      37,
+      42,
+      45
+    ],
+    [
+      37,
+      43,
+      44
+    ],
+    [
+      37,
+      87
+    ],
+    [
+      38,
+      38,
+      48
+    ],
+    [
+      38,
+      39,
+      47
+    ],
+    [
+      38,
+      40,
+      46
+    ],
+    [
+      38,
+      41,
+      45
+    ],
+    [
+      38,
+      42,
+      44
+    ],
+    [
+      38,
+      43,
+      43
+    ],
+    [
+      38,
+      86
+    ],
+    [
+      39,
+      39,
+      46
+    ],
+    [
+      39,
+      40,
+      45
+    ],
+    [
+      39,
+      41,
+      44
+    ],
+    [
+      39,
+      42,
+      43
+    ],
+    [
+      39,
+      85
+    ],
+    [
+      40,
+      40,
+      44
+    ],
+    [
+      40,
+      41,
+      43
+    ],
+    [
+      40,
+      42,
+      42
+    ],
+    [
+      40,
+      84
+    ],
+    [
+      41,
+      41,
+      42
+    ],
+    [
+      41,
+      83
+    ],
+    [
+      42,
+      82
+    ],
+    [
+      43,
+      81
+    ],
+    [
+      44,
+      80
+    ],
+    [
+      45,
+      79
+    ],
+    [
+      46,
+      78
+    ],
+    [
+      47,
+      77
+    ],
+    [
+      48,
+      76
+    ],
+    [
+      49,
+      75
+    ],
+    [
+      50,
+      74
+    ],
+    [
+      51,
+      73
+    ],
+    [
+      52,
+      72
+    ],
+    [
+      53,
+      71
+    ],
+    [
+      54,
+      70
+    ],
+    [
+      55,
+      69
+    ],
+    [
+      56,
+      68
+    ],
+    [
+      57,
+      67
+    ],
+    [
+      58,
+      66
+    ],
+    [
+      59,
+      65
+    ],
+    [
+      60,
+      64
+    ],
+    [
+      61,
+      63
+    ],
+    [
+      62,
+      62
+    ],
+    [
+      124
+    ]
+  ],
+  "inherited_large_split_patterns": [
+    {
+      "orbit_degrees": [
+        32,
+        32,
+        60
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        33,
+        59
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        34,
+        58
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        35,
+        57
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        36,
+        56
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        37,
+        55
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        38,
+        54
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        39,
+        53
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        40,
+        52
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        41,
+        51
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        42,
+        50
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        43,
+        49
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        44,
+        48
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        45,
+        47
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        46,
+        46
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        32,
+        92
+      ],
+      "split_size": 32
+    },
+    {
+      "orbit_degrees": [
+        33,
+        33,
+        58
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        34,
+        57
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        35,
+        56
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        36,
+        55
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        37,
+        54
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        38,
+        53
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        39,
+        52
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        40,
+        51
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        41,
+        50
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        42,
+        49
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        43,
+        48
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        44,
+        47
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        45,
+        46
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        33,
+        91
+      ],
+      "split_size": 33
+    },
+    {
+      "orbit_degrees": [
+        34,
+        34,
+        56
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        35,
+        55
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        36,
+        54
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        37,
+        53
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        38,
+        52
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        39,
+        51
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        40,
+        50
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        41,
+        49
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        42,
+        48
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        43,
+        47
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        44,
+        46
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        45,
+        45
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        34,
+        90
+      ],
+      "split_size": 34
+    },
+    {
+      "orbit_degrees": [
+        35,
+        35,
+        54
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        35,
+        36,
+        53
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        35,
+        37,
+        52
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        35,
+        38,
+        51
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        35,
+        39,
+        50
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        35,
+        40,
+        49
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        35,
+        41,
+        48
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        35,
+        42,
+        47
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        35,
+        43,
+        46
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        35,
+        44,
+        45
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        35,
+        89
+      ],
+      "split_size": 35
+    },
+    {
+      "orbit_degrees": [
+        36,
+        36,
+        52
+      ],
+      "split_size": 36
+    },
+    {
+      "orbit_degrees": [
+        36,
+        37,
+        51
+      ],
+      "split_size": 36
+    },
+    {
+      "orbit_degrees": [
+        36,
+        38,
+        50
+      ],
+      "split_size": 36
+    },
+    {
+      "orbit_degrees": [
+        36,
+        39,
+        49
+      ],
+      "split_size": 36
+    },
+    {
+      "orbit_degrees": [
+        36,
+        40,
+        48
+      ],
+      "split_size": 36
+    },
+    {
+      "orbit_degrees": [
+        36,
+        41,
+        47
+      ],
+      "split_size": 36
+    },
+    {
+      "orbit_degrees": [
+        36,
+        42,
+        46
+      ],
+      "split_size": 36
+    },
+    {
+      "orbit_degrees": [
+        36,
+        43,
+        45
+      ],
+      "split_size": 36
+    },
+    {
+      "orbit_degrees": [
+        36,
+        44,
+        44
+      ],
+      "split_size": 36
+    },
+    {
+      "orbit_degrees": [
+        36,
+        88
+      ],
+      "split_size": 36
+    },
+    {
+      "orbit_degrees": [
+        37,
+        37,
+        50
+      ],
+      "split_size": 37
+    },
+    {
+      "orbit_degrees": [
+        37,
+        38,
+        49
+      ],
+      "split_size": 37
+    },
+    {
+      "orbit_degrees": [
+        37,
+        39,
+        48
+      ],
+      "split_size": 37
+    },
+    {
+      "orbit_degrees": [
+        37,
+        40,
+        47
+      ],
+      "split_size": 37
+    },
+    {
+      "orbit_degrees": [
+        37,
+        41,
+        46
+      ],
+      "split_size": 37
+    },
+    {
+      "orbit_degrees": [
+        37,
+        42,
+        45
+      ],
+      "split_size": 37
+    },
+    {
+      "orbit_degrees": [
+        37,
+        43,
+        44
+      ],
+      "split_size": 37
+    },
+    {
+      "orbit_degrees": [
+        37,
+        87
+      ],
+      "split_size": 37
+    },
+    {
+      "orbit_degrees": [
+        38,
+        38,
+        48
+      ],
+      "split_size": 38
+    },
+    {
+      "orbit_degrees": [
+        38,
+        39,
+        47
+      ],
+      "split_size": 38
+    },
+    {
+      "orbit_degrees": [
+        38,
+        40,
+        46
+      ],
+      "split_size": 38
+    },
+    {
+      "orbit_degrees": [
+        38,
+        41,
+        45
+      ],
+      "split_size": 38
+    },
+    {
+      "orbit_degrees": [
+        38,
+        42,
+        44
+      ],
+      "split_size": 38
+    },
+    {
+      "orbit_degrees": [
+        38,
+        43,
+        43
+      ],
+      "split_size": 38
+    },
+    {
+      "orbit_degrees": [
+        38,
+        86
+      ],
+      "split_size": 38
+    },
+    {
+      "orbit_degrees": [
+        39,
+        39,
+        46
+      ],
+      "split_size": 39
+    },
+    {
+      "orbit_degrees": [
+        39,
+        40,
+        45
+      ],
+      "split_size": 39
+    },
+    {
+      "orbit_degrees": [
+        39,
+        41,
+        44
+      ],
+      "split_size": 39
+    },
+    {
+      "orbit_degrees": [
+        39,
+        42,
+        43
+      ],
+      "split_size": 39
+    },
+    {
+      "orbit_degrees": [
+        39,
+        85
+      ],
+      "split_size": 39
+    },
+    {
+      "orbit_degrees": [
+        40,
+        40,
+        44
+      ],
+      "split_size": 40
+    },
+    {
+      "orbit_degrees": [
+        40,
+        41,
+        43
+      ],
+      "split_size": 40
+    },
+    {
+      "orbit_degrees": [
+        40,
+        42,
+        42
+      ],
+      "split_size": 40
+    },
+    {
+      "orbit_degrees": [
+        40,
+        84
+      ],
+      "split_size": 40
+    },
+    {
+      "orbit_degrees": [
+        41,
+        41,
+        42
+      ],
+      "split_size": 41
+    },
+    {
+      "orbit_degrees": [
+        41,
+        83
+      ],
+      "split_size": 41
+    },
+    {
+      "orbit_degrees": [
+        42,
+        82
+      ],
+      "split_size": 42
+    },
+    {
+      "orbit_degrees": [
+        43,
+        81
+      ],
+      "split_size": 43
+    },
+    {
+      "orbit_degrees": [
+        44,
+        80
+      ],
+      "split_size": 44
+    },
+    {
+      "orbit_degrees": [
+        45,
+        79
+      ],
+      "split_size": 45
+    },
+    {
+      "orbit_degrees": [
+        46,
+        78
+      ],
+      "split_size": 46
+    },
+    {
+      "orbit_degrees": [
+        47,
+        77
+      ],
+      "split_size": 47
+    },
+    {
+      "orbit_degrees": [
+        48,
+        76
+      ],
+      "split_size": 48
+    },
+    {
+      "orbit_degrees": [
+        49,
+        75
+      ],
+      "split_size": 49
+    },
+    {
+      "orbit_degrees": [
+        50,
+        74
+      ],
+      "split_size": 50
+    },
+    {
+      "orbit_degrees": [
+        51,
+        73
+      ],
+      "split_size": 51
+    },
+    {
+      "orbit_degrees": [
+        52,
+        72
+      ],
+      "split_size": 52
+    },
+    {
+      "orbit_degrees": [
+        53,
+        71
+      ],
+      "split_size": 53
+    },
+    {
+      "orbit_degrees": [
+        54,
+        70
+      ],
+      "split_size": 54
+    },
+    {
+      "orbit_degrees": [
+        55,
+        69
+      ],
+      "split_size": 55
+    },
+    {
+      "orbit_degrees": [
+        56,
+        68
+      ],
+      "split_size": 56
+    },
+    {
+      "orbit_degrees": [
+        57,
+        67
+      ],
+      "split_size": 57
+    },
+    {
+      "orbit_degrees": [
+        58,
+        66
+      ],
+      "split_size": 58
+    },
+    {
+      "orbit_degrees": [
+        59,
+        65
+      ],
+      "split_size": 59
+    },
+    {
+      "orbit_degrees": [
+        60,
+        64
+      ],
+      "split_size": 60
+    },
+    {
+      "orbit_degrees": [
+        61,
+        63
+      ],
+      "split_size": 61
+    },
+    {
+      "orbit_degrees": [
+        62,
+        62
+      ],
+      "split_size": 62
+    }
+  ],
+  "residual_degree_patterns": [
+    [
+      124
+    ]
+  ],
+  "every_integer_orbit_pattern_classified": true,
+  "every_residual_word_combination_enumerated": true,
+  "repeated_words_permitted": true,
+  "independent_word_enumerators_agree_exactly": true,
+  "earlier_63_word_prefix_unchanged": true,
+  "conservative_required_dependencies": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123
+  ],
+  "template_sha256": "71cf27c0a2f0868f8a23bb17a1632d3475583e723cbc4b9a397b884fcceb4d0e",
+  "source_template_sha256": "b6c1ed3d6183f37998a14f9deae2445d9bf63771035782c0d428fbd21d8ce7c4",
+  "partition_verifier_source_sha256": "3b0e59680af1f64fbb91eaa912b7a047b2ba311d9a72e1919a5c4508134f3c55",
+  "source_independent_enumerator_sha256": "f4ffe2d008d458bda1f236a0c1890a829bc6b641cd601677eb7dbfc0826e4b84",
+  "structural_proof": "Every removed small orbit uses Q(n-b); every remaining nonresidual pattern has a split s,n-s both in[21,n-1].",
+  "full_unpruned_family_explicitly_enumerated": false,
+  "full_family_enumeration_unnecessary_reason": "The complete integer orbit-pattern classification plus complete affine-word lists prove residual exhaustivity for the full multiset cover family."
+}

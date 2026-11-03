@@ -1,0 +1,8123 @@
+{
+  "max_weight": 200,
+  "noncore_prime_atom_densities": {
+    "2": {
+      "4": {
+        "a": 4,
+        "ell": 2,
+        "numerator": 21,
+        "denominator": 4,
+        "density": "21/4",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 1,
+        "primitive_count": 42,
+        "child_order": 1,
+        "child_word": []
+      },
+      "6": {
+        "a": 6,
+        "ell": 2,
+        "numerator": 4,
+        "denominator": 1,
+        "density": "4",
+        "q": 9,
+        "char": 3,
+        "dimension": 2,
+        "j": 6,
+        "m": 1,
+        "primitive_count": 36,
+        "child_order": 1,
+        "child_word": []
+      },
+      "8": {
+        "a": 8,
+        "ell": 2,
+        "numerator": 105,
+        "denominator": 8,
+        "density": "105/8",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 8,
+        "m": 1,
+        "primitive_count": 210,
+        "child_order": 1,
+        "child_word": []
+      },
+      "10": {
+        "a": 10,
+        "ell": 2,
+        "numerator": 6,
+        "denominator": 1,
+        "density": "6",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 5,
+        "primitive_count": 6,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "12": {
+        "a": 12,
+        "ell": 2,
+        "numerator": 63,
+        "denominator": 1,
+        "density": "63",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 3,
+        "primitive_count": 42,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "14": {
+        "a": 14,
+        "ell": 2,
+        "numerator": 9,
+        "denominator": 1,
+        "density": "9",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 7,
+        "primitive_count": 6,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "16": {
+        "a": 16,
+        "ell": 2,
+        "numerator": 756,
+        "denominator": 1,
+        "density": "756",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 4,
+        "primitive_count": 42,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "18": {
+        "a": 18,
+        "ell": 2,
+        "numerator": 288,
+        "denominator": 1,
+        "density": "288",
+        "q": 9,
+        "char": 3,
+        "dimension": 2,
+        "j": 6,
+        "m": 3,
+        "primitive_count": 36,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "20": {
+        "a": 20,
+        "ell": 2,
+        "numerator": 420,
+        "denominator": 1,
+        "density": "420",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 5,
+        "primitive_count": 42,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "22": {
+        "a": 22,
+        "ell": 2,
+        "numerator": 15,
+        "denominator": 1,
+        "density": "15",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 11,
+        "primitive_count": 6,
+        "child_order": 110,
+        "child_word": [
+          11
+        ]
+      },
+      "24": {
+        "a": 24,
+        "ell": 2,
+        "numerator": 13824,
+        "denominator": 1,
+        "density": "13824",
+        "q": 9,
+        "char": 3,
+        "dimension": 2,
+        "j": 6,
+        "m": 4,
+        "primitive_count": 36,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "26": {
+        "a": 26,
+        "ell": 2,
+        "numerator": 18,
+        "denominator": 1,
+        "density": "18",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 13,
+        "primitive_count": 6,
+        "child_order": 156,
+        "child_word": [
+          13
+        ]
+      },
+      "28": {
+        "a": 28,
+        "ell": 2,
+        "numerator": 1323,
+        "denominator": 1,
+        "density": "1323",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 7,
+        "primitive_count": 42,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "30": {
+        "a": 30,
+        "ell": 2,
+        "numerator": 15552,
+        "denominator": 1,
+        "density": "15552",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 15,
+        "primitive_count": 6,
+        "child_order": 155520,
+        "child_word": [
+          3,
+          5
+        ]
+      },
+      "32": {
+        "a": 32,
+        "ell": 2,
+        "numerator": 1185408,
+        "denominator": 1,
+        "density": "1185408",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 8,
+        "primitive_count": 42,
+        "child_order": 1344,
+        "child_word": [
+          8
+        ]
+      },
+      "34": {
+        "a": 34,
+        "ell": 2,
+        "numerator": 24,
+        "denominator": 1,
+        "density": "24",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 17,
+        "primitive_count": 6,
+        "child_order": 272,
+        "child_word": [
+          17
+        ]
+      },
+      "36": {
+        "a": 36,
+        "ell": 2,
+        "numerator": 979776,
+        "denominator": 1,
+        "density": "979776",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 9,
+        "primitive_count": 42,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "38": {
+        "a": 38,
+        "ell": 2,
+        "numerator": 27,
+        "denominator": 1,
+        "density": "27",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 19,
+        "primitive_count": 6,
+        "child_order": 342,
+        "child_word": [
+          19
+        ]
+      },
+      "40": {
+        "a": 40,
+        "ell": 2,
+        "numerator": 11943936,
+        "denominator": 1,
+        "density": "11943936",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 20,
+        "primitive_count": 6,
+        "child_order": 159252480,
+        "child_word": [
+          4,
+          5
+        ]
+      },
+      "42": {
+        "a": 42,
+        "ell": 2,
+        "numerator": 839808,
+        "denominator": 1,
+        "density": "839808",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 21,
+        "primitive_count": 6,
+        "child_order": 11757312,
+        "child_word": [
+          3,
+          7
+        ]
+      },
+      "44": {
+        "a": 44,
+        "ell": 2,
+        "numerator": 15360,
+        "denominator": 1,
+        "density": "15360",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 22,
+        "primitive_count": 6,
+        "child_order": 225280,
+        "child_word": [
+          2,
+          11
+        ]
+      },
+      "46": {
+        "a": 46,
+        "ell": 2,
+        "numerator": 33,
+        "denominator": 1,
+        "density": "33",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 23,
+        "primitive_count": 6,
+        "child_order": 506,
+        "child_word": [
+          23
+        ]
+      },
+      "48": {
+        "a": 48,
+        "ell": 2,
+        "numerator": 3009871872,
+        "denominator": 1,
+        "density": "3009871872",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 12,
+        "primitive_count": 42,
+        "child_order": 82944,
+        "child_word": [
+          4,
+          3
+        ]
+      },
+      "50": {
+        "a": 50,
+        "ell": 2,
+        "numerator": 3840000,
+        "denominator": 1,
+        "density": "3840000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 25,
+        "primitive_count": 6,
+        "child_order": 64000000,
+        "child_word": [
+          5,
+          5
+        ]
+      },
+      "52": {
+        "a": 52,
+        "ell": 2,
+        "numerator": 73728,
+        "denominator": 1,
+        "density": "73728",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 26,
+        "primitive_count": 6,
+        "child_order": 1277952,
+        "child_word": [
+          2,
+          13
+        ]
+      },
+      "54": {
+        "a": 54,
+        "ell": 2,
+        "numerator": 967458816,
+        "denominator": 1,
+        "density": "967458816",
+        "q": 9,
+        "char": 3,
+        "dimension": 2,
+        "j": 6,
+        "m": 9,
+        "primitive_count": 36,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "56": {
+        "a": 56,
+        "ell": 2,
+        "numerator": 10319560704,
+        "denominator": 1,
+        "density": "10319560704",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 28,
+        "primitive_count": 6,
+        "child_order": 192631799808,
+        "child_word": [
+          4,
+          7
+        ]
+      },
+      "58": {
+        "a": 58,
+        "ell": 2,
+        "numerator": 42,
+        "denominator": 1,
+        "density": "42",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 29,
+        "primitive_count": 6,
+        "child_order": 812,
+        "child_word": [
+          29
+        ]
+      },
+      "60": {
+        "a": 60,
+        "ell": 2,
+        "numerator": 8465264640,
+        "denominator": 1,
+        "density": "8465264640",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 15,
+        "primitive_count": 42,
+        "child_order": 155520,
+        "child_word": [
+          3,
+          5
+        ]
+      },
+      "62": {
+        "a": 62,
+        "ell": 2,
+        "numerator": 45,
+        "denominator": 1,
+        "density": "45",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 31,
+        "primitive_count": 6,
+        "child_order": 930,
+        "child_word": [
+          31
+        ]
+      },
+      "64": {
+        "a": 64,
+        "ell": 2,
+        "numerator": 20804234379264,
+        "denominator": 1,
+        "density": "20804234379264",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 16,
+        "primitive_count": 42,
+        "child_order": 7962624,
+        "child_word": [
+          4,
+          4
+        ]
+      },
+      "66": {
+        "a": 66,
+        "ell": 2,
+        "numerator": 1813985280,
+        "denominator": 1,
+        "density": "1813985280",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 33,
+        "primitive_count": 6,
+        "child_order": 39907676160,
+        "child_word": [
+          3,
+          11
+        ]
+      },
+      "68": {
+        "a": 68,
+        "ell": 2,
+        "numerator": 1572864,
+        "denominator": 1,
+        "density": "1572864",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 34,
+        "primitive_count": 6,
+        "child_order": 35651584,
+        "child_word": [
+          2,
+          17
+        ]
+      },
+      "70": {
+        "a": 70,
+        "ell": 2,
+        "numerator": 2304000000,
+        "denominator": 1,
+        "density": "2304000000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 35,
+        "primitive_count": 6,
+        "child_order": 53760000000,
+        "child_word": [
+          5,
+          7
+        ]
+      },
+      "72": {
+        "a": 72,
+        "ell": 2,
+        "numerator": 190210142896128,
+        "denominator": 1,
+        "density": "190210142896128",
+        "q": 9,
+        "char": 3,
+        "dimension": 2,
+        "j": 6,
+        "m": 12,
+        "primitive_count": 36,
+        "child_order": 82944,
+        "child_word": [
+          4,
+          3
+        ]
+      },
+      "74": {
+        "a": 74,
+        "ell": 2,
+        "numerator": 54,
+        "denominator": 1,
+        "density": "54",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 37,
+        "primitive_count": 6,
+        "child_order": 1332,
+        "child_word": [
+          37
+        ]
+      },
+      "76": {
+        "a": 76,
+        "ell": 2,
+        "numerator": 7077888,
+        "denominator": 1,
+        "density": "7077888",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 38,
+        "primitive_count": 6,
+        "child_order": 179306496,
+        "child_word": [
+          2,
+          19
+        ]
+      },
+      "78": {
+        "a": 78,
+        "ell": 2,
+        "numerator": 78364164096,
+        "denominator": 1,
+        "density": "78364164096",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 39,
+        "primitive_count": 6,
+        "child_order": 2037468266496,
+        "child_word": [
+          3,
+          13
+        ]
+      },
+      "80": {
+        "a": 80,
+        "ell": 2,
+        "numerator": 6657355001364480,
+        "denominator": 1,
+        "density": "6657355001364480",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 20,
+        "primitive_count": 42,
+        "child_order": 159252480,
+        "child_word": [
+          4,
+          5
+        ]
+      },
+      "82": {
+        "a": 82,
+        "ell": 2,
+        "numerator": 60,
+        "denominator": 1,
+        "density": "60",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 41,
+        "primitive_count": 6,
+        "child_order": 1640,
+        "child_word": [
+          41
+        ]
+      },
+      "84": {
+        "a": 84,
+        "ell": 2,
+        "numerator": 34558596366336,
+        "denominator": 1,
+        "density": "34558596366336",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 21,
+        "primitive_count": 42,
+        "child_order": 11757312,
+        "child_word": [
+          3,
+          7
+        ]
+      },
+      "86": {
+        "a": 86,
+        "ell": 2,
+        "numerator": 63,
+        "denominator": 1,
+        "density": "63",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 43,
+        "primitive_count": 6,
+        "child_order": 1806,
+        "child_word": [
+          43
+        ]
+      },
+      "88": {
+        "a": 88,
+        "ell": 2,
+        "numerator": 5706304286883840,
+        "denominator": 1,
+        "density": "5706304286883840",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 44,
+        "primitive_count": 6,
+        "child_order": 167384925748592640,
+        "child_word": [
+          4,
+          11
+        ]
+      },
+      "90": {
+        "a": 90,
+        "ell": 2,
+        "numerator": 2437438960041984,
+        "denominator": 1,
+        "density": "2437438960041984",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 45,
+        "primitive_count": 6,
+        "child_order": 73123168801259520,
+        "child_word": [
+          3,
+          3,
+          5
+        ]
+      },
+      "92": {
+        "a": 92,
+        "ell": 2,
+        "numerator": 138412032,
+        "denominator": 1,
+        "density": "138412032",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 46,
+        "primitive_count": 6,
+        "child_order": 4244635648,
+        "child_word": [
+          2,
+          23
+        ]
+      },
+      "94": {
+        "a": 94,
+        "ell": 2,
+        "numerator": 69,
+        "denominator": 1,
+        "density": "69",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 47,
+        "primitive_count": 6,
+        "child_order": 2162,
+        "child_word": [
+          47
+        ]
+      },
+      "96": {
+        "a": 96,
+        "ell": 2,
+        "numerator": 126214320739011526656,
+        "denominator": 1,
+        "density": "126214320739011526656",
+        "q": 9,
+        "char": 3,
+        "dimension": 2,
+        "j": 6,
+        "m": 16,
+        "primitive_count": 36,
+        "child_order": 7962624,
+        "child_word": [
+          4,
+          4
+        ]
+      },
+      "98": {
+        "a": 98,
+        "ell": 2,
+        "numerator": 296407714176,
+        "denominator": 1,
+        "density": "296407714176",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 49,
+        "primitive_count": 6,
+        "child_order": 9682651996416,
+        "child_word": [
+          7,
+          7
+        ]
+      },
+      "100": {
+        "a": 100,
+        "ell": 2,
+        "numerator": 860160000000000,
+        "denominator": 1,
+        "density": "860160000000000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 25,
+        "primitive_count": 42,
+        "child_order": 64000000,
+        "child_word": [
+          5,
+          5
+        ]
+      },
+      "102": {
+        "a": 102,
+        "ell": 2,
+        "numerator": 135413275557888,
+        "denominator": 1,
+        "density": "135413275557888",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 51,
+        "primitive_count": 6,
+        "child_order": 4604051368968192,
+        "child_word": [
+          3,
+          17
+        ]
+      },
+      "104": {
+        "a": 104,
+        "ell": 2,
+        "numerator": 3944197523094110208,
+        "denominator": 1,
+        "density": "3944197523094110208",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 52,
+        "primitive_count": 6,
+        "child_order": 136732180800595820544,
+        "child_word": [
+          4,
+          13
+        ]
+      },
+      "106": {
+        "a": 106,
+        "ell": 2,
+        "numerator": 78,
+        "denominator": 1,
+        "density": "78",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 53,
+        "primitive_count": 6,
+        "child_order": 2756,
+        "child_word": [
+          53
+        ]
+      },
+      "108": {
+        "a": 108,
+        "ell": 2,
+        "numerator": 33168669368251318272,
+        "denominator": 1,
+        "density": "33168669368251318272",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 27,
+        "primitive_count": 42,
+        "child_order": 13060694016,
+        "child_word": [
+          3,
+          3,
+          3
+        ]
+      },
+      "110": {
+        "a": 110,
+        "ell": 2,
+        "numerator": 614400000000000,
+        "denominator": 1,
+        "density": "614400000000000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 55,
+        "primitive_count": 6,
+        "child_order": 22528000000000000,
+        "child_word": [
+          5,
+          11
+        ]
+      },
+      "112": {
+        "a": 112,
+        "ell": 2,
+        "numerator": 8911430070676249116672,
+        "denominator": 1,
+        "density": "8911430070676249116672",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 56,
+        "primitive_count": 6,
+        "child_order": 332693389305246633689088,
+        "child_word": [
+          8,
+          7
+        ]
+      },
+      "114": {
+        "a": 114,
+        "ell": 2,
+        "numerator": 5484237660094464,
+        "denominator": 1,
+        "density": "5484237660094464",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 57,
+        "primitive_count": 6,
+        "child_order": 208401031083589632,
+        "child_word": [
+          3,
+          19
+        ]
+      },
+      "116": {
+        "a": 116,
+        "ell": 2,
+        "numerator": 11274289152,
+        "denominator": 1,
+        "density": "11274289152",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 58,
+        "primitive_count": 6,
+        "child_order": 435939180544,
+        "child_word": [
+          2,
+          29
+        ]
+      },
+      "118": {
+        "a": 118,
+        "ell": 2,
+        "numerator": 87,
+        "denominator": 1,
+        "density": "87",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 59,
+        "primitive_count": 6,
+        "child_order": 3422,
+        "child_word": [
+          59
+        ]
+      },
+      "120": {
+        "a": 120,
+        "ell": 2,
+        "numerator": 1962885116133107262554112,
+        "denominator": 1,
+        "density": "1962885116133107262554112",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 60,
+        "primitive_count": 6,
+        "child_order": 78515404645324290502164480,
+        "child_word": [
+          4,
+          3,
+          5
+        ]
+      },
+      "122": {
+        "a": 122,
+        "ell": 2,
+        "numerator": 90,
+        "denominator": 1,
+        "density": "90",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 61,
+        "primitive_count": 6,
+        "child_order": 3660,
+        "child_word": [
+          61
+        ]
+      },
+      "124": {
+        "a": 124,
+        "ell": 2,
+        "numerator": 48318382080,
+        "denominator": 1,
+        "density": "48318382080",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 62,
+        "primitive_count": 6,
+        "child_order": 1997159792640,
+        "child_word": [
+          2,
+          31
+        ]
+      },
+      "126": {
+        "a": 126,
+        "ell": 2,
+        "numerator": 6140942214464815497216,
+        "denominator": 1,
+        "density": "6140942214464815497216",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 63,
+        "primitive_count": 6,
+        "child_order": 257919573007522250883072,
+        "child_word": [
+          3,
+          3,
+          7
+        ]
+      },
+      "128": {
+        "a": 128,
+        "ell": 2,
+        "numerator": 3590771172446164218965655552,
+        "denominator": 1,
+        "density": "3590771172446164218965655552",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 32,
+        "primitive_count": 42,
+        "child_order": 147941222252544,
+        "child_word": [
+          4,
+          8
+        ]
+      },
+      "130": {
+        "a": 130,
+        "ell": 2,
+        "numerator": 294912000000000000,
+        "denominator": 1,
+        "density": "294912000000000000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 65,
+        "primitive_count": 6,
+        "child_order": 12779520000000000000,
+        "child_word": [
+          5,
+          13
+        ]
+      },
+      "132": {
+        "a": 132,
+        "ell": 2,
+        "numerator": 673903123672407736320,
+        "denominator": 1,
+        "density": "673903123672407736320",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 66,
+        "primitive_count": 6,
+        "child_order": 29651737441585940398080,
+        "child_word": [
+          3,
+          2,
+          11
+        ]
+      },
+      "134": {
+        "a": 134,
+        "ell": 2,
+        "numerator": 99,
+        "denominator": 1,
+        "density": "99",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 67,
+        "primitive_count": 6,
+        "child_order": 4422,
+        "child_word": [
+          67
+        ]
+      },
+      "136": {
+        "a": 136,
+        "ell": 2,
+        "numerator": 1744786769896095344492544,
+        "denominator": 1,
+        "density": "1744786769896095344492544",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 68,
+        "primitive_count": 6,
+        "child_order": 79097000235289655616995328,
+        "child_word": [
+          4,
+          17
+        ]
+      },
+      "138": {
+        "a": 138,
+        "ell": 2,
+        "numerator": 8687032453589630976,
+        "denominator": 1,
+        "density": "8687032453589630976",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 69,
+        "primitive_count": 6,
+        "child_order": 399603492865123024896,
+        "child_word": [
+          3,
+          23
+        ]
+      },
+      "140": {
+        "a": 140,
+        "ell": 2,
+        "numerator": 433520640000000000000,
+        "denominator": 1,
+        "density": "433520640000000000000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 35,
+        "primitive_count": 42,
+        "child_order": 53760000000,
+        "child_word": [
+          5,
+          7
+        ]
+      },
+      "142": {
+        "a": 142,
+        "ell": 2,
+        "numerator": 105,
+        "denominator": 1,
+        "density": "105",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 71,
+        "primitive_count": 6,
+        "child_order": 4970,
+        "child_word": [
+          71
+        ]
+      },
+      "144": {
+        "a": 144,
+        "ell": 2,
+        "numerator": 1709500202261716712245526790144,
+        "denominator": 1,
+        "density": "1709500202261716712245526790144",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 36,
+        "primitive_count": 42,
+        "child_order": 3423782572130304,
+        "child_word": [
+          4,
+          3,
+          3
+        ]
+      },
+      "146": {
+        "a": 146,
+        "ell": 2,
+        "numerator": 108,
+        "denominator": 1,
+        "density": "108",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 73,
+        "primitive_count": 6,
+        "child_order": 5256,
+        "child_word": [
+          73
+        ]
+      },
+      "148": {
+        "a": 148,
+        "ell": 2,
+        "numerator": 3710851743744,
+        "denominator": 1,
+        "density": "3710851743744",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 74,
+        "primitive_count": 6,
+        "child_order": 183068686024704,
+        "child_word": [
+          2,
+          37
+        ]
+      },
+      "150": {
+        "a": 150,
+        "ell": 2,
+        "numerator": 36390768678310017761280000,
+        "denominator": 1,
+        "density": "36390768678310017761280000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 75,
+        "primitive_count": 6,
+        "child_order": 1819538433915500888064000000,
+        "child_word": [
+          3,
+          5,
+          5
+        ]
+      },
+      "152": {
+        "a": 152,
+        "ell": 2,
+        "numerator": 1130621826892669783231168512,
+        "denominator": 1,
+        "density": "1130621826892669783231168512",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 76,
+        "primitive_count": 6,
+        "child_order": 57284839229228602350379204608,
+        "child_word": [
+          4,
+          19
+        ]
+      },
+      "154": {
+        "a": 154,
+        "ell": 2,
+        "numerator": 1537217830951004160,
+        "denominator": 1,
+        "density": "1537217830951004160",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 77,
+        "primitive_count": 6,
+        "child_order": 78910515322151546880,
+        "child_word": [
+          7,
+          11
+        ]
+      },
+      "156": {
+        "a": 156,
+        "ell": 2,
+        "numerator": 4192216551741314046099456,
+        "denominator": 1,
+        "density": "4192216551741314046099456",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 78,
+        "primitive_count": 6,
+        "child_order": 217995260690548330397171712,
+        "child_word": [
+          3,
+          2,
+          13
+        ]
+      },
+      "158": {
+        "a": 158,
+        "ell": 2,
+        "numerator": 117,
+        "denominator": 1,
+        "density": "117",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 79,
+        "primitive_count": 6,
+        "child_order": 6162,
+        "child_word": [
+          79
+        ]
+      },
+      "160": {
+        "a": 160,
+        "ell": 2,
+        "numerator": 12003621991652557120041733255593984,
+        "denominator": 1,
+        "density": "12003621991652557120041733255593984",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 80,
+        "primitive_count": 6,
+        "child_order": 640193172888136379735559106965012480,
+        "child_word": [
+          4,
+          4,
+          5
+        ]
+      },
+      "162": {
+        "a": 162,
+        "ell": 2,
+        "numerator": 330061593551697137477502369792,
+        "denominator": 1,
+        "density": "330061593551697137477502369792",
+        "q": 9,
+        "char": 3,
+        "dimension": 2,
+        "j": 6,
+        "m": 27,
+        "primitive_count": 36,
+        "child_order": 13060694016,
+        "child_word": [
+          3,
+          3,
+          3
+        ]
+      },
+      "164": {
+        "a": 164,
+        "ell": 2,
+        "numerator": 65970697666560,
+        "denominator": 1,
+        "density": "65970697666560",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 82,
+        "primitive_count": 6,
+        "child_order": 3606398139105280,
+        "child_word": [
+          2,
+          41
+        ]
+      },
+      "166": {
+        "a": 166,
+        "ell": 2,
+        "numerator": 123,
+        "denominator": 1,
+        "density": "123",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 83,
+        "primitive_count": 6,
+        "child_order": 6806,
+        "child_word": [
+          83
+        ]
+      },
+      "168": {
+        "a": 168,
+        "ell": 2,
+        "numerator": 20256112110913690140070424868814848,
+        "denominator": 1,
+        "density": "20256112110913690140070424868814848",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 84,
+        "primitive_count": 6,
+        "child_order": 1134342278211166647843943792653631488,
+        "child_word": [
+          4,
+          3,
+          7
+        ]
+      },
+      "170": {
+        "a": 170,
+        "ell": 2,
+        "numerator": 62914560000000000000000,
+        "denominator": 1,
+        "density": "62914560000000000000000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 85,
+        "primitive_count": 6,
+        "child_order": 3565158400000000000000000,
+        "child_word": [
+          5,
+          17
+        ]
+      },
+      "172": {
+        "a": 172,
+        "ell": 2,
+        "numerator": 277076930199552,
+        "denominator": 1,
+        "density": "277076930199552",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 86,
+        "primitive_count": 6,
+        "child_order": 15885743998107648,
+        "child_word": [
+          2,
+          43
+        ]
+      },
+      "174": {
+        "a": 174,
+        "ell": 2,
+        "numerator": 515839146015044501766144,
+        "denominator": 1,
+        "density": "515839146015044501766144",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 87,
+        "primitive_count": 6,
+        "child_order": 29918670468872581102436352,
+        "child_word": [
+          3,
+          29
+        ]
+      },
+      "176": {
+        "a": 176,
+        "ell": 2,
+        "numerator": 48461095554607571134232300900843520,
+        "denominator": 1,
+        "density": "48461095554607571134232300900843520",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 88,
+        "primitive_count": 6,
+        "child_order": 2843050939203644173208294986182819840,
+        "child_word": [
+          8,
+          11
+        ]
+      },
+      "178": {
+        "a": 178,
+        "ell": 2,
+        "numerator": 132,
+        "denominator": 1,
+        "density": "132",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 89,
+        "primitive_count": 6,
+        "child_order": 7832,
+        "child_word": [
+          89
+        ]
+      },
+      "180": {
+        "a": 180,
+        "ell": 2,
+        "numerator": 623816411812707589832479478906880,
+        "denominator": 1,
+        "density": "623816411812707589832479478906880",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 45,
+        "primitive_count": 42,
+        "child_order": 73123168801259520,
+        "child_word": [
+          3,
+          3,
+          5
+        ]
+      },
+      "182": {
+        "a": 182,
+        "ell": 2,
+        "numerator": 3253982704557085605888,
+        "denominator": 1,
+        "density": "3253982704557085605888",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 91,
+        "primitive_count": 6,
+        "child_order": 197408284076463193423872,
+        "child_word": [
+          7,
+          13
+        ]
+      },
+      "184": {
+        "a": 184,
+        "ell": 2,
+        "numerator": 458471673292285167779371756290048,
+        "denominator": 1,
+        "density": "458471673292285167779371756290048",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 92,
+        "primitive_count": 6,
+        "child_order": 28119595961926823623801467719122944,
+        "child_word": [
+          4,
+          23
+        ]
+      },
+      "186": {
+        "a": 186,
+        "ell": 2,
+        "numerator": 19896652774866002210979840,
+        "denominator": 1,
+        "density": "19896652774866002210979840",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 93,
+        "primitive_count": 6,
+        "child_order": 1233592472041692137080750080,
+        "child_word": [
+          3,
+          31
+        ]
+      },
+      "188": {
+        "a": 188,
+        "ell": 2,
+        "numerator": 4855443348258816,
+        "denominator": 1,
+        "density": "4855443348258816",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 94,
+        "primitive_count": 6,
+        "child_order": 304274449824219136,
+        "child_word": [
+          2,
+          47
+        ]
+      },
+      "190": {
+        "a": 190,
+        "ell": 2,
+        "numerator": 28311552000000000000000000,
+        "denominator": 1,
+        "density": "28311552000000000000000000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 95,
+        "primitive_count": 6,
+        "child_order": 1793064960000000000000000000,
+        "child_word": [
+          5,
+          19
+        ]
+      },
+      "192": {
+        "a": 192,
+        "ell": 2,
+        "numerator": 1003593449855434735346859455337203308167168,
+        "denominator": 1,
+        "density": "1003593449855434735346859455337203308167168",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 4,
+        "m": 48,
+        "primitive_count": 42,
+        "child_order": 3029143697736276639744,
+        "child_word": [
+          4,
+          4,
+          3
+        ]
+      },
+      "194": {
+        "a": 194,
+        "ell": 2,
+        "numerator": 144,
+        "denominator": 1,
+        "density": "144",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 97,
+        "primitive_count": 6,
+        "child_order": 9312,
+        "child_word": [
+          97
+        ]
+      },
+      "196": {
+        "a": 196,
+        "ell": 2,
+        "numerator": 83431354444548380301459456,
+        "denominator": 1,
+        "density": "83431354444548380301459456",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 98,
+        "primitive_count": 6,
+        "child_order": 5450848490377160846362017792,
+        "child_word": [
+          2,
+          7,
+          7
+        ]
+      },
+      "198": {
+        "a": 198,
+        "ell": 2,
+        "numerator": 28873788203902465586531907309404160,
+        "denominator": 1,
+        "density": "28873788203902465586531907309404160",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 99,
+        "primitive_count": 6,
+        "child_order": 1905670021457562728711105882420674560,
+        "child_word": [
+          3,
+          3,
+          11
+        ]
+      },
+      "200": {
+        "a": 200,
+        "ell": 2,
+        "numerator": 30729272298630546227306837134320599040000,
+        "denominator": 1,
+        "density": "30729272298630546227306837134320599040000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 2,
+        "m": 100,
+        "primitive_count": 6,
+        "child_order": 2048618153242036415153789142288039936000000,
+        "child_word": [
+          4,
+          5,
+          5
+        ]
+      }
+    },
+    "3": {
+      "6": {
+        "a": 6,
+        "ell": 3,
+        "numerator": 28,
+        "denominator": 1,
+        "density": "28",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 1,
+        "primitive_count": 224,
+        "child_order": 1,
+        "child_word": []
+      },
+      "9": {
+        "a": 9,
+        "ell": 3,
+        "numerator": 24,
+        "denominator": 1,
+        "density": "24",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 3,
+        "primitive_count": 8,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "12": {
+        "a": 12,
+        "ell": 3,
+        "numerator": 288,
+        "denominator": 1,
+        "density": "288",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 4,
+        "primitive_count": 8,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "15": {
+        "a": 15,
+        "ell": 3,
+        "numerator": 160,
+        "denominator": 1,
+        "density": "160",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 5,
+        "primitive_count": 8,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "18": {
+        "a": 18,
+        "ell": 3,
+        "numerator": 12096,
+        "denominator": 1,
+        "density": "12096",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 3,
+        "primitive_count": 224,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "21": {
+        "a": 21,
+        "ell": 3,
+        "numerator": 504,
+        "denominator": 1,
+        "density": "504",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 7,
+        "primitive_count": 8,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "24": {
+        "a": 24,
+        "ell": 3,
+        "numerator": 2322432,
+        "denominator": 1,
+        "density": "2322432",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 4,
+        "primitive_count": 224,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "27": {
+        "a": 27,
+        "ell": 3,
+        "numerator": 373248,
+        "denominator": 1,
+        "density": "373248",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 9,
+        "primitive_count": 8,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "30": {
+        "a": 30,
+        "ell": 3,
+        "numerator": 896000,
+        "denominator": 1,
+        "density": "896000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 5,
+        "primitive_count": 224,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "33": {
+        "a": 33,
+        "ell": 3,
+        "numerator": 2200,
+        "denominator": 1,
+        "density": "2200",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 11,
+        "primitive_count": 8,
+        "child_order": 110,
+        "child_word": [
+          11
+        ]
+      },
+      "36": {
+        "a": 36,
+        "ell": 3,
+        "numerator": 1146617856,
+        "denominator": 1,
+        "density": "1146617856",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 12,
+        "primitive_count": 8,
+        "child_order": 82944,
+        "child_word": [
+          4,
+          3
+        ]
+      },
+      "39": {
+        "a": 39,
+        "ell": 3,
+        "numerator": 3744,
+        "denominator": 1,
+        "density": "3744",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 13,
+        "primitive_count": 8,
+        "child_order": 156,
+        "child_word": [
+          13
+        ]
+      },
+      "42": {
+        "a": 42,
+        "ell": 3,
+        "numerator": 12446784,
+        "denominator": 1,
+        "density": "12446784",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 7,
+        "primitive_count": 224,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "45": {
+        "a": 45,
+        "ell": 3,
+        "numerator": 3224862720,
+        "denominator": 1,
+        "density": "3224862720",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 15,
+        "primitive_count": 8,
+        "child_order": 155520,
+        "child_word": [
+          3,
+          5
+        ]
+      },
+      "48": {
+        "a": 48,
+        "ell": 3,
+        "numerator": 11419974107136,
+        "denominator": 1,
+        "density": "11419974107136",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 8,
+        "primitive_count": 224,
+        "child_order": 1344,
+        "child_word": [
+          8
+        ]
+      },
+      "51": {
+        "a": 51,
+        "ell": 3,
+        "numerator": 8704,
+        "denominator": 1,
+        "density": "8704",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 17,
+        "primitive_count": 8,
+        "child_order": 272,
+        "child_word": [
+          17
+        ]
+      },
+      "54": {
+        "a": 54,
+        "ell": 3,
+        "numerator": 8776786378752,
+        "denominator": 1,
+        "density": "8776786378752",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 9,
+        "primitive_count": 224,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "57": {
+        "a": 57,
+        "ell": 3,
+        "numerator": 12312,
+        "denominator": 1,
+        "density": "12312",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 19,
+        "primitive_count": 8,
+        "child_order": 342,
+        "child_word": [
+          19
+        ]
+      },
+      "60": {
+        "a": 60,
+        "ell": 3,
+        "numerator": 2536135238615040,
+        "denominator": 1,
+        "density": "2536135238615040",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 20,
+        "primitive_count": 8,
+        "child_order": 159252480,
+        "child_word": [
+          4,
+          5
+        ]
+      },
+      "63": {
+        "a": 63,
+        "ell": 3,
+        "numerator": 13165179568128,
+        "denominator": 1,
+        "density": "13165179568128",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 21,
+        "primitive_count": 8,
+        "child_order": 11757312,
+        "child_word": [
+          3,
+          7
+        ]
+      },
+      "66": {
+        "a": 66,
+        "ell": 3,
+        "numerator": 4613734400,
+        "denominator": 1,
+        "density": "4613734400",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 22,
+        "primitive_count": 8,
+        "child_order": 225280,
+        "child_word": [
+          2,
+          11
+        ]
+      },
+      "69": {
+        "a": 69,
+        "ell": 3,
+        "numerator": 22264,
+        "denominator": 1,
+        "density": "22264",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 23,
+        "primitive_count": 8,
+        "child_order": 506,
+        "child_word": [
+          23
+        ]
+      },
+      "72": {
+        "a": 72,
+        "ell": 3,
+        "numerator": 110437530646635085824,
+        "denominator": 1,
+        "density": "110437530646635085824",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 12,
+        "primitive_count": 224,
+        "child_order": 82944,
+        "child_word": [
+          4,
+          3
+        ]
+      },
+      "75": {
+        "a": 75,
+        "ell": 3,
+        "numerator": 327680000000000,
+        "denominator": 1,
+        "density": "327680000000000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 25,
+        "primitive_count": 8,
+        "child_order": 64000000,
+        "child_word": [
+          5,
+          5
+        ]
+      },
+      "78": {
+        "a": 78,
+        "ell": 3,
+        "numerator": 125627793408,
+        "denominator": 1,
+        "density": "125627793408",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 26,
+        "primitive_count": 8,
+        "child_order": 1277952,
+        "child_word": [
+          2,
+          13
+        ]
+      },
+      "81": {
+        "a": 81,
+        "ell": 3,
+        "numerator": 12635683568857645056,
+        "denominator": 1,
+        "density": "12635683568857645056",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 27,
+        "primitive_count": 8,
+        "child_order": 13060694016,
+        "child_word": [
+          3,
+          3,
+          3
+        ]
+      },
+      "84": {
+        "a": 84,
+        "ell": 3,
+        "numerator": 2650500735519242059776,
+        "denominator": 1,
+        "density": "2650500735519242059776",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 28,
+        "primitive_count": 8,
+        "child_order": 192631799808,
+        "child_word": [
+          4,
+          7
+        ]
+      },
+      "87": {
+        "a": 87,
+        "ell": 3,
+        "numerator": 45472,
+        "denominator": 1,
+        "density": "45472",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 29,
+        "primitive_count": 8,
+        "child_order": 812,
+        "child_word": [
+          29
+        ]
+      },
+      "90": {
+        "a": 90,
+        "ell": 3,
+        "numerator": 1091972654098808832000,
+        "denominator": 1,
+        "density": "1091972654098808832000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 15,
+        "primitive_count": 224,
+        "child_order": 155520,
+        "child_word": [
+          3,
+          5
+        ]
+      },
+      "93": {
+        "a": 93,
+        "ell": 3,
+        "numerator": 55800,
+        "denominator": 1,
+        "density": "55800",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 31,
+        "primitive_count": 8,
+        "child_order": 930,
+        "child_word": [
+          31
+        ]
+      },
+      "96": {
+        "a": 96,
+        "ell": 3,
+        "numerator": 7034980256221056428993937408,
+        "denominator": 1,
+        "density": "7034980256221056428993937408",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 16,
+        "primitive_count": 224,
+        "child_order": 7962624,
+        "child_word": [
+          4,
+          4
+        ]
+      },
+      "99": {
+        "a": 99,
+        "ell": 3,
+        "numerator": 96522582817662566400,
+        "denominator": 1,
+        "density": "96522582817662566400",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 33,
+        "primitive_count": 8,
+        "child_order": 39907676160,
+        "child_word": [
+          3,
+          11
+        ]
+      },
+      "102": {
+        "a": 102,
+        "ell": 3,
+        "numerator": 74766790688768,
+        "denominator": 1,
+        "density": "74766790688768",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 34,
+        "primitive_count": 8,
+        "child_order": 35651584,
+        "child_word": [
+          2,
+          17
+        ]
+      },
+      "105": {
+        "a": 105,
+        "ell": 3,
+        "numerator": 165150720000000000000,
+        "denominator": 1,
+        "density": "165150720000000000000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 35,
+        "primitive_count": 8,
+        "child_order": 53760000000,
+        "child_word": [
+          5,
+          7
+        ]
+      },
+      "108": {
+        "a": 108,
+        "ell": 3,
+        "numerator": 651238172290177795141153062912,
+        "denominator": 1,
+        "density": "651238172290177795141153062912",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 36,
+        "primitive_count": 8,
+        "child_order": 3423782572130304,
+        "child_word": [
+          4,
+          3,
+          3
+        ]
+      },
+      "111": {
+        "a": 111,
+        "ell": 3,
+        "numerator": 95904,
+        "denominator": 1,
+        "density": "95904",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 37,
+        "primitive_count": 8,
+        "child_order": 1332,
+        "child_word": [
+          37
+        ]
+      },
+      "114": {
+        "a": 114,
+        "ell": 3,
+        "numerator": 1692148395147264,
+        "denominator": 1,
+        "density": "1692148395147264",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 38,
+        "primitive_count": 8,
+        "child_order": 179306496,
+        "child_word": [
+          2,
+          19
+        ]
+      },
+      "117": {
+        "a": 117,
+        "ell": 3,
+        "numerator": 212885996768113603903488,
+        "denominator": 1,
+        "density": "212885996768113603903488",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 39,
+        "primitive_count": 8,
+        "child_order": 2037468266496,
+        "child_word": [
+          3,
+          13
+        ]
+      },
+      "120": {
+        "a": 120,
+        "ell": 3,
+        "numerator": 900477472796295222911223988224000,
+        "denominator": 1,
+        "density": "900477472796295222911223988224000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 20,
+        "primitive_count": 224,
+        "child_order": 159252480,
+        "child_word": [
+          4,
+          5
+        ]
+      },
+      "123": {
+        "a": 123,
+        "ell": 3,
+        "numerator": 131200,
+        "denominator": 1,
+        "density": "131200",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 41,
+        "primitive_count": 8,
+        "child_order": 1640,
+        "child_word": [
+          41
+        ]
+      },
+      "126": {
+        "a": 126,
+        "ell": 3,
+        "numerator": 25478327099975078031233384448,
+        "denominator": 1,
+        "density": "25478327099975078031233384448",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 21,
+        "primitive_count": 224,
+        "child_order": 11757312,
+        "child_word": [
+          3,
+          7
+        ]
+      },
+      "129": {
+        "a": 129,
+        "ell": 3,
+        "numerator": 151704,
+        "denominator": 1,
+        "density": "151704",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 43,
+        "primitive_count": 8,
+        "child_order": 1806,
+        "child_word": [
+          43
+        ]
+      },
+      "132": {
+        "a": 132,
+        "ell": 3,
+        "numerator": 1273532425811903243831588211916800,
+        "denominator": 1,
+        "density": "1273532425811903243831588211916800",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 44,
+        "primitive_count": 8,
+        "child_order": 167384925748592640,
+        "child_word": [
+          4,
+          11
+        ]
+      },
+      "135": {
+        "a": 135,
+        "ell": 3,
+        "numerator": 237644347357221938983801706250240,
+        "denominator": 1,
+        "density": "237644347357221938983801706250240",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 45,
+        "primitive_count": 8,
+        "child_order": 73123168801259520,
+        "child_word": [
+          3,
+          3,
+          5
+        ]
+      },
+      "138": {
+        "a": 138,
+        "ell": 3,
+        "numerator": 783344860185755648,
+        "denominator": 1,
+        "density": "783344860185755648",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 46,
+        "primitive_count": 8,
+        "child_order": 4244635648,
+        "child_word": [
+          2,
+          23
+        ]
+      },
+      "141": {
+        "a": 141,
+        "ell": 3,
+        "numerator": 198904,
+        "denominator": 1,
+        "density": "198904",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 47,
+        "primitive_count": 8,
+        "child_order": 2162,
+        "child_word": [
+          47
+        ]
+      },
+      "144": {
+        "a": 144,
+        "ell": 3,
+        "numerator": 382321314230641803941660744890363165016064,
+        "denominator": 1,
+        "density": "382321314230641803941660744890363165016064",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 48,
+        "primitive_count": 8,
+        "child_order": 3029143697736276639744,
+        "child_word": [
+          4,
+          4,
+          3
+        ]
+      },
+      "147": {
+        "a": 147,
+        "ell": 3,
+        "numerator": 3826683660559132672524288,
+        "denominator": 1,
+        "density": "3826683660559132672524288",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 49,
+        "primitive_count": 8,
+        "child_order": 9682651996416,
+        "child_word": [
+          7,
+          7
+        ]
+      },
+      "150": {
+        "a": 150,
+        "ell": 3,
+        "numerator": 18790481920000000000000000000000,
+        "denominator": 1,
+        "density": "18790481920000000000000000000000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 25,
+        "primitive_count": 224,
+        "child_order": 64000000,
+        "child_word": [
+          5,
+          5
+        ]
+      },
+      "153": {
+        "a": 153,
+        "ell": 3,
+        "numerator": 831266235611681679572968931328,
+        "denominator": 1,
+        "density": "831266235611681679572968931328",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 51,
+        "primitive_count": 8,
+        "child_order": 4604051368968192,
+        "child_word": [
+          3,
+          17
+        ]
+      },
+      "156": {
+        "a": 156,
+        "ell": 3,
+        "numerator": 719064971787954781718979988943102017536,
+        "denominator": 1,
+        "density": "719064971787954781718979988943102017536",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 52,
+        "primitive_count": 8,
+        "child_order": 136732180800595820544,
+        "child_word": [
+          4,
+          13
+        ]
+      },
+      "159": {
+        "a": 159,
+        "ell": 3,
+        "numerator": 286624,
+        "denominator": 1,
+        "density": "286624",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 53,
+        "primitive_count": 8,
+        "child_order": 2756,
+        "child_word": [
+          53
+        ]
+      },
+      "162": {
+        "a": 162,
+        "ell": 3,
+        "numerator": 30175834358684524930677211750377354952704,
+        "denominator": 1,
+        "density": "30175834358684524930677211750377354952704",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 27,
+        "primitive_count": 224,
+        "child_order": 13060694016,
+        "child_word": [
+          3,
+          3,
+          3
+        ]
+      },
+      "165": {
+        "a": 165,
+        "ell": 3,
+        "numerator": 18454937600000000000000000000000,
+        "denominator": 1,
+        "density": "18454937600000000000000000000000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 55,
+        "primitive_count": 8,
+        "child_order": 22528000000000000,
+        "child_word": [
+          5,
+          11
+        ]
+      },
+      "168": {
+        "a": 168,
+        "ell": 3,
+        "numerator": 3953031831693299827818000909178009755580366848,
+        "denominator": 1,
+        "density": "3953031831693299827818000909178009755580366848",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 56,
+        "primitive_count": 8,
+        "child_order": 332693389305246633689088,
+        "child_word": [
+          8,
+          7
+        ]
+      },
+      "171": {
+        "a": 171,
+        "ell": 3,
+        "numerator": 1523894377428185683733628441329664,
+        "denominator": 1,
+        "density": "1523894377428185683733628441329664",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 57,
+        "primitive_count": 8,
+        "child_order": 208401031083589632,
+        "child_word": [
+          3,
+          19
+        ]
+      },
+      "174": {
+        "a": 174,
+        "ell": 3,
+        "numerator": 6553205832185318211584,
+        "denominator": 1,
+        "density": "6553205832185318211584",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 58,
+        "primitive_count": 8,
+        "child_order": 435939180544,
+        "child_word": [
+          2,
+          29
+        ]
+      },
+      "177": {
+        "a": 177,
+        "ell": 3,
+        "numerator": 396952,
+        "denominator": 1,
+        "density": "396952",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 59,
+        "primitive_count": 8,
+        "child_order": 3422,
+        "child_word": [
+          59
+        ]
+      },
+      "180": {
+        "a": 180,
+        "ell": 3,
+        "numerator": 205488958887300372534168465180727109686918832455680,
+        "denominator": 1,
+        "density": "205488958887300372534168465180727109686918832455680",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 60,
+        "primitive_count": 8,
+        "child_order": 78515404645324290502164480,
+        "child_word": [
+          4,
+          3,
+          5
+        ]
+      },
+      "183": {
+        "a": 183,
+        "ell": 3,
+        "numerator": 439200,
+        "denominator": 1,
+        "density": "439200",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 61,
+        "primitive_count": 8,
+        "child_order": 3660,
+        "child_word": [
+          61
+        ]
+      },
+      "186": {
+        "a": 186,
+        "ell": 3,
+        "numerator": 128666039914124122521600,
+        "denominator": 1,
+        "density": "128666039914124122521600",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 62,
+        "primitive_count": 8,
+        "child_order": 1997159792640,
+        "child_word": [
+          2,
+          31
+        ]
+      },
+      "189": {
+        "a": 189,
+        "ell": 3,
+        "numerator": 2111825591758177792748513987138408809010036736,
+        "denominator": 1,
+        "density": "2111825591758177792748513987138408809010036736",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 63,
+        "primitive_count": 8,
+        "child_order": 257919573007522250883072,
+        "child_word": [
+          3,
+          3,
+          7
+        ]
+      },
+      "192": {
+        "a": 192,
+        "ell": 3,
+        "numerator": 419145552875533029671126738933985192923050416911715139584,
+        "denominator": 1,
+        "density": "419145552875533029671126738933985192923050416911715139584",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 6,
+        "m": 32,
+        "primitive_count": 224,
+        "child_order": 147941222252544,
+        "child_word": [
+          4,
+          8
+        ]
+      },
+      "195": {
+        "a": 195,
+        "ell": 3,
+        "numerator": 5025111736320000000000000000000000000,
+        "denominator": 1,
+        "density": "5025111736320000000000000000000000000",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 65,
+        "primitive_count": 8,
+        "child_order": 12779520000000000000,
+        "child_word": [
+          5,
+          13
+        ]
+      },
+      "198": {
+        "a": 198,
+        "ell": 3,
+        "numerator": 26643197978931803944279687490201883299020800,
+        "denominator": 1,
+        "density": "26643197978931803944279687490201883299020800",
+        "q": 4,
+        "char": 2,
+        "dimension": 2,
+        "j": 3,
+        "m": 66,
+        "primitive_count": 8,
+        "child_order": 29651737441585940398080,
+        "child_word": [
+          3,
+          2,
+          11
+        ]
+      }
+    },
+    "5": {
+      "5": {
+        "a": 5,
+        "ell": 5,
+        "numerator": 4,
+        "denominator": 5,
+        "density": "4/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 1,
+        "primitive_count": 4,
+        "child_order": 1,
+        "child_word": []
+      },
+      "10": {
+        "a": 10,
+        "ell": 5,
+        "numerator": 32,
+        "denominator": 5,
+        "density": "32/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 2,
+        "primitive_count": 4,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "15": {
+        "a": 15,
+        "ell": 5,
+        "numerator": 1344,
+        "denominator": 1,
+        "density": "1344",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 15,
+        "m": 1,
+        "primitive_count": 21504,
+        "child_order": 1,
+        "child_word": []
+      },
+      "20": {
+        "a": 20,
+        "ell": 5,
+        "numerator": 331776,
+        "denominator": 5,
+        "density": "331776/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 4,
+        "primitive_count": 4,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "25": {
+        "a": 25,
+        "ell": 5,
+        "numerator": 25600,
+        "denominator": 1,
+        "density": "25600",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 5,
+        "primitive_count": 4,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "30": {
+        "a": 30,
+        "ell": 5,
+        "numerator": 17915904,
+        "denominator": 5,
+        "density": "17915904/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 6,
+        "primitive_count": 4,
+        "child_order": 72,
+        "child_word": [
+          3,
+          2
+        ]
+      },
+      "35": {
+        "a": 35,
+        "ell": 5,
+        "numerator": 1778112,
+        "denominator": 5,
+        "density": "1778112/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 7,
+        "primitive_count": 4,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "40": {
+        "a": 40,
+        "ell": 5,
+        "numerator": 1631424872448,
+        "denominator": 5,
+        "density": "1631424872448/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 8,
+        "primitive_count": 4,
+        "child_order": 1344,
+        "child_word": [
+          8
+        ]
+      },
+      "45": {
+        "a": 45,
+        "ell": 5,
+        "numerator": 975198486528,
+        "denominator": 1,
+        "density": "975198486528",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 15,
+        "m": 3,
+        "primitive_count": 21504,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "50": {
+        "a": 50,
+        "ell": 5,
+        "numerator": 32768000000,
+        "denominator": 1,
+        "density": "32768000000",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 10,
+        "primitive_count": 4,
+        "child_order": 800,
+        "child_word": [
+          5,
+          2
+        ]
+      },
+      "55": {
+        "a": 55,
+        "ell": 5,
+        "numerator": 10648000,
+        "denominator": 1,
+        "density": "10648000",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 11,
+        "primitive_count": 4,
+        "child_order": 110,
+        "child_word": [
+          11
+        ]
+      },
+      "60": {
+        "a": 60,
+        "ell": 5,
+        "numerator": 12270836738515009536,
+        "denominator": 1,
+        "density": "12270836738515009536",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 15,
+        "m": 4,
+        "primitive_count": 21504,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "65": {
+        "a": 65,
+        "ell": 5,
+        "numerator": 182227968,
+        "denominator": 5,
+        "density": "182227968/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 13,
+        "primitive_count": 4,
+        "child_order": 156,
+        "child_word": [
+          13
+        ]
+      },
+      "70": {
+        "a": 70,
+        "ell": 5,
+        "numerator": 238654152769536,
+        "denominator": 5,
+        "density": "238654152769536/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 14,
+        "primitive_count": 4,
+        "child_order": 5376,
+        "child_word": [
+          2,
+          7
+        ]
+      },
+      "75": {
+        "a": 75,
+        "ell": 5,
+        "numerator": 31199218688537395200,
+        "denominator": 1,
+        "density": "31199218688537395200",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 15,
+        "primitive_count": 4,
+        "child_order": 155520,
+        "child_word": [
+          3,
+          5
+        ]
+      },
+      "80": {
+        "a": 80,
+        "ell": 5,
+        "numerator": 1004997179460150918427705344,
+        "denominator": 5,
+        "density": "1004997179460150918427705344/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 16,
+        "primitive_count": 4,
+        "child_order": 7962624,
+        "child_word": [
+          4,
+          4
+        ]
+      },
+      "85": {
+        "a": 85,
+        "ell": 5,
+        "numerator": 1287913472,
+        "denominator": 5,
+        "density": "1287913472/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 17,
+        "primitive_count": 4,
+        "child_order": 272,
+        "child_word": [
+          17
+        ]
+      },
+      "90": {
+        "a": 90,
+        "ell": 5,
+        "numerator": 28297461724253869811171328,
+        "denominator": 5,
+        "density": "28297461724253869811171328/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 18,
+        "primitive_count": 4,
+        "child_order": 3359232,
+        "child_word": [
+          3,
+          3,
+          2
+        ]
+      },
+      "95": {
+        "a": 95,
+        "ell": 5,
+        "numerator": 2880121536,
+        "denominator": 5,
+        "density": "2880121536/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 19,
+        "primitive_count": 4,
+        "child_order": 342,
+        "child_word": [
+          19
+        ]
+      },
+      "100": {
+        "a": 100,
+        "ell": 5,
+        "numerator": 25727927794179863511749256806400,
+        "denominator": 1,
+        "density": "25727927794179863511749256806400",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 20,
+        "primitive_count": 4,
+        "child_order": 159252480,
+        "child_word": [
+          4,
+          5
+        ]
+      },
+      "105": {
+        "a": 105,
+        "ell": 5,
+        "numerator": 3639761014282154004461912064,
+        "denominator": 5,
+        "density": "3639761014282154004461912064/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 21,
+        "primitive_count": 4,
+        "child_order": 11757312,
+        "child_word": [
+          3,
+          7
+        ]
+      },
+      "110": {
+        "a": 110,
+        "ell": 5,
+        "numerator": 93660798500470784000,
+        "denominator": 1,
+        "density": "93660798500470784000",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 22,
+        "primitive_count": 4,
+        "child_order": 225280,
+        "child_word": [
+          2,
+          11
+        ]
+      },
+      "115": {
+        "a": 115,
+        "ell": 5,
+        "numerator": 11400771008,
+        "denominator": 5,
+        "density": "11400771008/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 23,
+        "primitive_count": 4,
+        "child_order": 506,
+        "child_word": [
+          23
+        ]
+      },
+      "120": {
+        "a": 120,
+        "ell": 5,
+        "numerator": 5835801433315174774154975832001738702848,
+        "denominator": 1,
+        "density": "5835801433315174774154975832001738702848",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 15,
+        "m": 8,
+        "primitive_count": 21504,
+        "child_order": 1344,
+        "child_word": [
+          8
+        ]
+      },
+      "125": {
+        "a": 125,
+        "ell": 5,
+        "numerator": 536870912000000000000000000000,
+        "denominator": 1,
+        "density": "536870912000000000000000000000",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 25,
+        "primitive_count": 4,
+        "child_order": 64000000,
+        "child_word": [
+          5,
+          5
+        ]
+      },
+      "130": {
+        "a": 130,
+        "ell": 5,
+        "numerator": 410340904390641334616064,
+        "denominator": 5,
+        "density": "410340904390641334616064/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 26,
+        "primitive_count": 4,
+        "child_order": 1277952,
+        "child_word": [
+          2,
+          13
+        ]
+      },
+      "135": {
+        "a": 135,
+        "ell": 5,
+        "numerator": 3352870484298280547853023527819706105856,
+        "denominator": 1,
+        "density": "3352870484298280547853023527819706105856",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 15,
+        "m": 9,
+        "primitive_count": 21504,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "140": {
+        "a": 140,
+        "ell": 5,
+        "numerator": 196704316171665208127984453246091848400764928,
+        "denominator": 5,
+        "density": "196704316171665208127984453246091848400764928/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 28,
+        "primitive_count": 4,
+        "child_order": 192631799808,
+        "child_word": [
+          4,
+          7
+        ]
+      },
+      "145": {
+        "a": 145,
+        "ell": 5,
+        "numerator": 59963380736,
+        "denominator": 5,
+        "density": "59963380736/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 29,
+        "primitive_count": 4,
+        "child_order": 812,
+        "child_word": [
+          29
+        ]
+      },
+      "150": {
+        "a": 150,
+        "ell": 5,
+        "numerator": 146008687016277159311647768320147456000000,
+        "denominator": 1,
+        "density": "146008687016277159311647768320147456000000",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 30,
+        "primitive_count": 4,
+        "child_order": 48372940800,
+        "child_word": [
+          3,
+          5,
+          2
+        ]
+      },
+      "155": {
+        "a": 155,
+        "ell": 5,
+        "numerator": 19304568000,
+        "denominator": 1,
+        "density": "19304568000",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 31,
+        "primitive_count": 4,
+        "child_order": 930,
+        "child_word": [
+          31
+        ]
+      },
+      "160": {
+        "a": 160,
+        "ell": 5,
+        "numerator": 59877936125076147095875248419140741846150059558816448512,
+        "denominator": 5,
+        "density": "59877936125076147095875248419140741846150059558816448512/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 32,
+        "primitive_count": 4,
+        "child_order": 147941222252544,
+        "child_word": [
+          4,
+          8
+        ]
+      },
+      "165": {
+        "a": 165,
+        "ell": 5,
+        "numerator": 61489619359030690713078349806107099136000,
+        "denominator": 1,
+        "density": "61489619359030690713078349806107099136000",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 33,
+        "primitive_count": 4,
+        "child_order": 39907676160,
+        "child_word": [
+          3,
+          11
+        ]
+      },
+      "170": {
+        "a": 170,
+        "ell": 5,
+        "numerator": 190062481656533540330606166016,
+        "denominator": 5,
+        "density": "190062481656533540330606166016/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 34,
+        "primitive_count": 4,
+        "child_order": 35651584,
+        "child_word": [
+          2,
+          17
+        ]
+      },
+      "175": {
+        "a": 175,
+        "ell": 5,
+        "numerator": 190923322215628800000000000000000000000000,
+        "denominator": 1,
+        "density": "190923322215628800000000000000000000000000",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 35,
+        "primitive_count": 4,
+        "child_order": 53760000000,
+        "child_word": [
+          5,
+          7
+        ]
+      },
+      "180": {
+        "a": 180,
+        "ell": 5,
+        "numerator": 11875112397339836338669728427332132939926701826984292837752832,
+        "denominator": 1,
+        "density": "11875112397339836338669728427332132939926701826984292837752832",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 15,
+        "m": 12,
+        "primitive_count": 21504,
+        "child_order": 82944,
+        "child_word": [
+          4,
+          3
+        ]
+      },
+      "185": {
+        "a": 185,
+        "ell": 5,
+        "numerator": 340310356992,
+        "denominator": 5,
+        "density": "340310356992/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 37,
+        "primitive_count": 4,
+        "child_order": 1332,
+        "child_word": [
+          37
+        ]
+      },
+      "190": {
+        "a": 190,
+        "ell": 5,
+        "numerator": 108807915265579522085161374056448,
+        "denominator": 5,
+        "density": "108807915265579522085161374056448/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 38,
+        "primitive_count": 4,
+        "child_order": 179306496,
+        "child_word": [
+          2,
+          19
+        ]
+      },
+      "195": {
+        "a": 195,
+        "ell": 5,
+        "numerator": 1767497457178177756445137230378317772721924079616,
+        "denominator": 5,
+        "density": "1767497457178177756445137230378317772721924079616/5",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 39,
+        "primitive_count": 4,
+        "child_order": 2037468266496,
+        "child_word": [
+          3,
+          13
+        ]
+      },
+      "200": {
+        "a": 200,
+        "ell": 5,
+        "numerator": 1183410321165434967246226521270480488003519053522013641174627123200,
+        "denominator": 1,
+        "density": "1183410321165434967246226521270480488003519053522013641174627123200",
+        "q": 5,
+        "char": 5,
+        "dimension": 1,
+        "j": 5,
+        "m": 40,
+        "primitive_count": 4,
+        "child_order": 87705401142804480,
+        "child_word": [
+          8,
+          5
+        ]
+      }
+    },
+    "7": {
+      "7": {
+        "a": 7,
+        "ell": 7,
+        "numerator": 48,
+        "denominator": 1,
+        "density": "48",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 1,
+        "primitive_count": 384,
+        "child_order": 1,
+        "child_word": []
+      },
+      "14": {
+        "a": 14,
+        "ell": 7,
+        "numerator": 2880,
+        "denominator": 1,
+        "density": "2880",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 14,
+        "m": 1,
+        "primitive_count": 46080,
+        "child_order": 1,
+        "child_word": []
+      },
+      "21": {
+        "a": 21,
+        "ell": 7,
+        "numerator": 746496,
+        "denominator": 1,
+        "density": "746496",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 3,
+        "primitive_count": 384,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "28": {
+        "a": 28,
+        "ell": 7,
+        "numerator": 2293235712,
+        "denominator": 1,
+        "density": "2293235712",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 4,
+        "primitive_count": 384,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "35": {
+        "a": 35,
+        "ell": 7,
+        "numerator": 614400000,
+        "denominator": 1,
+        "density": "614400000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 5,
+        "primitive_count": 384,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "42": {
+        "a": 42,
+        "ell": 7,
+        "numerator": 2089711042560,
+        "denominator": 1,
+        "density": "2089711042560",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 14,
+        "m": 3,
+        "primitive_count": 46080,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "49": {
+        "a": 49,
+        "ell": 7,
+        "numerator": 37639074816,
+        "denominator": 1,
+        "density": "37639074816",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 7,
+        "primitive_count": 384,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "56": {
+        "a": 56,
+        "ell": 7,
+        "numerator": 35362817740778766336,
+        "denominator": 1,
+        "density": "35362817740778766336",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 8,
+        "primitive_count": 384,
+        "child_order": 1344,
+        "child_word": [
+          8
+        ]
+      },
+      "63": {
+        "a": 63,
+        "ell": 7,
+        "numerator": 25271367137715290112,
+        "denominator": 1,
+        "density": "25271367137715290112",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 9,
+        "primitive_count": 384,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "70": {
+        "a": 70,
+        "ell": 7,
+        "numerator": 2359296000000000000,
+        "denominator": 1,
+        "density": "2359296000000000000",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 14,
+        "m": 5,
+        "primitive_count": 46080,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "77": {
+        "a": 77,
+        "ell": 7,
+        "numerator": 7730448000000,
+        "denominator": 1,
+        "density": "7730448000000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 11,
+        "primitive_count": 384,
+        "child_order": 110,
+        "child_word": [
+          11
+        ]
+      },
+      "84": {
+        "a": 84,
+        "ell": 7,
+        "numerator": 1302476344580355590282306125824,
+        "denominator": 1,
+        "density": "1302476344580355590282306125824",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 12,
+        "primitive_count": 384,
+        "child_order": 82944,
+        "child_word": [
+          4,
+          3
+        ]
+      },
+      "91": {
+        "a": 91,
+        "ell": 7,
+        "numerator": 53216397950976,
+        "denominator": 1,
+        "density": "53216397950976",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 13,
+        "primitive_count": 384,
+        "child_order": 156,
+        "child_word": [
+          13
+        ]
+      },
+      "98": {
+        "a": 98,
+        "ell": 7,
+        "numerator": 82769200837845615378432,
+        "denominator": 1,
+        "density": "82769200837845615378432",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 14,
+        "primitive_count": 384,
+        "child_order": 5376,
+        "child_word": [
+          2,
+          7
+        ]
+      },
+      "105": {
+        "a": 105,
+        "ell": 7,
+        "numerator": 45275938758806191697874124800000,
+        "denominator": 1,
+        "density": "45275938758806191697874124800000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 15,
+        "primitive_count": 384,
+        "child_order": 155520,
+        "child_word": [
+          3,
+          5
+        ]
+      },
+      "112": {
+        "a": 112,
+        "ell": 7,
+        "numerator": 764642628461283607883321489780726330032128,
+        "denominator": 1,
+        "density": "764642628461283607883321489780726330032128",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 16,
+        "primitive_count": 384,
+        "child_order": 7962624,
+        "child_word": [
+          4,
+          4
+        ]
+      },
+      "119": {
+        "a": 119,
+        "ell": 7,
+        "numerator": 1143419883749376,
+        "denominator": 1,
+        "density": "1143419883749376",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 17,
+        "primitive_count": 384,
+        "child_order": 272,
+        "child_word": [
+          17
+        ]
+      },
+      "126": {
+        "a": 126,
+        "ell": 7,
+        "numerator": 7184722466353458316827907559613655941120,
+        "denominator": 1,
+        "density": "7184722466353458316827907559613655941120",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 14,
+        "m": 9,
+        "primitive_count": 46080,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "133": {
+        "a": 133,
+        "ell": 7,
+        "numerator": 4042446424040448,
+        "denominator": 1,
+        "density": "4042446424040448",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 19,
+        "primitive_count": 384,
+        "child_order": 342,
+        "child_word": [
+          19
+        ]
+      },
+      "140": {
+        "a": 140,
+        "ell": 7,
+        "numerator": 39149702577217720723626060276773188097644953600000,
+        "denominator": 1,
+        "density": "39149702577217720723626060276773188097644953600000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 20,
+        "primitive_count": 384,
+        "child_order": 159252480,
+        "child_word": [
+          4,
+          5
+        ]
+      },
+      "147": {
+        "a": 147,
+        "ell": 7,
+        "numerator": 6037681524600128696546332117721335770120192,
+        "denominator": 1,
+        "density": "6037681524600128696546332117721335770120192",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 21,
+        "primitive_count": 384,
+        "child_order": 11757312,
+        "child_word": [
+          3,
+          7
+        ]
+      },
+      "154": {
+        "a": 154,
+        "ell": 7,
+        "numerator": 285203191662239711741607936000000,
+        "denominator": 1,
+        "density": "285203191662239711741607936000000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 22,
+        "primitive_count": 384,
+        "child_order": 225280,
+        "child_word": [
+          2,
+          11
+        ]
+      },
+      "161": {
+        "a": 161,
+        "ell": 7,
+        "numerator": 35028093669651456,
+        "denominator": 1,
+        "density": "35028093669651456",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 23,
+        "primitive_count": 384,
+        "child_order": 506,
+        "child_word": [
+          23
+        ]
+      },
+      "168": {
+        "a": 168,
+        "ell": 7,
+        "numerator": 25446669422871077868577989487140284871271503914966341795184640,
+        "denominator": 1,
+        "density": "25446669422871077868577989487140284871271503914966341795184640",
+        "q": 16,
+        "char": 2,
+        "dimension": 4,
+        "j": 14,
+        "m": 12,
+        "primitive_count": 46080,
+        "child_order": 82944,
+        "child_word": [
+          4,
+          3
+        ]
+      },
+      "175": {
+        "a": 175,
+        "ell": 7,
+        "numerator": 131941395333120000000000000000000000000000000000,
+        "denominator": 1,
+        "density": "131941395333120000000000000000000000000000000000",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 25,
+        "primitive_count": 384,
+        "child_order": 64000000,
+        "child_word": [
+          5,
+          5
+        ]
+      },
+      "182": {
+        "a": 182,
+        "ell": 7,
+        "numerator": 8041834688727741675348476801656553472,
+        "denominator": 1,
+        "density": "8041834688727741675348476801656553472",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 26,
+        "primitive_count": 384,
+        "child_order": 1277952,
+        "child_word": [
+          2,
+          13
+        ]
+      },
+      "189": {
+        "a": 189,
+        "ell": 7,
+        "numerator": 8824193098568743433650986532811743122384482617363049043984384,
+        "denominator": 1,
+        "density": "8824193098568743433650986532811743122384482617363049043984384",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 27,
+        "primitive_count": 384,
+        "child_order": 13060694016,
+        "child_word": [
+          3,
+          3,
+          3
+        ]
+      },
+      "196": {
+        "a": 196,
+        "ell": 7,
+        "numerator": 87589309028391773334976567154763114051883042058002289981781656469504,
+        "denominator": 1,
+        "density": "87589309028391773334976567154763114051883042058002289981781656469504",
+        "q": 8,
+        "char": 2,
+        "dimension": 3,
+        "j": 7,
+        "m": 28,
+        "primitive_count": 384,
+        "child_order": 192631799808,
+        "child_word": [
+          4,
+          7
+        ]
+      }
+    },
+    "11": {
+      "11": {
+        "a": 11,
+        "ell": 11,
+        "numerator": 10,
+        "denominator": 11,
+        "density": "10/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 1,
+        "primitive_count": 10,
+        "child_order": 1,
+        "child_word": []
+      },
+      "22": {
+        "a": 22,
+        "ell": 11,
+        "numerator": 5120,
+        "denominator": 11,
+        "density": "5120/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 2,
+        "primitive_count": 10,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "33": {
+        "a": 33,
+        "ell": 11,
+        "numerator": 201553920,
+        "denominator": 11,
+        "density": "201553920/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 3,
+        "primitive_count": 10,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "44": {
+        "a": 44,
+        "ell": 11,
+        "numerator": 158508452413440,
+        "denominator": 11,
+        "density": "158508452413440/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 4,
+        "primitive_count": 10,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "55": {
+        "a": 55,
+        "ell": 11,
+        "numerator": 20480000000000,
+        "denominator": 11,
+        "density": "20480000000000/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 5,
+        "primitive_count": 10,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "66": {
+        "a": 66,
+        "ell": 11,
+        "numerator": 6239843737707479040,
+        "denominator": 11,
+        "density": "6239843737707479040/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 6,
+        "primitive_count": 10,
+        "child_order": 72,
+        "child_word": [
+          3,
+          2
+        ]
+      },
+      "77": {
+        "a": 77,
+        "ell": 11,
+        "numerator": 24400283030968320,
+        "denominator": 11,
+        "density": "24400283030968320/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 7,
+        "primitive_count": 10,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "88": {
+        "a": 88,
+        "ell": 11,
+        "numerator": 24038241842563279332456498462720,
+        "denominator": 11,
+        "density": "24038241842563279332456498462720/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 8,
+        "primitive_count": 10,
+        "child_order": 1344,
+        "child_word": [
+          8
+        ]
+      },
+      "99": {
+        "a": 99,
+        "ell": 11,
+        "numerator": 14852771709826371186487606640640,
+        "denominator": 11,
+        "density": "14852771709826371186487606640640/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 9,
+        "primitive_count": 10,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "110": {
+        "a": 110,
+        "ell": 11,
+        "numerator": 107374182400000000000000000000,
+        "denominator": 11,
+        "density": "107374182400000000000000000000/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 10,
+        "primitive_count": 10,
+        "child_order": 800,
+        "child_word": [
+          5,
+          2
+        ]
+      },
+      "121": {
+        "a": 121,
+        "ell": 11,
+        "numerator": 21435888100000000000,
+        "denominator": 1,
+        "density": "21435888100000000000",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 11,
+        "primitive_count": 10,
+        "child_order": 110,
+        "child_word": [
+          11
+        ]
+      },
+      "132": {
+        "a": 132,
+        "ell": 11,
+        "numerator": 12843059930456273283385529073795444355432427028480,
+        "denominator": 11,
+        "density": "12843059930456273283385529073795444355432427028480/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 12,
+        "primitive_count": 10,
+        "child_order": 82944,
+        "child_word": [
+          4,
+          3
+        ]
+      },
+      "143": {
+        "a": 143,
+        "ell": 11,
+        "numerator": 6566026500912206315520,
+        "denominator": 11,
+        "density": "6566026500912206315520/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 13,
+        "primitive_count": 10,
+        "child_order": 156,
+        "child_word": [
+          13
+        ]
+      },
+      "154": {
+        "a": 154,
+        "ell": 11,
+        "numerator": 14403384844747218965319945904025763840,
+        "denominator": 11,
+        "density": "14403384844747218965319945904025763840/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 14,
+        "primitive_count": 10,
+        "child_order": 5376,
+        "child_word": [
+          2,
+          7
+        ]
+      },
+      "165": {
+        "a": 165,
+        "ell": 11,
+        "numerator": 5517866854159455987323833005783287762780160000000000,
+        "denominator": 11,
+        "density": "5517866854159455987323833005783287762780160000000000/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 15,
+        "primitive_count": 10,
+        "child_order": 155520,
+        "child_word": [
+          3,
+          5
+        ]
+      },
+      "176": {
+        "a": 176,
+        "ell": 11,
+        "numerator": 640386404082155120330928813707222672380281323739353923541460697743360,
+        "denominator": 11,
+        "density": "640386404082155120330928813707222672380281323739353923541460697743360/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 16,
+        "primitive_count": 10,
+        "child_order": 7962624,
+        "child_word": [
+          4,
+          4
+        ]
+      },
+      "187": {
+        "a": 187,
+        "ell": 11,
+        "numerator": 1303887491217157227806720,
+        "denominator": 11,
+        "density": "1303887491217157227806720/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 17,
+        "primitive_count": 10,
+        "child_order": 272,
+        "child_word": [
+          17
+        ]
+      },
+      "198": {
+        "a": 198,
+        "ell": 11,
+        "numerator": 101654704495511924355659364857991280769869239752022324986700103680,
+        "denominator": 11,
+        "density": "101654704495511924355659364857991280769869239752022324986700103680/11",
+        "q": 11,
+        "char": 11,
+        "dimension": 1,
+        "j": 11,
+        "m": 18,
+        "primitive_count": 10,
+        "child_order": 3359232,
+        "child_word": [
+          3,
+          3,
+          2
+        ]
+      }
+    },
+    "13": {
+      "13": {
+        "a": 13,
+        "ell": 13,
+        "numerator": 12,
+        "denominator": 13,
+        "density": "12/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 1,
+        "primitive_count": 12,
+        "child_order": 1,
+        "child_word": []
+      },
+      "26": {
+        "a": 26,
+        "ell": 13,
+        "numerator": 24576,
+        "denominator": 13,
+        "density": "24576/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 2,
+        "primitive_count": 12,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "39": {
+        "a": 39,
+        "ell": 13,
+        "numerator": 8707129344,
+        "denominator": 13,
+        "density": "8707129344/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 3,
+        "primitive_count": 12,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "52": {
+        "a": 52,
+        "ell": 13,
+        "numerator": 109561042308169728,
+        "denominator": 13,
+        "density": "109561042308169728/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 4,
+        "primitive_count": 12,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "65": {
+        "a": 65,
+        "ell": 13,
+        "numerator": 9830400000000000,
+        "denominator": 13,
+        "density": "9830400000000000/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 5,
+        "primitive_count": 12,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "78": {
+        "a": 78,
+        "ell": 13,
+        "numerator": 38816819923530685612032,
+        "denominator": 13,
+        "density": "38816819923530685612032/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 6,
+        "primitive_count": 12,
+        "child_order": 72,
+        "child_word": [
+          3,
+          2
+        ]
+      },
+      "91": {
+        "a": 91,
+        "ell": 13,
+        "numerator": 51650519119953739776,
+        "denominator": 13,
+        "density": "51650519119953739776/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 7,
+        "primitive_count": 12,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "104": {
+        "a": 104,
+        "ell": 13,
+        "numerator": 52105369940314060483526569928586952704,
+        "denominator": 13,
+        "density": "52105369940314060483526569928586952704/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 8,
+        "primitive_count": 12,
+        "child_order": 1344,
+        "child_word": [
+          8
+        ]
+      },
+      "117": {
+        "a": 117,
+        "ell": 13,
+        "numerator": 29936343609806076320116281498390233088,
+        "denominator": 13,
+        "density": "29936343609806076320116281498390233088/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 9,
+        "primitive_count": 12,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "130": {
+        "a": 130,
+        "ell": 13,
+        "numerator": 82463372083200000000000000000000000,
+        "denominator": 13,
+        "density": "82463372083200000000000000000000000/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 10,
+        "primitive_count": 12,
+        "child_order": 800,
+        "child_word": [
+          5,
+          2
+        ]
+      },
+      "143": {
+        "a": 143,
+        "ell": 13,
+        "numerator": 3423740047332000000000000,
+        "denominator": 13,
+        "density": "3423740047332000000000000/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 11,
+        "primitive_count": 12,
+        "child_order": 110,
+        "child_word": [
+          11
+        ]
+      },
+      "156": {
+        "a": 156,
+        "ell": 13,
+        "numerator": 106027789261962824452408289529751186963631266312359757479936,
+        "denominator": 13,
+        "density": "106027789261962824452408289529751186963631266312359757479936/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 12,
+        "primitive_count": 12,
+        "child_order": 82944,
+        "child_word": [
+          4,
+          3
+        ]
+      },
+      "169": {
+        "a": 169,
+        "ell": 13,
+        "numerator": 14749921931649180267184128,
+        "denominator": 1,
+        "density": "14749921931649180267184128",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 13,
+        "primitive_count": 12,
+        "child_order": 156,
+        "child_word": [
+          13
+        ]
+      },
+      "182": {
+        "a": 182,
+        "ell": 13,
+        "numerator": 499533169284889200325251260246290217312452608,
+        "denominator": 13,
+        "density": "499533169284889200325251260246290217312452608/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 14,
+        "primitive_count": 12,
+        "child_order": 5376,
+        "child_word": [
+          2,
+          7
+        ]
+      },
+      "195": {
+        "a": 195,
+        "ell": 13,
+        "numerator": 160149268007122558941012794650704621946997473856716800000000000,
+        "denominator": 13,
+        "density": "160149268007122558941012794650704621946997473856716800000000000/13",
+        "q": 13,
+        "char": 13,
+        "dimension": 1,
+        "j": 13,
+        "m": 15,
+        "primitive_count": 12,
+        "child_order": 155520,
+        "child_word": [
+          3,
+          5
+        ]
+      }
+    },
+    "17": {
+      "17": {
+        "a": 17,
+        "ell": 17,
+        "numerator": 16,
+        "denominator": 17,
+        "density": "16/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 1,
+        "primitive_count": 16,
+        "child_order": 1,
+        "child_word": []
+      },
+      "34": {
+        "a": 34,
+        "ell": 17,
+        "numerator": 524288,
+        "denominator": 17,
+        "density": "524288/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 2,
+        "primitive_count": 16,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "51": {
+        "a": 51,
+        "ell": 17,
+        "numerator": 15045919506432,
+        "denominator": 17,
+        "density": "15045919506432/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 3,
+        "primitive_count": 16,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "68": {
+        "a": 68,
+        "ell": 17,
+        "numerator": 48466299163780426235904,
+        "denominator": 17,
+        "density": "48466299163780426235904/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 4,
+        "primitive_count": 16,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "85": {
+        "a": 85,
+        "ell": 17,
+        "numerator": 2097152000000000000000,
+        "denominator": 17,
+        "density": "2097152000000000000000/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 5,
+        "primitive_count": 16,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "102": {
+        "a": 102,
+        "ell": 17,
+        "numerator": 1390876838670526208958693113856,
+        "denominator": 17,
+        "density": "1390876838670526208958693113856/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 6,
+        "primitive_count": 16,
+        "child_order": 72,
+        "child_word": [
+          3,
+          2
+        ]
+      },
+      "119": {
+        "a": 119,
+        "ell": 17,
+        "numerator": 214294284991311429661360128,
+        "denominator": 17,
+        "density": "214294284991311429661360128/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 7,
+        "primitive_count": 16,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "136": {
+        "a": 136,
+        "ell": 17,
+        "numerator": 226682657356620585326395444135903791424000556531712,
+        "denominator": 17,
+        "density": "226682657356620585326395444135903791424000556531712/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 8,
+        "primitive_count": 16,
+        "child_order": 1344,
+        "child_word": [
+          8
+        ]
+      },
+      "153": {
+        "a": 153,
+        "ell": 17,
+        "numerator": 112604954067508049255399621238776687306482598805504,
+        "denominator": 17,
+        "density": "112604954067508049255399621238776687306482598805504/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 9,
+        "primitive_count": 16,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "170": {
+        "a": 170,
+        "ell": 17,
+        "numerator": 45035996273704960000000000000000000000000000000,
+        "denominator": 17,
+        "density": "45035996273704960000000000000000000000000000000/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 10,
+        "primitive_count": 16,
+        "child_order": 800,
+        "child_word": [
+          5,
+          2
+        ]
+      },
+      "187": {
+        "a": 187,
+        "ell": 17,
+        "numerator": 668359707106504160000000000000000,
+        "denominator": 17,
+        "density": "668359707106504160000000000000000/17",
+        "q": 17,
+        "char": 17,
+        "dimension": 1,
+        "j": 17,
+        "m": 11,
+        "primitive_count": 16,
+        "child_order": 110,
+        "child_word": [
+          11
+        ]
+      }
+    },
+    "19": {
+      "19": {
+        "a": 19,
+        "ell": 19,
+        "numerator": 18,
+        "denominator": 19,
+        "density": "18/19",
+        "q": 19,
+        "char": 19,
+        "dimension": 1,
+        "j": 19,
+        "m": 1,
+        "primitive_count": 18,
+        "child_order": 1,
+        "child_word": []
+      },
+      "38": {
+        "a": 38,
+        "ell": 19,
+        "numerator": 2359296,
+        "denominator": 19,
+        "density": "2359296/19",
+        "q": 19,
+        "char": 19,
+        "dimension": 1,
+        "j": 19,
+        "m": 2,
+        "primitive_count": 18,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "57": {
+        "a": 57,
+        "ell": 19,
+        "numerator": 609359740010496,
+        "denominator": 19,
+        "density": "609359740010496/19",
+        "q": 19,
+        "char": 19,
+        "dimension": 1,
+        "j": 19,
+        "m": 3,
+        "primitive_count": 18,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "76": {
+        "a": 76,
+        "ell": 19,
+        "numerator": 31406161858129716200865792,
+        "denominator": 19,
+        "density": "31406161858129716200865792/19",
+        "q": 19,
+        "char": 19,
+        "dimension": 1,
+        "j": 19,
+        "m": 4,
+        "primitive_count": 18,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "95": {
+        "a": 95,
+        "ell": 19,
+        "numerator": 943718400000000000000000,
+        "denominator": 19,
+        "density": "943718400000000000000000/19",
+        "q": 19,
+        "char": 19,
+        "dimension": 1,
+        "j": 19,
+        "m": 5,
+        "primitive_count": 18,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "114": {
+        "a": 114,
+        "ell": 19,
+        "numerator": 8111593723126508850647098240008192,
+        "denominator": 19,
+        "density": "8111593723126508850647098240008192/19",
+        "q": 19,
+        "char": 19,
+        "dimension": 1,
+        "j": 19,
+        "m": 6,
+        "primitive_count": 18,
+        "child_order": 72,
+        "child_word": [
+          3,
+          2
+        ]
+      },
+      "133": {
+        "a": 133,
+        "ell": 19,
+        "numerator": 425267008565257532162969174016,
+        "denominator": 19,
+        "density": "425267008565257532162969174016/19",
+        "q": 19,
+        "char": 19,
+        "dimension": 1,
+        "j": 19,
+        "m": 7,
+        "primitive_count": 18,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "152": {
+        "a": 152,
+        "ell": 19,
+        "numerator": 460648175128794676818157321101005899858871402943674843136,
+        "denominator": 19,
+        "density": "460648175128794676818157321101005899858871402943674843136/19",
+        "q": 19,
+        "char": 19,
+        "dimension": 1,
+        "j": 19,
+        "m": 8,
+        "primitive_count": 18,
+        "child_order": 1344,
+        "child_word": [
+          8
+        ]
+      },
+      "171": {
+        "a": 171,
+        "ell": 19,
+        "numerator": 212774717847433049615426951504912787480335711259718582272,
+        "denominator": 19,
+        "density": "212774717847433049615426951504912787480335711259718582272/19",
+        "q": 19,
+        "char": 19,
+        "dimension": 1,
+        "j": 19,
+        "m": 9,
+        "primitive_count": 18,
+        "child_order": 1296,
+        "child_word": [
+          3,
+          3
+        ]
+      },
+      "190": {
+        "a": 190,
+        "ell": 19,
+        "numerator": 32425917317067571200000000000000000000000000000000000,
+        "denominator": 19,
+        "density": "32425917317067571200000000000000000000000000000000000/19",
+        "q": 19,
+        "char": 19,
+        "dimension": 1,
+        "j": 19,
+        "m": 10,
+        "primitive_count": 18,
+        "child_order": 800,
+        "child_word": [
+          5,
+          2
+        ]
+      }
+    },
+    "23": {
+      "23": {
+        "a": 23,
+        "ell": 23,
+        "numerator": 22,
+        "denominator": 23,
+        "density": "22/23",
+        "q": 23,
+        "char": 23,
+        "dimension": 1,
+        "j": 23,
+        "m": 1,
+        "primitive_count": 22,
+        "child_order": 1,
+        "child_word": []
+      },
+      "46": {
+        "a": 46,
+        "ell": 23,
+        "numerator": 46137344,
+        "denominator": 23,
+        "density": "46137344/23",
+        "q": 23,
+        "char": 23,
+        "dimension": 1,
+        "j": 23,
+        "m": 2,
+        "primitive_count": 22,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "69": {
+        "a": 69,
+        "ell": 23,
+        "numerator": 965225828176625664,
+        "denominator": 23,
+        "density": "965225828176625664/23",
+        "q": 23,
+        "char": 23,
+        "dimension": 1,
+        "j": 23,
+        "m": 3,
+        "primitive_count": 22,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "92": {
+        "a": 92,
+        "ell": 23,
+        "numerator": 12735324258119032438315882119168,
+        "denominator": 23,
+        "density": "12735324258119032438315882119168/23",
+        "q": 23,
+        "char": 23,
+        "dimension": 1,
+        "j": 23,
+        "m": 4,
+        "primitive_count": 22,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "115": {
+        "a": 115,
+        "ell": 23,
+        "numerator": 184549376000000000000000000000,
+        "denominator": 23,
+        "density": "184549376000000000000000000000/23",
+        "q": 23,
+        "char": 23,
+        "dimension": 1,
+        "j": 23,
+        "m": 5,
+        "primitive_count": 22,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "138": {
+        "a": 138,
+        "ell": 23,
+        "numerator": 266431979789318039442796874902018832990208,
+        "denominator": 23,
+        "density": "266431979789318039442796874902018832990208/23",
+        "q": 23,
+        "char": 23,
+        "dimension": 1,
+        "j": 23,
+        "m": 6,
+        "primitive_count": 22,
+        "child_order": 72,
+        "child_word": [
+          3,
+          2
+        ]
+      },
+      "161": {
+        "a": 161,
+        "ell": 23,
+        "numerator": 1617368682703250402201689755110866944,
+        "denominator": 23,
+        "density": "1617368682703250402201689755110866944/23",
+        "q": 23,
+        "char": 23,
+        "dimension": 1,
+        "j": 23,
+        "m": 7,
+        "primitive_count": 22,
+        "child_order": 42,
+        "child_word": [
+          7
+        ]
+      },
+      "184": {
+        "a": 184,
+        "ell": 23,
+        "numerator": 1837031509751528008355662353498592271137622697163292215468197175885824,
+        "denominator": 23,
+        "density": "1837031509751528008355662353498592271137622697163292215468197175885824/23",
+        "q": 23,
+        "char": 23,
+        "dimension": 1,
+        "j": 23,
+        "m": 8,
+        "primitive_count": 22,
+        "child_order": 1344,
+        "child_word": [
+          8
+        ]
+      }
+    },
+    "29": {
+      "29": {
+        "a": 29,
+        "ell": 29,
+        "numerator": 28,
+        "denominator": 29,
+        "density": "28/29",
+        "q": 29,
+        "char": 29,
+        "dimension": 1,
+        "j": 29,
+        "m": 1,
+        "primitive_count": 28,
+        "child_order": 1,
+        "child_word": []
+      },
+      "58": {
+        "a": 58,
+        "ell": 29,
+        "numerator": 3758096384,
+        "denominator": 29,
+        "density": "3758096384/29",
+        "q": 29,
+        "char": 29,
+        "dimension": 1,
+        "j": 29,
+        "m": 2,
+        "primitive_count": 28,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "87": {
+        "a": 87,
+        "ell": 29,
+        "numerator": 57315460668338277974016,
+        "denominator": 29,
+        "density": "57315460668338277974016/29",
+        "q": 29,
+        "char": 29,
+        "dimension": 1,
+        "j": 29,
+        "m": 3,
+        "primitive_count": 28,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "116": {
+        "a": 116,
+        "ell": 29,
+        "numerator": 3097510647701959059712529183139516383232,
+        "denominator": 29,
+        "density": "3097510647701959059712529183139516383232/29",
+        "q": 29,
+        "char": 29,
+        "dimension": 1,
+        "j": 29,
+        "m": 4,
+        "primitive_count": 28,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "145": {
+        "a": 145,
+        "ell": 29,
+        "numerator": 15032385536000000000000000000000000000,
+        "denominator": 29,
+        "density": "15032385536000000000000000000000000000/29",
+        "q": 29,
+        "char": 29,
+        "dimension": 1,
+        "j": 29,
+        "m": 5,
+        "primitive_count": 28,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "174": {
+        "a": 174,
+        "ell": 29,
+        "numerator": 47240738809673024793793403788323075313418843317075968,
+        "denominator": 29,
+        "density": "47240738809673024793793403788323075313418843317075968/29",
+        "q": 29,
+        "char": 29,
+        "dimension": 1,
+        "j": 29,
+        "m": 6,
+        "primitive_count": 28,
+        "child_order": 72,
+        "child_word": [
+          3,
+          2
+        ]
+      }
+    },
+    "31": {
+      "31": {
+        "a": 31,
+        "ell": 31,
+        "numerator": 1935360,
+        "denominator": 1,
+        "density": "1935360",
+        "q": 32,
+        "char": 2,
+        "dimension": 5,
+        "j": 31,
+        "m": 1,
+        "primitive_count": 61931520,
+        "child_order": 1,
+        "child_word": []
+      },
+      "62": {
+        "a": 62,
+        "ell": 31,
+        "numerator": 1039038488248320,
+        "denominator": 1,
+        "density": "1039038488248320",
+        "q": 32,
+        "char": 2,
+        "dimension": 5,
+        "j": 31,
+        "m": 2,
+        "primitive_count": 61931520,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "93": {
+        "a": 93,
+        "ell": 31,
+        "numerator": 142619207090239503848303493120,
+        "denominator": 1,
+        "density": "142619207090239503848303493120",
+        "q": 32,
+        "char": 2,
+        "dimension": 5,
+        "j": 31,
+        "m": 3,
+        "primitive_count": 61931520,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "124": {
+        "a": 124,
+        "ell": 31,
+        "numerator": 123321563118235820279422089871835542507581603840,
+        "denominator": 1,
+        "density": "123321563118235820279422089871835542507581603840",
+        "q": 32,
+        "char": 2,
+        "dimension": 5,
+        "j": 31,
+        "m": 4,
+        "primitive_count": 61931520,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "155": {
+        "a": 155,
+        "ell": 31,
+        "numerator": 415615395299328000000000000000000000000000000,
+        "denominator": 1,
+        "density": "415615395299328000000000000000000000000000000",
+        "q": 32,
+        "char": 2,
+        "dimension": 5,
+        "j": 31,
+        "m": 5,
+        "primitive_count": 61931520,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      },
+      "186": {
+        "a": 186,
+        "ell": 31,
+        "numerator": 16927210828063523671904448362096650765999638173195492067901440,
+        "denominator": 1,
+        "density": "16927210828063523671904448362096650765999638173195492067901440",
+        "q": 32,
+        "char": 2,
+        "dimension": 5,
+        "j": 31,
+        "m": 6,
+        "primitive_count": 61931520,
+        "child_order": 72,
+        "child_word": [
+          3,
+          2
+        ]
+      }
+    },
+    "37": {
+      "37": {
+        "a": 37,
+        "ell": 37,
+        "numerator": 36,
+        "denominator": 37,
+        "density": "36/37",
+        "q": 37,
+        "char": 37,
+        "dimension": 1,
+        "j": 37,
+        "m": 1,
+        "primitive_count": 36,
+        "child_order": 1,
+        "child_word": []
+      },
+      "74": {
+        "a": 74,
+        "ell": 37,
+        "numerator": 1236950581248,
+        "denominator": 37,
+        "density": "1236950581248/37",
+        "q": 37,
+        "char": 37,
+        "dimension": 1,
+        "j": 37,
+        "m": 2,
+        "primitive_count": 36,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "111": {
+        "a": 111,
+        "ell": 37,
+        "numerator": 123773097581886426554063388672,
+        "denominator": 37,
+        "density": "123773097581886426554063388672/37",
+        "q": 37,
+        "char": 37,
+        "dimension": 1,
+        "j": 37,
+        "m": 3,
+        "primitive_count": 36,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "148": {
+        "a": 148,
+        "ell": 37,
+        "numerator": 438376445626240794739559392385551167332093509238784,
+        "denominator": 37,
+        "density": "438376445626240794739559392385551167332093509238784/37",
+        "q": 37,
+        "char": 37,
+        "dimension": 1,
+        "j": 37,
+        "m": 4,
+        "primitive_count": 36,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      },
+      "185": {
+        "a": 185,
+        "ell": 37,
+        "numerator": 494780232499200000000000000000000000000000000000,
+        "denominator": 37,
+        "density": "494780232499200000000000000000000000000000000000/37",
+        "q": 37,
+        "char": 37,
+        "dimension": 1,
+        "j": 37,
+        "m": 5,
+        "primitive_count": 36,
+        "child_order": 20,
+        "child_word": [
+          5
+        ]
+      }
+    },
+    "41": {
+      "41": {
+        "a": 41,
+        "ell": 41,
+        "numerator": 40,
+        "denominator": 41,
+        "density": "40/41",
+        "q": 41,
+        "char": 41,
+        "dimension": 1,
+        "j": 41,
+        "m": 1,
+        "primitive_count": 40,
+        "child_order": 1,
+        "child_word": []
+      },
+      "82": {
+        "a": 82,
+        "ell": 41,
+        "numerator": 21990232555520,
+        "denominator": 41,
+        "density": "21990232555520/41",
+        "q": 41,
+        "char": 41,
+        "dimension": 1,
+        "j": 41,
+        "m": 2,
+        "primitive_count": 40,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "123": {
+        "a": 123,
+        "ell": 41,
+        "numerator": 178233260517916454237851279687680,
+        "denominator": 41,
+        "density": "178233260517916454237851279687680/41",
+        "q": 41,
+        "char": 41,
+        "dimension": 1,
+        "j": 41,
+        "m": 3,
+        "primitive_count": 40,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "164": {
+        "a": 164,
+        "ell": 41,
+        "numerator": 161603092915657406572791174409009582325302951245785333760,
+        "denominator": 41,
+        "density": "161603092915657406572791174409009582325302951245785333760/41",
+        "q": 41,
+        "char": 41,
+        "dimension": 1,
+        "j": 41,
+        "m": 4,
+        "primitive_count": 40,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      }
+    },
+    "43": {
+      "43": {
+        "a": 43,
+        "ell": 43,
+        "numerator": 42,
+        "denominator": 43,
+        "density": "42/43",
+        "q": 43,
+        "char": 43,
+        "dimension": 1,
+        "j": 43,
+        "m": 1,
+        "primitive_count": 42,
+        "child_order": 1,
+        "child_word": []
+      },
+      "86": {
+        "a": 86,
+        "ell": 43,
+        "numerator": 92358976733184,
+        "denominator": 43,
+        "density": "92358976733184/43",
+        "q": 43,
+        "char": 43,
+        "dimension": 1,
+        "j": 43,
+        "m": 2,
+        "primitive_count": 42,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "129": {
+        "a": 129,
+        "ell": 43,
+        "numerator": 6737217247577241970190778372194304,
+        "denominator": 43,
+        "density": "6737217247577241970190778372194304/43",
+        "q": 43,
+        "char": 43,
+        "dimension": 1,
+        "j": 43,
+        "m": 3,
+        "primitive_count": 42,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "172": {
+        "a": 172,
+        "ell": 43,
+        "numerator": 97737550595389599495224102282568995390343224913450969858048,
+        "denominator": 43,
+        "density": "97737550595389599495224102282568995390343224913450969858048/43",
+        "q": 43,
+        "char": 43,
+        "dimension": 1,
+        "j": 43,
+        "m": 4,
+        "primitive_count": 42,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      }
+    },
+    "47": {
+      "47": {
+        "a": 47,
+        "ell": 47,
+        "numerator": 46,
+        "denominator": 47,
+        "density": "46/47",
+        "q": 47,
+        "char": 47,
+        "dimension": 1,
+        "j": 47,
+        "m": 1,
+        "primitive_count": 46,
+        "child_order": 1,
+        "child_word": []
+      },
+      "94": {
+        "a": 94,
+        "ell": 47,
+        "numerator": 1618481116086272,
+        "denominator": 47,
+        "density": "1618481116086272/47",
+        "q": 47,
+        "char": 47,
+        "dimension": 1,
+        "j": 47,
+        "m": 2,
+        "primitive_count": 46,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "141": {
+        "a": 141,
+        "ell": 47,
+        "numerator": 9562998653132496602259367700874657792,
+        "denominator": 47,
+        "density": "9562998653132496602259367700874657792/47",
+        "q": 47,
+        "char": 47,
+        "dimension": 1,
+        "j": 47,
+        "m": 3,
+        "primitive_count": 46,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      },
+      "188": {
+        "a": 188,
+        "ell": 47,
+        "numerator": 35515256785034644501377707164511288254114753197350357449492660224,
+        "denominator": 47,
+        "density": "35515256785034644501377707164511288254114753197350357449492660224/47",
+        "q": 47,
+        "char": 47,
+        "dimension": 1,
+        "j": 47,
+        "m": 4,
+        "primitive_count": 46,
+        "child_order": 24,
+        "child_word": [
+          4
+        ]
+      }
+    },
+    "53": {
+      "53": {
+        "a": 53,
+        "ell": 53,
+        "numerator": 52,
+        "denominator": 53,
+        "density": "52/53",
+        "q": 53,
+        "char": 53,
+        "dimension": 1,
+        "j": 53,
+        "m": 1,
+        "primitive_count": 52,
+        "child_order": 1,
+        "child_word": []
+      },
+      "106": {
+        "a": 106,
+        "ell": 53,
+        "numerator": 117093590311632896,
+        "denominator": 53,
+        "density": "117093590311632896/53",
+        "q": 53,
+        "char": 53,
+        "dimension": 1,
+        "j": 53,
+        "m": 2,
+        "primitive_count": 52,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "159": {
+        "a": 159,
+        "ell": 53,
+        "numerator": 504367517138012773841319110684878647066624,
+        "denominator": 53,
+        "density": "504367517138012773841319110684878647066624/53",
+        "q": 53,
+        "char": 53,
+        "dimension": 1,
+        "j": 53,
+        "m": 3,
+        "primitive_count": 52,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      }
+    },
+    "59": {
+      "59": {
+        "a": 59,
+        "ell": 59,
+        "numerator": 58,
+        "denominator": 59,
+        "density": "58/59",
+        "q": 59,
+        "char": 59,
+        "dimension": 1,
+        "j": 59,
+        "m": 1,
+        "primitive_count": 58,
+        "child_order": 1,
+        "child_word": []
+      },
+      "118": {
+        "a": 118,
+        "ell": 59,
+        "numerator": 8358680908399640576,
+        "denominator": 59,
+        "density": "8358680908399640576/59",
+        "q": 59,
+        "char": 59,
+        "dimension": 1,
+        "j": 59,
+        "m": 2,
+        "primitive_count": 58,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "177": {
+        "a": 177,
+        "ell": 59,
+        "numerator": 26246975211851638281302959554434509483410456576,
+        "denominator": 59,
+        "density": "26246975211851638281302959554434509483410456576/59",
+        "q": 59,
+        "char": 59,
+        "dimension": 1,
+        "j": 59,
+        "m": 3,
+        "primitive_count": 58,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      }
+    },
+    "61": {
+      "61": {
+        "a": 61,
+        "ell": 61,
+        "numerator": 60,
+        "denominator": 61,
+        "density": "60/61",
+        "q": 61,
+        "char": 61,
+        "dimension": 1,
+        "j": 61,
+        "m": 1,
+        "primitive_count": 60,
+        "child_order": 1,
+        "child_word": []
+      },
+      "122": {
+        "a": 122,
+        "ell": 61,
+        "numerator": 34587645138205409280,
+        "denominator": 61,
+        "density": "34587645138205409280/61",
+        "q": 61,
+        "char": 61,
+        "dimension": 1,
+        "j": 61,
+        "m": 2,
+        "primitive_count": 60,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      },
+      "183": {
+        "a": 183,
+        "ell": 61,
+        "numerator": 977473559613785149786455045475492077313217003520,
+        "denominator": 61,
+        "density": "977473559613785149786455045475492077313217003520/61",
+        "q": 61,
+        "char": 61,
+        "dimension": 1,
+        "j": 61,
+        "m": 3,
+        "primitive_count": 60,
+        "child_order": 6,
+        "child_word": [
+          3
+        ]
+      }
+    },
+    "67": {
+      "67": {
+        "a": 67,
+        "ell": 67,
+        "numerator": 66,
+        "denominator": 67,
+        "density": "66/67",
+        "q": 67,
+        "char": 67,
+        "dimension": 1,
+        "j": 67,
+        "m": 1,
+        "primitive_count": 66,
+        "child_order": 1,
+        "child_word": []
+      },
+      "134": {
+        "a": 134,
+        "ell": 67,
+        "numerator": 2434970217729660813312,
+        "denominator": 67,
+        "density": "2434970217729660813312/67",
+        "q": 67,
+        "char": 67,
+        "dimension": 1,
+        "j": 67,
+        "m": 2,
+        "primitive_count": 66,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      }
+    },
+    "71": {
+      "71": {
+        "a": 71,
+        "ell": 71,
+        "numerator": 70,
+        "denominator": 71,
+        "density": "70/71",
+        "q": 71,
+        "char": 71,
+        "dimension": 1,
+        "j": 71,
+        "m": 1,
+        "primitive_count": 70,
+        "child_order": 1,
+        "child_word": []
+      },
+      "142": {
+        "a": 142,
+        "ell": 71,
+        "numerator": 41320706725109395619840,
+        "denominator": 71,
+        "density": "41320706725109395619840/71",
+        "q": 71,
+        "char": 71,
+        "dimension": 1,
+        "j": 71,
+        "m": 2,
+        "primitive_count": 70,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      }
+    },
+    "73": {
+      "73": {
+        "a": 73,
+        "ell": 73,
+        "numerator": 72,
+        "denominator": 73,
+        "density": "72/73",
+        "q": 73,
+        "char": 73,
+        "dimension": 1,
+        "j": 73,
+        "m": 1,
+        "primitive_count": 72,
+        "child_order": 1,
+        "child_word": []
+      },
+      "146": {
+        "a": 146,
+        "ell": 73,
+        "numerator": 170005193383307227693056,
+        "denominator": 73,
+        "density": "170005193383307227693056/73",
+        "q": 73,
+        "char": 73,
+        "dimension": 1,
+        "j": 73,
+        "m": 2,
+        "primitive_count": 72,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      }
+    },
+    "79": {
+      "79": {
+        "a": 79,
+        "ell": 79,
+        "numerator": 78,
+        "denominator": 79,
+        "density": "78/79",
+        "q": 79,
+        "char": 79,
+        "dimension": 1,
+        "j": 79,
+        "m": 1,
+        "primitive_count": 78,
+        "child_order": 1,
+        "child_word": []
+      },
+      "158": {
+        "a": 158,
+        "ell": 79,
+        "numerator": 11787026741242634453385216,
+        "denominator": 79,
+        "density": "11787026741242634453385216/79",
+        "q": 79,
+        "char": 79,
+        "dimension": 1,
+        "j": 79,
+        "m": 2,
+        "primitive_count": 78,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      }
+    },
+    "83": {
+      "83": {
+        "a": 83,
+        "ell": 83,
+        "numerator": 82,
+        "denominator": 83,
+        "density": "82/83",
+        "q": 83,
+        "char": 83,
+        "dimension": 1,
+        "j": 83,
+        "m": 1,
+        "primitive_count": 82,
+        "child_order": 1,
+        "child_word": []
+      },
+      "166": {
+        "a": 166,
+        "ell": 83,
+        "numerator": 198263834416799184651812864,
+        "denominator": 83,
+        "density": "198263834416799184651812864/83",
+        "q": 83,
+        "char": 83,
+        "dimension": 1,
+        "j": 83,
+        "m": 2,
+        "primitive_count": 82,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      }
+    },
+    "89": {
+      "89": {
+        "a": 89,
+        "ell": 89,
+        "numerator": 88,
+        "denominator": 89,
+        "density": "88/89",
+        "q": 89,
+        "char": 89,
+        "dimension": 1,
+        "j": 89,
+        "m": 1,
+        "primitive_count": 88,
+        "child_order": 1,
+        "child_word": []
+      },
+      "178": {
+        "a": 178,
+        "ell": 89,
+        "numerator": 13617340432139183023890366464,
+        "denominator": 89,
+        "density": "13617340432139183023890366464/89",
+        "q": 89,
+        "char": 89,
+        "dimension": 1,
+        "j": 89,
+        "m": 2,
+        "primitive_count": 88,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      }
+    },
+    "97": {
+      "97": {
+        "a": 97,
+        "ell": 97,
+        "numerator": 96,
+        "denominator": 97,
+        "density": "96/97",
+        "q": 97,
+        "char": 97,
+        "dimension": 1,
+        "j": 97,
+        "m": 1,
+        "primitive_count": 96,
+        "child_order": 1,
+        "child_word": []
+      },
+      "194": {
+        "a": 194,
+        "ell": 97,
+        "numerator": 3802951800684688204490109616128,
+        "denominator": 97,
+        "density": "3802951800684688204490109616128/97",
+        "q": 97,
+        "char": 97,
+        "dimension": 1,
+        "j": 97,
+        "m": 2,
+        "primitive_count": 96,
+        "child_order": 2,
+        "child_word": [
+          2
+        ]
+      }
+    },
+    "101": {
+      "101": {
+        "a": 101,
+        "ell": 101,
+        "numerator": 100,
+        "denominator": 101,
+        "density": "100/101",
+        "q": 101,
+        "char": 101,
+        "dimension": 1,
+        "j": 101,
+        "m": 1,
+        "primitive_count": 100,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "103": {
+      "103": {
+        "a": 103,
+        "ell": 103,
+        "numerator": 102,
+        "denominator": 103,
+        "density": "102/103",
+        "q": 103,
+        "char": 103,
+        "dimension": 1,
+        "j": 103,
+        "m": 1,
+        "primitive_count": 102,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "107": {
+      "107": {
+        "a": 107,
+        "ell": 107,
+        "numerator": 106,
+        "denominator": 107,
+        "density": "106/107",
+        "q": 107,
+        "char": 107,
+        "dimension": 1,
+        "j": 107,
+        "m": 1,
+        "primitive_count": 106,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "109": {
+      "109": {
+        "a": 109,
+        "ell": 109,
+        "numerator": 108,
+        "denominator": 109,
+        "density": "108/109",
+        "q": 109,
+        "char": 109,
+        "dimension": 1,
+        "j": 109,
+        "m": 1,
+        "primitive_count": 108,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "113": {
+      "113": {
+        "a": 113,
+        "ell": 113,
+        "numerator": 112,
+        "denominator": 113,
+        "density": "112/113",
+        "q": 113,
+        "char": 113,
+        "dimension": 1,
+        "j": 113,
+        "m": 1,
+        "primitive_count": 112,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "127": {
+      "127": {
+        "a": 127,
+        "ell": 127,
+        "numerator": 23222833643520,
+        "denominator": 1,
+        "density": "23222833643520",
+        "q": 128,
+        "char": 2,
+        "dimension": 7,
+        "j": 127,
+        "m": 1,
+        "primitive_count": 2972522706370560,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "131": {
+      "131": {
+        "a": 131,
+        "ell": 131,
+        "numerator": 130,
+        "denominator": 131,
+        "density": "130/131",
+        "q": 131,
+        "char": 131,
+        "dimension": 1,
+        "j": 131,
+        "m": 1,
+        "primitive_count": 130,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "137": {
+      "137": {
+        "a": 137,
+        "ell": 137,
+        "numerator": 136,
+        "denominator": 137,
+        "density": "136/137",
+        "q": 137,
+        "char": 137,
+        "dimension": 1,
+        "j": 137,
+        "m": 1,
+        "primitive_count": 136,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "139": {
+      "139": {
+        "a": 139,
+        "ell": 139,
+        "numerator": 138,
+        "denominator": 139,
+        "density": "138/139",
+        "q": 139,
+        "char": 139,
+        "dimension": 1,
+        "j": 139,
+        "m": 1,
+        "primitive_count": 138,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "149": {
+      "149": {
+        "a": 149,
+        "ell": 149,
+        "numerator": 148,
+        "denominator": 149,
+        "density": "148/149",
+        "q": 149,
+        "char": 149,
+        "dimension": 1,
+        "j": 149,
+        "m": 1,
+        "primitive_count": 148,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "151": {
+      "151": {
+        "a": 151,
+        "ell": 151,
+        "numerator": 150,
+        "denominator": 151,
+        "density": "150/151",
+        "q": 151,
+        "char": 151,
+        "dimension": 1,
+        "j": 151,
+        "m": 1,
+        "primitive_count": 150,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "157": {
+      "157": {
+        "a": 157,
+        "ell": 157,
+        "numerator": 156,
+        "denominator": 157,
+        "density": "156/157",
+        "q": 157,
+        "char": 157,
+        "dimension": 1,
+        "j": 157,
+        "m": 1,
+        "primitive_count": 156,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "163": {
+      "163": {
+        "a": 163,
+        "ell": 163,
+        "numerator": 162,
+        "denominator": 163,
+        "density": "162/163",
+        "q": 163,
+        "char": 163,
+        "dimension": 1,
+        "j": 163,
+        "m": 1,
+        "primitive_count": 162,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "167": {
+      "167": {
+        "a": 167,
+        "ell": 167,
+        "numerator": 166,
+        "denominator": 167,
+        "density": "166/167",
+        "q": 167,
+        "char": 167,
+        "dimension": 1,
+        "j": 167,
+        "m": 1,
+        "primitive_count": 166,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "173": {
+      "173": {
+        "a": 173,
+        "ell": 173,
+        "numerator": 172,
+        "denominator": 173,
+        "density": "172/173",
+        "q": 173,
+        "char": 173,
+        "dimension": 1,
+        "j": 173,
+        "m": 1,
+        "primitive_count": 172,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "179": {
+      "179": {
+        "a": 179,
+        "ell": 179,
+        "numerator": 178,
+        "denominator": 179,
+        "density": "178/179",
+        "q": 179,
+        "char": 179,
+        "dimension": 1,
+        "j": 179,
+        "m": 1,
+        "primitive_count": 178,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "181": {
+      "181": {
+        "a": 181,
+        "ell": 181,
+        "numerator": 180,
+        "denominator": 181,
+        "density": "180/181",
+        "q": 181,
+        "char": 181,
+        "dimension": 1,
+        "j": 181,
+        "m": 1,
+        "primitive_count": 180,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "191": {
+      "191": {
+        "a": 191,
+        "ell": 191,
+        "numerator": 190,
+        "denominator": 191,
+        "density": "190/191",
+        "q": 191,
+        "char": 191,
+        "dimension": 1,
+        "j": 191,
+        "m": 1,
+        "primitive_count": 190,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "193": {
+      "193": {
+        "a": 193,
+        "ell": 193,
+        "numerator": 192,
+        "denominator": 193,
+        "density": "192/193",
+        "q": 193,
+        "char": 193,
+        "dimension": 1,
+        "j": 193,
+        "m": 1,
+        "primitive_count": 192,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "197": {
+      "197": {
+        "a": 197,
+        "ell": 197,
+        "numerator": 196,
+        "denominator": 197,
+        "density": "196/197",
+        "q": 197,
+        "char": 197,
+        "dimension": 1,
+        "j": 197,
+        "m": 1,
+        "primitive_count": 196,
+        "child_order": 1,
+        "child_word": []
+      }
+    },
+    "199": {
+      "199": {
+        "a": 199,
+        "ell": 199,
+        "numerator": 198,
+        "denominator": 199,
+        "density": "198/199",
+        "q": 199,
+        "char": 199,
+        "dimension": 1,
+        "j": 199,
+        "m": 1,
+        "primitive_count": 198,
+        "child_order": 1,
+        "child_word": []
+      }
+    }
+  },
+  "affine_prime_supports": {
+    "2": {
+      "2": {
+        "2": 1
+      }
+    },
+    "3": {
+      "2": {
+        "2": 3
+      },
+      "3": {
+        "3": 2
+      }
+    },
+    "4": {
+      "2": {
+        "2": 6,
+        "4": 3
+      },
+      "3": {
+        "3": 8
+      }
+    },
+    "5": {
+      "2": {
+        "4": 5
+      },
+      "5": {
+        "5": 4
+      }
+    },
+    "7": {
+      "2": {
+        "6": 7
+      },
+      "3": {
+        "6": 14
+      },
+      "7": {
+        "7": 6
+      }
+    },
+    "8": {
+      "2": {
+        "4": 42,
+        "8": 49
+      },
+      "3": {
+        "6": 224
+      },
+      "7": {
+        "7": 384
+      }
+    },
+    "9": {
+      "2": {
+        "6": 36,
+        "8": 9
+      },
+      "3": {
+        "6": 24,
+        "9": 56
+      }
+    },
+    "11": {
+      "2": {
+        "10": 11
+      },
+      "5": {
+        "10": 44
+      },
+      "11": {
+        "11": 10
+      }
+    },
+    "13": {
+      "2": {
+        "12": 13
+      },
+      "3": {
+        "12": 26
+      },
+      "13": {
+        "13": 12
+      }
+    },
+    "16": {
+      "2": {
+        "12": 840,
+        "8": 210,
+        "16": 645
+      },
+      "3": {
+        "12": 4480,
+        "15": 1792
+      },
+      "5": {
+        "15": 21504
+      },
+      "7": {
+        "14": 46080
+      }
+    },
+    "17": {
+      "2": {
+        "16": 17
+      },
+      "17": {
+        "17": 16
+      }
+    },
+    "19": {
+      "2": {
+        "18": 19
+      },
+      "3": {
+        "18": 38
+      },
+      "19": {
+        "19": 18
+      }
+    },
+    "23": {
+      "2": {
+        "22": 23
+      },
+      "11": {
+        "22": 230
+      },
+      "23": {
+        "23": 22
+      }
+    },
+    "25": {
+      "2": {
+        "20": 150,
+        "24": 25
+      },
+      "3": {
+        "24": 500
+      },
+      "5": {
+        "20": 120,
+        "25": 504
+      }
+    },
+    "27": {
+      "2": {
+        "18": 351,
+        "24": 1053,
+        "26": 27
+      },
+      "3": {
+        "24": 5616,
+        "18": 312,
+        "27": 2522
+      },
+      "13": {
+        "26": 46656
+      }
+    },
+    "29": {
+      "2": {
+        "28": 29
+      },
+      "7": {
+        "28": 174
+      },
+      "29": {
+        "29": 28
+      }
+    },
+    "31": {
+      "2": {
+        "30": 31
+      },
+      "3": {
+        "30": 62
+      },
+      "5": {
+        "30": 124
+      },
+      "31": {
+        "31": 30
+      }
+    },
+    "32": {
+      "2": {
+        "24": 26040,
+        "32": 32581,
+        "16": 930
+      },
+      "3": {
+        "24": 79360,
+        "30": 888832
+      },
+      "5": {
+        "30": 10665984
+      },
+      "7": {
+        "28": 3809280
+      },
+      "31": {
+        "31": 61931520
+      }
+    },
+    "37": {
+      "2": {
+        "36": 37
+      },
+      "3": {
+        "36": 74
+      },
+      "37": {
+        "37": 36
+      }
+    },
+    "41": {
+      "2": {
+        "40": 41
+      },
+      "5": {
+        "40": 164
+      },
+      "41": {
+        "41": 40
+      }
+    },
+    "43": {
+      "2": {
+        "42": 43
+      },
+      "3": {
+        "42": 86
+      },
+      "7": {
+        "42": 258
+      },
+      "43": {
+        "43": 42
+      }
+    },
+    "47": {
+      "2": {
+        "46": 47
+      },
+      "23": {
+        "46": 1034
+      },
+      "47": {
+        "47": 46
+      }
+    },
+    "49": {
+      "2": {
+        "42": 392,
+        "48": 49
+      },
+      "3": {
+        "42": 784,
+        "48": 2842
+      },
+      "7": {
+        "42": 336,
+        "49": 2064
+      }
+    },
+    "53": {
+      "2": {
+        "52": 53
+      },
+      "13": {
+        "52": 636
+      },
+      "53": {
+        "53": 52
+      }
+    },
+    "59": {
+      "2": {
+        "58": 59
+      },
+      "29": {
+        "58": 1652
+      },
+      "59": {
+        "59": 58
+      }
+    },
+    "61": {
+      "2": {
+        "60": 61
+      },
+      "3": {
+        "60": 122
+      },
+      "5": {
+        "60": 244
+      },
+      "61": {
+        "61": 60
+      }
+    },
+    "64": {
+      "2": {
+        "56": 1874880,
+        "48": 546840,
+        "64": 1699173,
+        "32": 3906
+      },
+      "3": {
+        "48": 1333248,
+        "60": 298647552,
+        "63": 7110656
+      },
+      "5": {
+        "60": 3583770624
+      },
+      "7": {
+        "56": 274268160,
+        "63": 27061125120
+      },
+      "31": {
+        "62": 124853944320
+      }
+    },
+    "67": {
+      "2": {
+        "66": 67
+      },
+      "3": {
+        "66": 134
+      },
+      "11": {
+        "66": 670
+      },
+      "67": {
+        "67": 66
+      }
+    },
+    "71": {
+      "2": {
+        "70": 71
+      },
+      "5": {
+        "70": 284
+      },
+      "7": {
+        "70": 426
+      },
+      "71": {
+        "71": 70
+      }
+    },
+    "73": {
+      "2": {
+        "72": 73
+      },
+      "3": {
+        "72": 146
+      },
+      "73": {
+        "73": 72
+      }
+    },
+    "79": {
+      "2": {
+        "78": 79
+      },
+      "3": {
+        "78": 158
+      },
+      "13": {
+        "78": 948
+      },
+      "79": {
+        "79": 78
+      }
+    },
+    "81": {
+      "2": {
+        "54": 3240,
+        "72": 94770,
+        "78": 29160,
+        "80": 81
+      },
+      "3": {
+        "72": 730080,
+        "81": 1878320,
+        "54": 3120
+      },
+      "5": {
+        "80": 24564384
+      },
+      "13": {
+        "78": 50388480
+      }
+    },
+    "83": {
+      "2": {
+        "82": 83
+      },
+      "41": {
+        "82": 3320
+      },
+      "83": {
+        "83": 82
+      }
+    },
+    "89": {
+      "2": {
+        "88": 89
+      },
+      "11": {
+        "88": 890
+      },
+      "89": {
+        "89": 88
+      }
+    },
+    "97": {
+      "2": {
+        "96": 97
+      },
+      "3": {
+        "96": 194
+      },
+      "97": {
+        "97": 96
+      }
+    },
+    "101": {
+      "2": {
+        "100": 101
+      },
+      "5": {
+        "100": 404
+      },
+      "101": {
+        "101": 100
+      }
+    },
+    "103": {
+      "2": {
+        "102": 103
+      },
+      "3": {
+        "102": 206
+      },
+      "17": {
+        "102": 1648
+      },
+      "103": {
+        "103": 102
+      }
+    },
+    "107": {
+      "2": {
+        "106": 107
+      },
+      "53": {
+        "106": 5564
+      },
+      "107": {
+        "107": 106
+      }
+    },
+    "109": {
+      "2": {
+        "108": 109
+      },
+      "3": {
+        "108": 218
+      },
+      "109": {
+        "109": 108
+      }
+    },
+    "113": {
+      "2": {
+        "112": 113
+      },
+      "7": {
+        "112": 678
+      },
+      "113": {
+        "113": 112
+      }
+    },
+    "121": {
+      "2": {
+        "110": 1452,
+        "120": 121
+      },
+      "3": {
+        "120": 13310
+      },
+      "5": {
+        "110": 5808,
+        "120": 96316
+      },
+      "11": {
+        "110": 1320,
+        "121": 13320
+      }
+    },
+    "125": {
+      "2": {
+        "100": 3875,
+        "120": 19375,
+        "124": 125
+      },
+      "3": {
+        "120": 387500
+      },
+      "5": {
+        "120": 372000,
+        "125": 1577404,
+        "100": 3720
+      },
+      "31": {
+        "124": 15000000
+      }
+    },
+    "127": {
+      "2": {
+        "126": 127
+      },
+      "3": {
+        "126": 254
+      },
+      "7": {
+        "126": 762
+      },
+      "127": {
+        "127": 126
+      }
+    },
+    "128": {
+      "2": {
+        "112": 238109760,
+        "128": 308054629,
+        "96": 9921240,
+        "64": 16002
+      },
+      "3": {
+        "96": 21848064,
+        "120": 86693117952,
+        "126": 57795411968
+      },
+      "5": {
+        "120": 1040317415424
+      },
+      "7": {
+        "112": 18577096704,
+        "126": 219952824975360
+      },
+      "31": {
+        "124": 169135476572160
+      },
+      "127": {
+        "127": 2972522706370560
+      }
+    },
+    "131": {
+      "2": {
+        "130": 131
+      },
+      "5": {
+        "130": 524
+      },
+      "13": {
+        "130": 1572
+      },
+      "131": {
+        "131": 130
+      }
+    },
+    "137": {
+      "2": {
+        "136": 137
+      },
+      "17": {
+        "136": 2192
+      },
+      "137": {
+        "137": 136
+      }
+    },
+    "139": {
+      "2": {
+        "138": 139
+      },
+      "3": {
+        "138": 278
+      },
+      "23": {
+        "138": 3058
+      },
+      "139": {
+        "139": 138
+      }
+    },
+    "149": {
+      "2": {
+        "148": 149
+      },
+      "37": {
+        "148": 5364
+      },
+      "149": {
+        "149": 148
+      }
+    },
+    "151": {
+      "2": {
+        "150": 151
+      },
+      "3": {
+        "150": 302
+      },
+      "5": {
+        "150": 604
+      },
+      "151": {
+        "151": 150
+      }
+    },
+    "157": {
+      "2": {
+        "156": 157
+      },
+      "3": {
+        "156": 314
+      },
+      "13": {
+        "156": 1884
+      },
+      "157": {
+        "157": 156
+      }
+    },
+    "163": {
+      "2": {
+        "162": 163
+      },
+      "3": {
+        "162": 326
+      },
+      "163": {
+        "163": 162
+      }
+    },
+    "167": {
+      "2": {
+        "166": 167
+      },
+      "83": {
+        "166": 13694
+      },
+      "167": {
+        "167": 166
+      }
+    },
+    "169": {
+      "2": {
+        "156": 2366,
+        "168": 169
+      },
+      "3": {
+        "156": 4732,
+        "168": 31096
+      },
+      "7": {
+        "168": 79092
+      },
+      "13": {
+        "156": 2184,
+        "169": 26376
+      }
+    },
+    "173": {
+      "2": {
+        "172": 173
+      },
+      "43": {
+        "172": 7266
+      },
+      "173": {
+        "173": 172
+      }
+    },
+    "179": {
+      "2": {
+        "178": 179
+      },
+      "89": {
+        "178": 15752
+      },
+      "179": {
+        "179": 178
+      }
+    },
+    "181": {
+      "2": {
+        "180": 181
+      },
+      "3": {
+        "180": 362
+      },
+      "5": {
+        "180": 724
+      },
+      "181": {
+        "181": 180
+      }
+    },
+    "191": {
+      "2": {
+        "190": 191
+      },
+      "5": {
+        "190": 764
+      },
+      "19": {
+        "190": 3438
+      },
+      "191": {
+        "191": 190
+      }
+    },
+    "193": {
+      "2": {
+        "192": 193
+      },
+      "3": {
+        "192": 386
+      },
+      "193": {
+        "193": 192
+      }
+    },
+    "197": {
+      "2": {
+        "196": 197
+      },
+      "7": {
+        "196": 1182
+      },
+      "197": {
+        "197": 196
+      }
+    },
+    "199": {
+      "2": {
+        "198": 199
+      },
+      "3": {
+        "198": 398
+      },
+      "11": {
+        "198": 1990
+      },
+      "199": {
+        "199": 198
+      }
+    },
+    "211": {
+      "2": {
+        "210": 211
+      },
+      "3": {
+        "210": 422
+      },
+      "5": {
+        "210": 844
+      },
+      "7": {
+        "210": 1266
+      }
+    },
+    "223": {
+      "2": {
+        "222": 223
+      },
+      "3": {
+        "222": 446
+      },
+      "37": {
+        "222": 8028
+      }
+    },
+    "227": {
+      "2": {
+        "226": 227
+      },
+      "113": {
+        "226": 25424
+      }
+    },
+    "229": {
+      "2": {
+        "228": 229
+      },
+      "3": {
+        "228": 458
+      },
+      "19": {
+        "228": 4122
+      }
+    },
+    "233": {
+      "2": {
+        "232": 233
+      },
+      "29": {
+        "232": 6524
+      }
+    },
+    "239": {
+      "2": {
+        "238": 239
+      },
+      "7": {
+        "238": 1434
+      },
+      "17": {
+        "238": 3824
+      }
+    },
+    "241": {
+      "2": {
+        "240": 241
+      },
+      "3": {
+        "240": 482
+      },
+      "5": {
+        "240": 964
+      }
+    },
+    "243": {
+      "2": {
+        "162": 29403,
+        "216": 7938810,
+        "234": 23816430,
+        "240": 793881,
+        "242": 243
+      },
+      "3": {
+        "234": 1467797760,
+        "243": 3603864242,
+        "216": 67953600,
+        "162": 29040
+      },
+      "5": {
+        "240": 240755527584
+      },
+      "11": {
+        "242": 955063249920
+      },
+      "13": {
+        "234": 41154791040
+      }
+    },
+    "251": {
+      "2": {
+        "250": 251
+      },
+      "5": {
+        "250": 1004
+      }
+    },
+    "256": {
+      "2": {
+        "240": 64765854720,
+        "224": 20239329600,
+        "256": 63251985765,
+        "192": 168661080,
+        "128": 64770
+      },
+      "3": {
+        "192": 353730560,
+        "240": 23580528082944,
+        "252": 314407041105920,
+        "255": 462363295744
+      },
+      "5": {
+        "240": 282966336995328,
+        "255": 22370985701277696
+      },
+      "7": {
+        "224": 1222492815360,
+        "252": 1196543367865958400
+      },
+      "17": {
+        "255": 10738073136613294080
+      },
+      "31": {
+        "248": 197163641261260800
+      },
+      "127": {
+        "254": 97023141135935078400
+      }
+    },
+    "257": {
+      "2": {
+        "256": 257
+      }
+    },
+    "263": {
+      "2": {
+        "262": 263
+      },
+      "131": {
+        "262": 34190
+      }
+    },
+    "269": {
+      "2": {
+        "268": 269
+      },
+      "67": {
+        "268": 17754
+      }
+    },
+    "271": {
+      "2": {
+        "270": 271
+      },
+      "3": {
+        "270": 542
+      },
+      "5": {
+        "270": 1084
+      }
+    },
+    "277": {
+      "2": {
+        "276": 277
+      },
+      "3": {
+        "276": 554
+      },
+      "23": {
+        "276": 6094
+      }
+    },
+    "281": {
+      "2": {
+        "280": 281
+      },
+      "5": {
+        "280": 1124
+      },
+      "7": {
+        "280": 1686
+      }
+    },
+    "283": {
+      "2": {
+        "282": 283
+      },
+      "3": {
+        "282": 566
+      },
+      "47": {
+        "282": 13018
+      }
+    },
+    "289": {
+      "2": {
+        "272": 5202,
+        "288": 289
+      },
+      "3": {
+        "288": 78608
+      },
+      "17": {
+        "272": 4896,
+        "289": 78624
+      }
+    },
+    "293": {
+      "2": {
+        "292": 293
+      },
+      "73": {
+        "292": 21096
+      }
+    },
+    "307": {
+      "2": {
+        "306": 307
+      },
+      "3": {
+        "306": 614
+      },
+      "17": {
+        "306": 4912
+      }
+    },
+    "311": {
+      "2": {
+        "310": 311
+      },
+      "5": {
+        "310": 1244
+      },
+      "31": {
+        "310": 9330
+      }
+    },
+    "313": {
+      "2": {
+        "312": 313
+      },
+      "3": {
+        "312": 626
+      },
+      "13": {
+        "312": 3756
+      }
+    },
+    "317": {
+      "2": {
+        "316": 317
+      },
+      "79": {
+        "316": 24726
+      }
+    },
+    "331": {
+      "2": {
+        "330": 331
+      },
+      "3": {
+        "330": 662
+      },
+      "5": {
+        "330": 1324
+      },
+      "11": {
+        "330": 3310
+      }
+    },
+    "337": {
+      "2": {
+        "336": 337
+      },
+      "3": {
+        "336": 674
+      },
+      "7": {
+        "336": 2022
+      }
+    },
+    "343": {
+      "2": {
+        "294": 19551,
+        "336": 136857,
+        "342": 343
+      },
+      "3": {
+        "294": 39102,
+        "336": 7937706,
+        "342": 1916684
+      },
+      "7": {
+        "336": 5630688,
+        "343": 34703766,
+        "294": 19152
+      },
+      "19": {
+        "342": 203297472
+      }
+    },
+    "347": {
+      "2": {
+        "346": 347
+      },
+      "173": {
+        "346": 59684
+      }
+    },
+    "349": {
+      "2": {
+        "348": 349
+      },
+      "3": {
+        "348": 698
+      },
+      "29": {
+        "348": 9772
+      }
+    },
+    "353": {
+      "2": {
+        "352": 353
+      },
+      "11": {
+        "352": 3530
+      }
+    },
+    "359": {
+      "2": {
+        "358": 359
+      },
+      "179": {
+        "358": 63902
+      }
+    },
+    "361": {
+      "2": {
+        "342": 7220,
+        "360": 361
+      },
+      "3": {
+        "342": 14440,
+        "360": 137902
+      },
+      "5": {
+        "360": 246924
+      },
+      "19": {
+        "342": 6840,
+        "361": 123480
+      }
+    },
+    "367": {
+      "2": {
+        "366": 367
+      },
+      "3": {
+        "366": 734
+      },
+      "61": {
+        "366": 22020
+      }
+    },
+    "373": {
+      "2": {
+        "372": 373
+      },
+      "3": {
+        "372": 746
+      },
+      "31": {
+        "372": 11190
+      }
+    },
+    "379": {
+      "2": {
+        "378": 379
+      },
+      "3": {
+        "378": 758
+      },
+      "7": {
+        "378": 2274
+      }
+    },
+    "383": {
+      "2": {
+        "382": 383
+      },
+      "191": {
+        "382": 72770
+      }
+    },
+    "389": {
+      "2": {
+        "388": 389
+      },
+      "97": {
+        "388": 37344
+      }
+    },
+    "397": {
+      "2": {
+        "396": 397
+      },
+      "3": {
+        "396": 794
+      },
+      "11": {
+        "396": 3970
+      }
+    }
+  },
+  "child_orders": {
+    "1": 1,
+    "2": 2,
+    "3": 6,
+    "4": 24,
+    "5": 20,
+    "6": 72,
+    "7": 42,
+    "8": 1344,
+    "9": 1296,
+    "10": 800,
+    "11": 110,
+    "12": 82944,
+    "13": 156,
+    "14": 5376,
+    "15": 155520,
+    "16": 7962624,
+    "17": 272,
+    "18": 3359232,
+    "19": 342,
+    "20": 159252480,
+    "21": 11757312,
+    "22": 225280,
+    "23": 506,
+    "24": 14566293504,
+    "25": 64000000,
+    "26": 1277952,
+    "27": 13060694016,
+    "28": 192631799808,
+    "29": 812,
+    "30": 48372940800,
+    "31": 930,
+    "32": 147941222252544,
+    "33": 39907676160,
+    "34": 35651584,
+    "35": 53760000000,
+    "36": 3423782572130304,
+    "37": 1332,
+    "38": 179306496,
+    "39": 2037468266496,
+    "40": 87705401142804480,
+    "41": 1640,
+    "42": 421285746180096,
+    "43": 1806,
+    "44": 167384925748592640,
+    "45": 73123168801259520,
+    "46": 4244635648,
+    "47": 2162,
+    "48": 3029143697736276639744,
+    "49": 9682651996416,
+    "50": 8192000000000000,
+    "51": 4604051368968192,
+    "52": 136732180800595820544,
+    "53": 2756,
+    "54": 341163456359156416512,
+    "55": 22528000000000000,
+    "56": 332693389305246633689088,
+    "57": 208401031083589632,
+    "58": 435939180544,
+    "59": 3422,
+    "60": 78515404645324290502164480,
+    "61": 3660,
+    "62": 1997159792640,
+    "63": 257919573007522250883072,
+    "64": 96479729228174488169059713024,
+    "65": 12779520000000000000,
+    "66": 29651737441585940398080,
+    "67": 4422,
+    "68": 79097000235289655616995328,
+    "69": 399603492865123024896,
+    "70": 8808038400000000000000,
+    "71": 4970,
+    "72": 23444574202446400625081510264832,
+    "73": 5256,
+    "74": 183068686024704,
+    "75": 1819538433915500888064000000,
+    "76": 57284839229228602350379204608,
+    "77": 78910515322151546880,
+    "78": 217995260690548330397171712,
+    "79": 6162,
+    "80": 640193172888136379735559106965012480,
+    "81": 13367494538843734067838845976576,
+    "82": 3606398139105280,
+    "83": 6806,
+    "84": 1134342278211166647843943792653631488,
+    "85": 3565158400000000000000000,
+    "86": 15885743998107648,
+    "87": 29918670468872581102436352,
+    "88": 2843050939203644173208294986182819840,
+    "89": 7832,
+    "90": 10693995631074987254271076781260800,
+    "91": 197408284076463193423872,
+    "92": 28119595961926823623801467719122944,
+    "93": 1233592472041692137080750080,
+    "94": 304274449824219136,
+    "95": 1793064960000000000000000000,
+    "96": 19427586782386687222516983036651046755631104,
+    "97": 9312,
+    "98": 5450848490377160846362017792,
+    "99": 1905670021457562728711105882420674560,
+    "100": 2048618153242036415153789142288039936000000
+  },
+  "child_words": {
+    "1": [],
+    "2": [
+      2
+    ],
+    "3": [
+      3
+    ],
+    "4": [
+      4
+    ],
+    "5": [
+      5
+    ],
+    "6": [
+      3,
+      2
+    ],
+    "7": [
+      7
+    ],
+    "8": [
+      8
+    ],
+    "9": [
+      3,
+      3
+    ],
+    "10": [
+      5,
+      2
+    ],
+    "11": [
+      11
+    ],
+    "12": [
+      4,
+      3
+    ],
+    "13": [
+      13
+    ],
+    "14": [
+      2,
+      7
+    ],
+    "15": [
+      3,
+      5
+    ],
+    "16": [
+      4,
+      4
+    ],
+    "17": [
+      17
+    ],
+    "18": [
+      3,
+      3,
+      2
+    ],
+    "19": [
+      19
+    ],
+    "20": [
+      4,
+      5
+    ],
+    "21": [
+      3,
+      7
+    ],
+    "22": [
+      2,
+      11
+    ],
+    "23": [
+      23
+    ],
+    "24": [
+      8,
+      3
+    ],
+    "25": [
+      5,
+      5
+    ],
+    "26": [
+      2,
+      13
+    ],
+    "27": [
+      3,
+      3,
+      3
+    ],
+    "28": [
+      4,
+      7
+    ],
+    "29": [
+      29
+    ],
+    "30": [
+      3,
+      5,
+      2
+    ],
+    "31": [
+      31
+    ],
+    "32": [
+      4,
+      8
+    ],
+    "33": [
+      3,
+      11
+    ],
+    "34": [
+      2,
+      17
+    ],
+    "35": [
+      5,
+      7
+    ],
+    "36": [
+      4,
+      3,
+      3
+    ],
+    "37": [
+      37
+    ],
+    "38": [
+      2,
+      19
+    ],
+    "39": [
+      3,
+      13
+    ],
+    "40": [
+      8,
+      5
+    ],
+    "41": [
+      41
+    ],
+    "42": [
+      3,
+      2,
+      7
+    ],
+    "43": [
+      43
+    ],
+    "44": [
+      4,
+      11
+    ],
+    "45": [
+      3,
+      3,
+      5
+    ],
+    "46": [
+      2,
+      23
+    ],
+    "47": [
+      47
+    ],
+    "48": [
+      4,
+      4,
+      3
+    ],
+    "49": [
+      7,
+      7
+    ],
+    "50": [
+      5,
+      5,
+      2
+    ],
+    "51": [
+      3,
+      17
+    ],
+    "52": [
+      4,
+      13
+    ],
+    "53": [
+      53
+    ],
+    "54": [
+      3,
+      3,
+      3,
+      2
+    ],
+    "55": [
+      5,
+      11
+    ],
+    "56": [
+      8,
+      7
+    ],
+    "57": [
+      3,
+      19
+    ],
+    "58": [
+      2,
+      29
+    ],
+    "59": [
+      59
+    ],
+    "60": [
+      4,
+      3,
+      5
+    ],
+    "61": [
+      61
+    ],
+    "62": [
+      2,
+      31
+    ],
+    "63": [
+      3,
+      3,
+      7
+    ],
+    "64": [
+      4,
+      4,
+      4
+    ],
+    "65": [
+      5,
+      13
+    ],
+    "66": [
+      3,
+      2,
+      11
+    ],
+    "67": [
+      67
+    ],
+    "68": [
+      4,
+      17
+    ],
+    "69": [
+      3,
+      23
+    ],
+    "70": [
+      5,
+      2,
+      7
+    ],
+    "71": [
+      71
+    ],
+    "72": [
+      4,
+      3,
+      3,
+      2
+    ],
+    "73": [
+      73
+    ],
+    "74": [
+      2,
+      37
+    ],
+    "75": [
+      3,
+      5,
+      5
+    ],
+    "76": [
+      4,
+      19
+    ],
+    "77": [
+      7,
+      11
+    ],
+    "78": [
+      3,
+      2,
+      13
+    ],
+    "79": [
+      79
+    ],
+    "80": [
+      4,
+      4,
+      5
+    ],
+    "81": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "82": [
+      2,
+      41
+    ],
+    "83": [
+      83
+    ],
+    "84": [
+      4,
+      3,
+      7
+    ],
+    "85": [
+      5,
+      17
+    ],
+    "86": [
+      2,
+      43
+    ],
+    "87": [
+      3,
+      29
+    ],
+    "88": [
+      8,
+      11
+    ],
+    "89": [
+      89
+    ],
+    "90": [
+      3,
+      3,
+      5,
+      2
+    ],
+    "91": [
+      7,
+      13
+    ],
+    "92": [
+      4,
+      23
+    ],
+    "93": [
+      3,
+      31
+    ],
+    "94": [
+      2,
+      47
+    ],
+    "95": [
+      5,
+      19
+    ],
+    "96": [
+      4,
+      8,
+      3
+    ],
+    "97": [
+      97
+    ],
+    "98": [
+      2,
+      7,
+      7
+    ],
+    "99": [
+      3,
+      3,
+      11
+    ],
+    "100": [
+      4,
+      5,
+      5
+    ]
+  }
+}

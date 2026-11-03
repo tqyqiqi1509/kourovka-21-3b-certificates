@@ -1,0 +1,39 @@
+{
+  "all_pass": true,
+  "all_267_odd_prime_rows_recomputed_exactly": true,
+  "all_465_box_inventory_and_exact_strict_bounds_checked": true,
+  "all_465_interval_records_enclose_exact_fraction_results": true,
+  "selected_boxes_recomputed_with_raw_weights_and_sparse_exponential_products": [
+    {
+      "boxes": [
+        0,
+        0
+      ],
+      "every_connected_coefficient_nonnegative": true,
+      "finite_involution_exact_match": true,
+      "complete_bound": "0.0521676953097814579725042470955583112939204017"
+    },
+    {
+      "boxes": [
+        0,
+        29
+      ],
+      "every_connected_coefficient_nonnegative": true,
+      "finite_involution_exact_match": true,
+      "complete_bound": "0.997361212272769277583588248743572914534827438"
+    }
+  ],
+  "exact_worst_complete_bound": "0.997361212272769277583588248743572914534827438",
+  "exact_empty_core_bound": "0.0521676953097814579725042470955583112939204017",
+  "mathematical_scope": "N>=128 proof plus its separately audited structural, LLL, positive-model, monotonicity and tail lemmas",
+  "hashes": {
+    "prime_order_referee\\prime_atom_densities_200.json": "452c710ef17a7c0012d24571dd0c88cbeed829aa0b09401d04f45edf28a93fef",
+    "prime_order_referee\\connected_128_odd_prime_rows.json": "27448269cb99954b62d8110583dba340e818eda8586540a904e87a80f139521a",
+    "prime_order_referee\\connected_128_density_boxes.jsonl": "9ceefb9466521526cd81264abecb0dd888e2958c68a298f460c81cee031ee118",
+    "prime_order_referee\\connected_128_summary.json": "b73c72028069d7522cb55b8b80c226785520b3f9df0cff4cba53f1ac00f0a90b",
+    "analysis\\connected_128_interval_summary.json": "dfb37bf7cf9af724949e90289e6bbeb078f6a6d0ac89a5221a3227329c116691",
+    "analysis\\connected_128_interval_boxes.jsonl": "235b80fdeeb619438dc9c738e4af61c4c6a9de4761dcd75e9c046180b15ee0fa"
+  },
+  "source_sha256": "a901bc3a24a052cd27679a228c610afc1e787a317924f6ff838ae07e96f59c07",
+  "seconds": 0.9725901000019803
+}

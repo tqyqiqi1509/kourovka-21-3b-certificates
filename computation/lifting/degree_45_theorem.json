@@ -1,0 +1,117 @@
+{
+  "degree": 45,
+  "q_both_parities_proved": true,
+  "symmetric_and_alternating_statements_proved": true,
+  "method": "faithful-complement lifting for removed covers; entire residual envelope triangle checked by nauty and replayed by Traces",
+  "full_cover_count": 13263,
+  "inherited_cover_count": 13140,
+  "residual_cover_count": 123,
+  "full_unordered_pair_count": 87960216,
+  "inherited_unordered_pair_count": 87952590,
+  "exact_residual_unordered_pair_count": 7626,
+  "exact_residual_parity_witness_count": 7626,
+  "dependencies": [
+    {
+      "degree": 33,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_33_replay_audit.json",
+      "sha256": "cf7aa6bfc397b19ceb6582c7ccf4aceb6c6c3a3a3edb414140aa254f6ef40cd8",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 34,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_34_replay_audit.json",
+      "sha256": "0dbd497dfc928c8d2c3453b08e802c5ce2a9354d13a6120336d275afd4477da7",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 35,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_35_replay_audit.json",
+      "sha256": "e962be6cd29a0090c2df00be43f893b343a082ae71eb82295b059af427577b44",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 36,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_36_replay_audit.json",
+      "sha256": "ca8a8210963bc67015c20db5f0c1a46b561b9e3eee1d2d85947b084fdccb0cc4",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 37,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_37_replay_audit.json",
+      "sha256": "5964dde5181dcda1327203fc4e72ca4167a4cc71282669fe1ef2e56b4aeacdd2",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 38,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_38_replay_audit.json",
+      "sha256": "6a75d1970879b490de9d51e92f4cfec7eb932c35f4895877da569d8e24459c57",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 39,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "graph_39_replay_audit.json",
+      "sha256": "a7e1fc5b353e0b12e3fed672f56d85a1f8a7f94f457325b5e03b22adef00b397",
+      "method": "complete full-envelope certification",
+      "live_evidence_binding_audit_sha256": "e3b22f19536c86c479eb9908f42b4c980bea0c69dacb0b674a05b4ccb7c55745"
+    },
+    {
+      "degree": 40,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_40_theorem.json",
+      "sha256": "1f246f49b44e6b5a2c1c56a663e5b479f907ed45ddbe995d996e32b99c18f65e",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 41,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_41_theorem.json",
+      "sha256": "f5e660c53957216713c3d5a29b1a0ed74f862ee17314ea354b8837b2304002f6",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 42,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_42_theorem.json",
+      "sha256": "d2af0bd6f903da430c0db0068d2de2409ca507d5839b340ebe04b66e7d94920b",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 43,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_43_theorem.json",
+      "sha256": "6849c9dac4d81bfa5135c31cc969417cbad6839e9674b19c7cd6db36b27ab4c6",
+      "method": "verified faithful-complement induction"
+    },
+    {
+      "degree": 44,
+      "claim": "Q(n): both prescribed parities for every soluble subgroup pair",
+      "file": "lifting/degree_44_theorem.json",
+      "sha256": "97b2f2f0b8eba19356b9888d8adc8d8021c9434b0b1c289b8b0a06c800d3a261",
+      "method": "verified faithful-complement induction"
+    }
+  ],
+  "inheritance_partition_file": "lifting/inheritance_partition_45.json",
+  "inheritance_partition_sha256": "1ea031a8d4d8b655edd1d1be0fac215ec47b6641fc90bbc72d397f6c28a0f4da",
+  "residual_replay_audit_file": "lifting/graph_45_replay_audit.json",
+  "residual_replay_audit_sha256": "212c2375b755eb132f5277cba2ff579da58e7887dc8c860fbabffe315f62d07c",
+  "generator_audit_sha256": "0a385ec0a59de6b279fada2c14f9bae64366b3a8edb702818466601a7b2e5d64",
+  "template_sha256": "61f7cea38d957b6f4e1233b1d2616963f4808691a67f8af20790fd96362e4158",
+  "lifting_proof_sha256": "433bee9dcfd580bd09a23412683c1f2c501e3f0b2fca677bfec930703d995b2f",
+  "group_model_source_sha256": "bb33aa821b1c5e1932c19c319bf88b3ed91e322bb1415623b8c19c4935028d84",
+  "group_exporter_source_sha256": "4868790d59a8569b1264f5f5c7e89a18a982a568797e940853a03f19ff8f399f",
+  "induction_verifier_source_sha256": "b7bcbcfaa3413412a69ba14145d9b68287f38d1fdd920b29b7e544ccc9deab11",
+  "all_dependencies_strictly_smaller_and_closed": true
+}

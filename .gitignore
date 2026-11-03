@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+verification_results/
+software_referee/nauty2_9_3/

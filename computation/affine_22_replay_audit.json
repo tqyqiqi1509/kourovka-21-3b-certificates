@@ -1,0 +1,19 @@
+{
+  "degree": 22,
+  "cover_count": 315,
+  "unordered_pair_count": 49770,
+  "all_even_cover_count": 0,
+  "expected_witness_count": 49770,
+  "recorded_witness_count": 49770,
+  "coverage_exact": true,
+  "permutations_and_parities_checked": true,
+  "deterministic_gap_replay_pass": true,
+  "wall_seconds": 103.63,
+  "certificate_sha256": "5547b265b17cd33695c1cc3ed9206af3b03be197ec8cf3d892478895b8acda98",
+  "explicit_groups_sha256": "a0328fba807c89bcdaaf7bfa05e62cc05f2c0d98d869f1948142a07cfffa3eea",
+  "replay_log_sha256": "7f62cec8a8ace3f43fe2e877231c20222ea8b7ad687e16bfdd79814cc2194099",
+  "replay_program_sha256": "129a55086e541278b141dfadc813f9213e33fbfe639b91c133ab6c99b29bec8b",
+  "randomness_used_in_replay": false,
+  "core_sieve_used_in_replay": false,
+  "gap_returncode": 0
+}
